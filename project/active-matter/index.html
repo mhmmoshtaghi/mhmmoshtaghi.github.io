@@ -1,0 +1,3995 @@
+<!DOCTYPE html><html lang="en-us" >
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  
+  
+  
+    <meta name="generator" content="Wowchemy 5.3.0 for Hugo" />
+  
+
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Joshua J. Daymude" />
+
+  
+  
+  
+    
+  
+  <meta name="description" content="Harnessing phase changes from statistical physics in algorithm design. Incorporating algorithmic theory in robot design and manufacturing. Making analogies between macro-scale robot swarm dynamics and the physics of granular active matter systems." />
+
+  
+  <link rel="alternate" hreflang="en-us" href="https://jdaymude.github.io/project/active-matter/" />
+
+  
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+  
+  
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  
+
+  
+  
+  
+    <meta name="theme-color" content="#3DAAD9" />
+  
+
+  
+  
+    
+    <script src="/js/mathjax-config.js"></script>
+  
+
+  
+
+  <link rel="stylesheet" href="/css/vendor-bundle.min.f1ecf783c14edc00c9320c205831ad8e.css" media="print" onload="this.media='all'">
+
+  
+  
+  
+    
+    
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.0/css/academicons.min.css" integrity="sha512-W4yqoT1+8NLkinBLBZko+dFB2ZbHsYLDdr50VElllRcNt2Q4/GSs6u71UHKxB7S6JEMCp5Ve4xjh3eGQl/HRvg==" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+    
+    
+    
+      
+      
+    
+    
+    
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/github.min.css" crossorigin="anonymous" title="hl-light" media="print" onload="this.media='all'" disabled>
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" media="print" onload="this.media='all'">
+        
+      
+    
+
+    
+    
+    
+
+    
+
+    
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" integrity="" crossorigin="anonymous" async></script>
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+  
+
+  
+  
+  
+    
+      
+      <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400;1,700&family=Raleway:ital,wght@0,400;0,700;1,400&family=Source+Code+Pro&display=swap">
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400;1,700&family=Raleway:ital,wght@0,400;0,700;1,400&family=Source+Code+Pro&display=swap" media="print" onload="this.media='all'">
+    
+  
+
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/wowchemy.4787a1ee096667abb09ee0d8df627890.css" />
+
+  
+
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-161914201-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-161914201-1', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
+  
+
+  
+
+  
+
+
+
+
+  
+  
+  
+
+  
+
+  
+    <link rel="manifest" href="/manifest.webmanifest" />
+  
+
+  <link rel="icon" type="image/png" href="/media/icon_hu1dc8deb1865675db905a286e8af9308b_16380_32x32_fill_lanczos_center_3.png" />
+  <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu1dc8deb1865675db905a286e8af9308b_16380_180x180_fill_lanczos_center_3.png" />
+
+  <link rel="canonical" href="https://jdaymude.github.io/project/active-matter/" />
+
+  
+  
+  
+  
+  
+  
+  
+  
+    
+  
+  
+  <meta property="twitter:card" content="summary_large_image" />
+  
+  <meta property="og:site_name" content="Joshua J. Daymude" />
+  <meta property="og:url" content="https://jdaymude.github.io/project/active-matter/" />
+  <meta property="og:title" content="A Distributed, Stochastic Framework for Active Matter | Joshua J. Daymude" />
+  <meta property="og:description" content="Harnessing phase changes from statistical physics in algorithm design. Incorporating algorithmic theory in robot design and manufacturing. Making analogies between macro-scale robot swarm dynamics and the physics of granular active matter systems." /><meta property="og:image" content="https://jdaymude.github.io/project/active-matter/featured.jpg" />
+    <meta property="twitter:image" content="https://jdaymude.github.io/project/active-matter/featured.jpg" /><meta property="og:locale" content="en-us" />
+  
+    
+      <meta
+        property="article:published_time"
+        content="2021-04-23T00:00:00&#43;00:00"
+      />
+    
+    <meta property="article:modified_time" content="2021-04-23T00:00:00&#43;00:00">
+  
+
+  
+
+
+    
+
+
+
+
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://jdaymude.github.io/project/active-matter/"
+  },
+  "headline": "A Distributed, Stochastic Framework for Active Matter",
+  
+  "image": [
+    "https://jdaymude.github.io/project/active-matter/featured.jpg"
+  ],
+  
+  "datePublished": "2021-04-23T00:00:00Z",
+  "dateModified": "2021-04-23T00:00:00Z",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Andréa W. Richa"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Joshua J. Daymude",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://jdaymude.github.io/media/logo_hu1dc8deb1865675db905a286e8af9308b_16380_192x192_fit_lanczos_3.png"
+    }
+  },
+  "description": "Harnessing phase changes from statistical physics in algorithm design. Incorporating algorithmic theory in robot design and manufacturing. Making analogies between macro-scale robot swarm dynamics and the physics of granular active matter systems."
+}
+</script>
+
+  
+
+  
+
+  
+
+  
+<script id="progressbar" src="https://cdn.rawgit.com/kimmobrunfeldt/progressbar.js/1.1.0/dist/progressbar.js"></script>
+
+
+<script id="chroma" src="https://cdnjs.cloudflare.com/ajax/libs/chroma-js/2.1.0/chroma.min.js"></script>
+
+
+  <title>A Distributed, Stochastic Framework for Active Matter | Joshua J. Daymude</title>
+</head>
+
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper dark " data-wc-page-id="77844b041c3ad13a6f0fb1bc3798f267">
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <script src="/js/wowchemy-init.min.f576c78741b69f0746956feb3feacdee.js"></script>
+
+  
+
+
+<aside class="search-modal" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#" aria-label="Close"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control"
+        aria-label="Search...">
+        
+      </div>
+
+      
+      
+
+      
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+
+  <div class="page-header">
+    
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+  <div class="container-xl">
+
+    
+    <div class="d-none d-lg-inline-flex">
+      <a class="navbar-brand" href="/"><img src="/media/logo_hu1dc8deb1865675db905a286e8af9308b_16380_0x70_resize_lanczos_3.png" alt="Joshua J. Daymude"></a>
+    </div>
+    
+
+    
+    <button type="button" class="navbar-toggler" data-toggle="collapse"
+            data-target="#navbar-content" aria-controls="navbar-content" aria-expanded="false" aria-label="Toggle navigation">
+    <span><i class="fas fa-bars"></i></span>
+    </button>
+    
+
+    
+    <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+      <a class="navbar-brand" href="/"><img src="/media/logo_hu1dc8deb1865675db905a286e8af9308b_16380_0x70_resize_lanczos_3.png" alt="Joshua J. Daymude"></a>
+    </div>
+    
+
+    
+    
+    <div class="navbar-collapse main-menu-item collapse justify-content-start" id="navbar-content">
+
+      
+      <ul class="navbar-nav d-md-inline-flex">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#about"><span>About</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#projects"><span>Projects</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#publications"><span>Research</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#courses"><span>Teaching</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#press"><span>Press</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#posts"><span>Blog</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#reviews"><span>Reviews</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#contact"><span>Contact</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/uploads/jdaymude_cv.pdf"><span>CV</span></a>
+        </li>
+
+        
+        
+
+      
+
+        
+      </ul>
+    </div>
+
+    <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+
+      
+      
+        
+      
+
+      
+      
+      <li class="nav-item">
+        <a class="nav-link js-search" href="#" aria-label="Search"><i class="fas fa-search" aria-hidden="true"></i></a>
+      </li>
+      
+
+      
+      
+
+      
+      
+
+    </ul>
+
+  </div>
+</nav>
+
+
+  </div>
+
+  <div class="page-body">
+    <article class="article article-project">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+
+
+<div class="article-container pt-3">
+  <h1>A Distributed, Stochastic Framework for Active Matter</h1>
+
+  
+
+  
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+  <span >
+      <a href="/authors/aricha/">Andréa W. Richa</a></span>, <span >
+      <a href="/authors/drandall/">Dana Randall</a></span>, <span >
+      <a href="/authors/dgoldman/">Daniel I. Goldman</a></span>, <span >
+      <a href="/authors/scannon/">Sarah Cannon</a></span>, <span class="author-highlighted">
+      <a href="/authors/jdaymude/">Joshua J. Daymude</a></span>, <span >
+      <a href="/authors/ravinery/">Ram Avinery</a></span>, <span >
+      <a href="/authors/eaydin/">Enes Aydin</a></span>, <span >
+      <a href="/authors/bdutta/">Bahnisikha Dutta</a></span>, <span >
+      <a href="/authors/sli/">Shengkai Li</a></span>, <span >
+      <a href="/authors/wsavoie/">William Savoie</a></span>, <span >
+      <a href="/authors/rwarkentin/">Ross Warkentin</a></span>, <span >
+      <a href="/authors/cgokmen/">Cem Gökmen</a></span>, <span >
+      <a href="/authors/mandresarroyo/">Marta Andrés Arroyo</a></span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    April 23, 2021
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+  
+  
+  
+
+  
+  
+  <span class="middot-divider"></span>
+  <span class="article-categories">
+    <i class="fas fa-folder mr-1"></i><a href="/category/research/">research</a></span>
+  
+
+</div>
+
+  
+
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header" href="https://sops.engineering.asu.edu/emergence/" target="_blank" rel="noopener">
+    
+    SOPSLab@ASU
+  </a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header" href="http://crablab.gatech.edu/" target="_blank" rel="noopener">
+    
+    CRABLab@GaTech
+  </a>
+
+
+</div>
+
+
+</div>
+
+
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 359px;">
+  <div style="position: relative">
+    <img src="/project/active-matter/featured_huce70874bc3ec2ce33cacaa7d7d5b29bc_157090_720x0_resize_q75_lanczos.jpg" alt="" class="featured-image">
+    
+  </div>
+</div>
+
+
+
+  <div class="article-container">
+
+    <div class="article-style">
+      <p>We develop a theoretical framework for task-oriented <em>active matter</em> that combines distributed computing, stochastic processes, statistical physics, active matter physics, and robophysics. By harnessing phase changes from statistical physics in our formal modeling and algorithm design, we obtain robust and provable self-organizing behaviors. We then incorporate this theory into swarm robotics platforms, establishing tight analogies between (but not necessarily strict implementations of) the algorithms' rules and our robots' designs. This allows us to critically examine our theoretical algorithms' robustness to the errors and uncertainties of physical environments. Further, we can treat robot swarms as macro-scale active matter systems, studying the inter-robot dynamics as an analogy to particle interactions.</p>
+
+    </div>
+
+    
+
+
+
+
+
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tag/programmable-matter/">programmable-matter</a>
+  
+  <a class="badge badge-light" href="/tag/swarm-robotics/">swarm-robotics</a>
+  
+  <a class="badge badge-light" href="/tag/active-matter/">active-matter</a>
+  
+  <a class="badge badge-light" href="/tag/markov-chains/">markov-chains</a>
+  
+  <a class="badge badge-light" href="/tag/distributed-algorithms/">distributed-algorithms</a>
+  
+</div>
+
+
+
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=A%20Distributed,%20Stochastic%20Framework%20for%20Active%20Matter&amp;body=https://jdaymude.github.io/project/active-matter/" target="_blank" rel="noopener" class="share-btn-email">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=https://jdaymude.github.io/project/active-matter/&amp;text=A%20Distributed,%20Stochastic%20Framework%20for%20Active%20Matter" target="_blank" rel="noopener" class="share-btn-twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=https://jdaymude.github.io/project/active-matter/&amp;t=A%20Distributed,%20Stochastic%20Framework%20for%20Active%20Matter" target="_blank" rel="noopener" class="share-btn-facebook">
+          <i class="fab fa-facebook"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=https://jdaymude.github.io/project/active-matter/&amp;title=A%20Distributed,%20Stochastic%20Framework%20for%20Active%20Matter" target="_blank" rel="noopener" class="share-btn-linkedin">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://reddit.com/submit?url=https://jdaymude.github.io/project/active-matter/&amp;title=A%20Distributed,%20Stochastic%20Framework%20for%20Active%20Matter" target="_blank" rel="noopener" class="share-btn-reddit">
+          <i class="fab fa-reddit-alien"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+
+
+
+  
+  
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+      
+      <a href="/authors/aricha/"><img class="avatar mr-3 avatar-circle" src="/authors/aricha/avatar_hu6ab382a9532c585484a595f1742df0ff_2663233_270x270_fill_q75_lanczos_center.jpg" alt="Andréa W. Richa"></a>
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="/authors/aricha/">Andréa W. Richa</a></h5>
+      <h6 class="card-subtitle">Professor of Computer Science</h6>
+      
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://scholar.google.com/citations?user=1LUuMc8AAAAJ&amp;hl=en" target="_blank" rel="noopener">
+        <i class="ai ai-google-scholar"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://dblp.org/pers/hd/r/Richa:Andr=eacute=a_W=" target="_blank" rel="noopener">
+        <i class="ai ai-dblp"></i>
+      </a>
+    </li>
+  
+</ul>
+
+    </div>
+  </div>
+
+
+  
+    
+
+
+
+  
+  
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+      
+      <a href="/authors/drandall/"><img class="avatar mr-3 avatar-circle" src="/authors/drandall/avatar_hue22c42d355a6a31a17c165e0c2a0c6d1_79080_270x270_fill_q75_lanczos_center.jpg" alt="Dana Randall"></a>
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="/authors/drandall/">Dana Randall</a></h5>
+      <h6 class="card-subtitle">Professor of Computer Science</h6>
+      
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://scholar.google.com/citations?user=6wCEmNYAAAAJ&amp;hl=en" target="_blank" rel="noopener">
+        <i class="ai ai-google-scholar"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://dblp.org/pers/hd/r/Randall:Dana" target="_blank" rel="noopener">
+        <i class="ai ai-dblp"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://twitter.com/DataRandAlgs" target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+  
+</ul>
+
+    </div>
+  </div>
+
+
+  
+    
+
+
+
+  
+  
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+      
+      <a href="/authors/dgoldman/"><img class="avatar mr-3 avatar-circle" src="/authors/dgoldman/avatar_huc969f4b1a13eb7a3ce1456d126e9b020_78409_270x270_fill_q75_lanczos_center.jpg" alt="Daniel I. Goldman"></a>
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="/authors/dgoldman/">Daniel I. Goldman</a></h5>
+      <h6 class="card-subtitle">Professor of Physics</h6>
+      
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://scholar.google.com/citations?user=r7wE4M4AAAAJ&amp;hl=en" target="_blank" rel="noopener">
+        <i class="ai ai-google-scholar"></i>
+      </a>
+    </li>
+  
+</ul>
+
+    </div>
+  </div>
+
+
+  
+    
+
+
+
+  
+  
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+      
+      <a href="/authors/scannon/"><img class="avatar mr-3 avatar-circle" src="/authors/scannon/avatar_hu1fb21cc16f7c37516755b84a5daadb64_514185_270x270_fill_q75_lanczos_center.jpg" alt="Sarah Cannon"></a>
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="/authors/scannon/">Sarah Cannon</a></h5>
+      <h6 class="card-subtitle">Assistant Professor of Mathematics</h6>
+      
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://scholar.google.com/citations?user=DpZ-UgUAAAAJ&amp;hl=en" target="_blank" rel="noopener">
+        <i class="ai ai-google-scholar"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://dblp.org/pers/c/Cannon:Sarah" target="_blank" rel="noopener">
+        <i class="ai ai-dblp"></i>
+      </a>
+    </li>
+  
+</ul>
+
+    </div>
+  </div>
+
+
+  
+    
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+      
+      <a href="https://jdaymude.github.io/"><img class="avatar mr-3 avatar-circle" src="/authors/jdaymude/avatar_hu17e1a184a8f4c95f5ef946ea7bded1e5_114598_270x270_fill_q75_lanczos_center.jpg" alt="Joshua J. Daymude"></a>
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="https://jdaymude.github.io/">Joshua J. Daymude</a></h5>
+      <h6 class="card-subtitle">Assistant Professor, SCAI &amp; CBSS</h6>
+      <p class="card-text">I am a Christian and assistant professor in computer science studying collective emergent behavior and programmable matter through the lens of distributed computing, stochastic processes, and bio-inspired algorithms. I also love gaming and playing music.</p>
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="/uploads/jdaymude_cv.pdf" >
+        <i class="ai ai-cv"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://scholar.google.com/citations?user=CQNOJjgAAAAJ" target="_blank" rel="noopener">
+        <i class="ai ai-google-scholar"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://twitter.com/joshdaymude" target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://github.com/jdaymude" target="_blank" rel="noopener">
+        <i class="fab fa-github"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://account.xbox.com/en-us/profile?gamertag=Iltrivosk" target="_blank" rel="noopener">
+        <i class="fab fa-xbox"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://steamcommunity.com/id/iltrivosk/" target="_blank" rel="noopener">
+        <i class="fab fa-steam"></i>
+      </a>
+    </li>
+  
+</ul>
+
+    </div>
+  </div>
+
+
+  
+    
+
+
+
+  
+  
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+      
+      <a href="/authors/ravinery/"><img class="avatar mr-3 avatar-circle" src="/authors/ravinery/avatar_hua33f0c247d5a9c4f6df582adee7de75f_4309_270x270_fill_q75_lanczos_center.jpg" alt="Ram Avinery"></a>
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="/authors/ravinery/">Ram Avinery</a></h5>
+      <h6 class="card-subtitle">Postdoctoral Researcher, Physics</h6>
+      
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://scholar.google.com/citations?user=3ArznOYAAAAJ&amp;hl=en" target="_blank" rel="noopener">
+        <i class="ai ai-google-scholar"></i>
+      </a>
+    </li>
+  
+</ul>
+
+    </div>
+  </div>
+
+
+  
+    
+
+
+
+  
+  
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+      
+      <a href="/authors/eaydin/"><img class="avatar mr-3 avatar-circle" src="/authors/eaydin/avatar_hudf95aa05bf37b475d01fd821eb8cee64_68778_270x270_fill_q75_lanczos_center.jpg" alt="Enes Aydin"></a>
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="/authors/eaydin/">Enes Aydin</a></h5>
+      <h6 class="card-subtitle">Research Engineer, Physics</h6>
+      
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://scholar.google.com/citations?user=quY7wYEAAAAJ&amp;hl=en" target="_blank" rel="noopener">
+        <i class="ai ai-google-scholar"></i>
+      </a>
+    </li>
+  
+</ul>
+
+    </div>
+  </div>
+
+
+  
+    
+
+
+
+  
+  
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+      
+      <a href="/authors/bdutta/"><img class="avatar mr-3 avatar-circle" src="/authors/bdutta/avatar_hucf23d42972fe8516e786a9be522c09cf_582865_270x270_fill_q75_lanczos_center.jpg" alt="Bahnisikha Dutta"></a>
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="/authors/bdutta/">Bahnisikha Dutta</a></h5>
+      <h6 class="card-subtitle">PhD, Electrical Engineering</h6>
+      
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://scholar.google.com/citations?user=ISEKPg8AAAAJ&amp;hl=en" target="_blank" rel="noopener">
+        <i class="ai ai-google-scholar"></i>
+      </a>
+    </li>
+  
+</ul>
+
+    </div>
+  </div>
+
+
+  
+    
+
+
+
+  
+  
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+      
+      <a href="/authors/sli/"><img class="avatar mr-3 avatar-circle" src="/authors/sli/avatar_hu56bd11cc5d04471f8a20011cb7e03d22_143195_270x270_fill_lanczos_center_3.png" alt="Shengkai Li"></a>
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="/authors/sli/">Shengkai Li</a></h5>
+      <h6 class="card-subtitle">PhD Student, Physics</h6>
+      
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://scholar.google.com/citations?user=HC889kUAAAAJ&amp;hl=en" target="_blank" rel="noopener">
+        <i class="ai ai-google-scholar"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://twitter.com/shengkaili2" target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+  
+</ul>
+
+    </div>
+  </div>
+
+
+  
+    
+
+
+
+  
+  
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+      
+      <a href="/authors/wsavoie/"><img class="avatar mr-3 avatar-circle" src="/authors/wsavoie/avatar_hu60c1121596b3c373a70e9273b75e72b1_60728_270x270_fill_q75_lanczos_center.jpg" alt="William Savoie"></a>
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="/authors/wsavoie/">William Savoie</a></h5>
+      <h6 class="card-subtitle">PhD, Physics</h6>
+      
+      <ul class="network-icon" aria-hidden="true">
+  
+</ul>
+
+    </div>
+  </div>
+
+
+  
+    
+
+
+
+  
+  
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+      
+      <a href="/authors/rwarkentin/"><img class="avatar mr-3 avatar-circle" src="/authors/rwarkentin/avatar_hu52a603635ecebd45650b162dadabb4e5_12861_270x270_fill_q75_lanczos_center.jpg" alt="Ross Warkentin"></a>
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="/authors/rwarkentin/">Ross Warkentin</a></h5>
+      <h6 class="card-subtitle">Advanced Software Engineer</h6>
+      
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://www.linkedin.com/in/rossjwark" target="_blank" rel="noopener">
+        <i class="fab fa-linkedin"></i>
+      </a>
+    </li>
+  
+</ul>
+
+    </div>
+  </div>
+
+
+  
+    
+
+
+
+  
+  
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+      
+      <a href="/authors/cgokmen/"><img class="avatar mr-3 avatar-circle" src="/authors/cgokmen/avatar_huab756544a4e14b409c92f6489d4bf3ab_379488_270x270_fill_q75_lanczos_center.jpg" alt="Cem Gökmen"></a>
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="/authors/cgokmen/">Cem Gökmen</a></h5>
+      <h6 class="card-subtitle">Master&rsquo;s Student, Computer Science</h6>
+      
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://scholar.google.com/citations?user=wCiI8oUAAAAJ&amp;hl=en&amp;oi=ao" target="_blank" rel="noopener">
+        <i class="ai ai-google-scholar"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://dblp.org/pers/hd/g/G=ouml=kmen:Cem" target="_blank" rel="noopener">
+        <i class="ai ai-dblp"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://github.com/skyman" target="_blank" rel="noopener">
+        <i class="fab fa-github"></i>
+      </a>
+    </li>
+  
+</ul>
+
+    </div>
+  </div>
+
+
+  
+    
+
+
+
+  
+  
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+      
+      <a href="/authors/mandresarroyo/"><img class="avatar mr-3 avatar-circle" src="/authors/mandresarroyo/avatar_hueef835ccb4667440fb3306915b732471_87217_270x270_fill_q75_lanczos_center.jpg" alt="Marta Andrés Arroyo"></a>
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="/authors/mandresarroyo/">Marta Andrés Arroyo</a></h5>
+      
+      
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://dblp.org/pers/hd/a/Arroyo:Marta_Andr=eacute=s" target="_blank" rel="noopener">
+        <i class="ai ai-dblp"></i>
+      </a>
+    </li>
+  
+</ul>
+
+    </div>
+  </div>
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  <div class="article-widget content-widget-hr">
+    <h3>Related</h3>
+    <ul>
+      
+      <li><a href="/event/2021sfi-analogcollectives/">Algorithmic Foundations of Emergent Behavior in Analog Collectives</a></li>
+      
+      <li><a href="/event/2021asu-dissertationdefense/">Collaborating in Motion: Distributed and Stochastic Algorithms for Emergent Behavior in Programmable Matter</a></li>
+      
+      <li><a href="/publication/daymude2021-phdthesis/">Collaborating in Motion: Distributed and Stochastic Algorithms for Emergent Behavior in Programmable Matter</a></li>
+      
+      <li><a href="/event/2018wssr-sops/">Self-Organizing Particle Systems: an Algorithmic Approach to Programmable Matter</a></li>
+      
+      <li><a href="/publication/li2021-bobbots/">Programming Active Cohesive Granular Matter with Mechanically Induced Phase Changes</a></li>
+      
+    </ul>
+  </div>
+  
+
+
+
+
+
+    <div class="project-related-pages content-widget-hr">
+      
+      
+
+      
+      
+      
+
+      
+      
+      
+        <h2>Publications</h2>
+        
+          
+            
+
+<div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  <span >
+      <a href="/authors/sli/">Shengkai Li</a></span>, <span >
+      <a href="/authors/bdutta/">Bahnisikha Dutta</a></span>, <span >
+      <a href="/authors/scannon/">Sarah Cannon</a></span>, <span class="author-highlighted">
+      <a href="/authors/jdaymude/">Joshua J. Daymude</a></span>, <span >
+      <a href="/authors/ravinery/">Ram Avinery</a></span>, <span >
+      <a href="/authors/eaydin/">Enes Aydin</a></span>, <span >
+      <a href="/authors/aricha/">Andréa W. Richa</a></span>, <span >
+      <a href="/authors/dgoldman/">Daniel I. Goldman</a></span>, <span >
+      <a href="/authors/drandall/">Dana Randall</a></span>
+  </span>
+  (2021).
+  <a href="/publication/li2021-bobbots/">Programming Active Cohesive Granular Matter with Mechanically Induced Phase Changes</a>.
+  Science Advances.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/publication/li2021-bobbots/cite.bib">
+  Cite
+</a>
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/active-matter/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.youtube.com/watch?v=hsLJShwjknI" target="_blank" rel="noopener">
+  Video
+</a>
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1126/sciadv.abe8494" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://arxiv.org/abs/2009.05710" target="_blank" rel="noopener">
+    
+    arXiv
+  </a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+    
+      
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/event/2021sfi-analogcollectives" >
+    
+    Talk
+  </a>
+
+</p>
+
+  
+  
+</div>
+
+          
+        
+          
+            
+
+<div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  <span class="author-highlighted">
+      <a href="/authors/jdaymude/">Joshua J. Daymude</a></span>
+  </span>
+  (2021).
+  <a href="/publication/daymude2021-phdthesis/">Collaborating in Motion: Distributed and Stochastic Algorithms for Emergent Behavior in Programmable Matter</a>.
+  PhD Dissertation.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/daymude2021-phdthesis/daymude2021-phdthesis.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/publication/daymude2021-phdthesis/cite.bib">
+  Cite
+</a>
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/sops/">
+    Project
+  </a>
+  
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/active-matter/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="http://login.ezproxy1.lib.asu.edu/login?url=https://www.proquest.com/dissertations-theses/collaborating-motion-distributed-stochastic/docview/2531565717/se-2?accountid=4485" target="_blank" rel="noopener">
+    
+    ProQuest
+  </a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+    
+      
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/event/2021asu-dissertationdefense" >
+    
+    Defense
+  </a>
+
+</p>
+
+  
+  
+</div>
+
+          
+        
+          
+            
+
+<div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  <span >
+      <a href="/authors/scannon/">Sarah Cannon</a></span>, <span class="author-highlighted">
+      <a href="/authors/jdaymude/">Joshua J. Daymude</a></span>, <span >
+      <a href="/authors/cgokmen/">Cem Gökmen</a></span>, <span >
+      <a href="/authors/drandall/">Dana Randall</a></span>, <span >
+      <a href="/authors/aricha/">Andréa W. Richa</a></span>
+  </span>
+  (2019).
+  <a href="/publication/cannon2019-separation/">A Local Stochastic Algorithm for Separation in Heterogeneous Self-Organizing Particle Systems</a>.
+  APPROX/RANDOM 2019.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/publication/cannon2019-separation/cite.bib">
+  Cite
+</a>
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/active-matter/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.4230/LIPIcs.APPROX-RANDOM.2019.54" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://arxiv.org/abs/1805.04599" target="_blank" rel="noopener">
+    
+    arXiv
+  </a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+    
+      
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/event/2019random-separation" >
+    
+    Talk
+  </a>
+
+</p>
+
+  
+  
+</div>
+
+          
+        
+          
+            
+
+<div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  <span class="author-highlighted">
+      <a href="/authors/jdaymude/">Joshua J. Daymude</a></span>, <span >
+      <a href="/authors/khinnenthal/">Kristian Hinnenthal</a></span>, <span >
+      <a href="/authors/aricha/">Andréa W. Richa</a></span>, <span >
+      <a href="/authors/cscheideler/">Christian Scheideler</a></span>
+  </span>
+  (2019).
+  <a href="/publication/daymude2019-computingparticles/">Computing by Programmable Particles</a>.
+  Distributed Computing by Mobile Entities.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/daymude2019-computingparticles/daymude2019-computingparticles.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/publication/daymude2019-computingparticles/cite.bib">
+  Cite
+</a>
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/sops/">
+    Project
+  </a>
+  
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/active-matter/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1007/978-3-030-11072-7_22" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+    
+      
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/event/2018wssr-sops" >
+    
+    Talk
+  </a>
+
+</p>
+
+  
+  
+</div>
+
+          
+        
+          
+            
+
+<div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  <span >
+      <a href="/authors/mandresarroyo/">Marta Andrés Arroyo</a></span>, <span >
+      <a href="/authors/scannon/">Sarah Cannon</a></span>, <span class="author-highlighted">
+      <a href="/authors/jdaymude/">Joshua J. Daymude</a></span>, <span >
+      <a href="/authors/drandall/">Dana Randall</a></span>, <span >
+      <a href="/authors/aricha/">Andréa W. Richa</a></span>
+  </span>
+  (2018).
+  <a href="/publication/andresarroyo2018-bridging/">A Stochastic Approach to Shortcut Bridging in Programmable Matter</a>.
+  Natural Computing.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/publication/andresarroyo2018-bridging/cite.bib">
+  Cite
+</a>
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/active-matter/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1007/s11047-018-9714-x" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://arxiv.org/abs/1709.02425" target="_blank" rel="noopener">
+    
+    arXiv
+  </a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+    
+      
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/andresarroyo2017-bridging" >
+    
+    Conference Version
+  </a>
+
+</p>
+
+  
+  
+</div>
+
+          
+        
+          
+            
+
+<div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  <span >
+      <a href="/authors/wsavoie/">William Savoie</a></span>, <span >
+      <a href="/authors/scannon/">Sarah Cannon</a></span>, <span class="author-highlighted">
+      <a href="/authors/jdaymude/">Joshua J. Daymude</a></span>, <span >
+      <a href="/authors/rwarkentin/">Ross Warkentin</a></span>, <span >
+      <a href="/authors/sli/">Shengkai Li</a></span>, <span >
+      <a href="/authors/aricha/">Andréa W. Richa</a></span>, <span >
+      <a href="/authors/drandall/">Dana Randall</a></span>, <span >
+      <a href="/authors/dgoldman/">Daniel I. Goldman</a></span>
+  </span>
+  (2018).
+  <a href="/publication/savoie2018-supersmarticles/">Phototactic Supersmarticles</a>.
+  Artificial Life and Robotics.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/publication/savoie2018-supersmarticles/cite.bib">
+  Cite
+</a>
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/active-matter/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1007/s10015-018-0473-7" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://arxiv.org/abs/1711.01327" target="_blank" rel="noopener">
+    
+    arXiv
+  </a>
+
+</p>
+
+  
+  
+</div>
+
+          
+        
+          
+            
+
+<div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  <span >
+      <a href="/authors/scannon/">Sarah Cannon</a></span>, <span class="author-highlighted">
+      <a href="/authors/jdaymude/">Joshua J. Daymude</a></span>, <span >
+      <a href="/authors/cgokmen/">Cem Gökmen</a></span>, <span >
+      <a href="/authors/drandall/">Dana Randall</a></span>, <span >
+      <a href="/authors/aricha/">Andréa W. Richa</a></span>
+  </span>
+  (2018).
+  <a href="/publication/cannon2018-separationba/">Brief Announcement: A Local Stochastic Algorithm for Separation in Heterogeneous Self-Organizing Particle Systems</a>.
+  PODC 2018.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/publication/cannon2018-separationba/cite.bib">
+  Cite
+</a>
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/active-matter/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1145/3212734.3212792" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://arxiv.org/abs/1805.04599v1" target="_blank" rel="noopener">
+    
+    arXiv
+  </a>
+
+</p>
+
+  
+  
+</div>
+
+          
+        
+          
+            
+
+<div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  <span >
+      <a href="/authors/mandresarroyo/">Marta Andrés Arroyo</a></span>, <span >
+      <a href="/authors/scannon/">Sarah Cannon</a></span>, <span class="author-highlighted">
+      <a href="/authors/jdaymude/">Joshua J. Daymude</a></span>, <span >
+      <a href="/authors/drandall/">Dana Randall</a></span>, <span >
+      <a href="/authors/aricha/">Andréa W. Richa</a></span>
+  </span>
+  (2017).
+  <a href="/publication/andresarroyo2017-bridging/">A Stochastic Approach to Shortcut Bridging in Programmable Matter</a>.
+  DNA 2017.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/publication/andresarroyo2017-bridging/cite.bib">
+  Cite
+</a>
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/active-matter/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1007/978-3-319-66799-7_9" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://arxiv.org/abs/1709.02425v1" target="_blank" rel="noopener">
+    
+    arXiv
+  </a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+    
+      
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/andresarroyo2018-bridging" >
+    
+    Journal Version
+  </a>
+
+</p>
+
+  
+  
+</div>
+
+          
+        
+          
+            
+
+<div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  <span >
+      <a href="/authors/scannon/">Sarah Cannon</a></span>, <span class="author-highlighted">
+      <a href="/authors/jdaymude/">Joshua J. Daymude</a></span>, <span >
+      <a href="/authors/drandall/">Dana Randall</a></span>, <span >
+      <a href="/authors/aricha/">Andréa W. Richa</a></span>
+  </span>
+  (2016).
+  <a href="/publication/cannon2016-compression/">A Markov Chain Algorithm for Compression in Self-Organizing Particle Systems</a>.
+  PODC 2016.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/publication/cannon2016-compression/cite.bib">
+  Cite
+</a>
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/active-matter/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1145/2933057.2933107" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://arxiv.org/abs/1603.07991v3" target="_blank" rel="noopener">
+    
+    arXiv
+  </a>
+
+</p>
+
+  
+  
+</div>
+
+          
+        
+          
+            
+
+<div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  <span class="author-highlighted">
+      <a href="/authors/jdaymude/">Joshua J. Daymude</a></span>
+  </span>
+  (2016).
+  <a href="/publication/daymude2016-undergradthesis/">Compression in Self-Organizing Particle Systems</a>.
+  Undergraduate Honors Thesis.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/daymude2016-undergradthesis/daymude2016-undergradthesis.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/publication/daymude2016-undergradthesis/cite.bib">
+  Cite
+</a>
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/sops/">
+    Project
+  </a>
+  
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/active-matter/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="http://hdl.handle.net/2286/R.I.37219" target="_blank" rel="noopener">
+    
+    ASU Digital Repository
+  </a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+    
+      
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/event/2016asu-undergradthesis" >
+    
+    Defense
+  </a>
+
+</p>
+
+  
+  
+</div>
+
+          
+        
+      
+
+      
+      
+      
+        <h2>Events</h2>
+        
+          
+            
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+<div class="view-list-item">
+  <i class="far fa-calendar-alt pub-icon" aria-hidden="true"></i>
+  <a href="/event/2021sfi-analogcollectives/" >Algorithmic Foundations of Emergent Behavior in Analog Collectives</a>
+
+  
+  <div class="article-metadata">
+    <span>
+      July 14, 2021 12:15 PM
+    </span>
+    
+    <span class="middot-divider"></span>
+    <span>Santa Fe Institute</span>
+    
+  </div>
+  
+
+  
+
+  
+  <div class="btn-links">
+    
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/sops/">
+    Project
+  </a>
+  
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/active-matter/">
+    Project
+  </a>
+  
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/event/2021sfi-analogcollectives/slides.pdf" target="_blank" rel="noopener">
+  Slides
+</a>
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.youtube.com/watch?v=UConhud9MqA" target="_blank" rel="noopener">
+  Video
+</a>
+
+
+
+
+
+  </div>
+  
+
+</div>
+
+          
+        
+          
+            
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+<div class="view-list-item">
+  <i class="far fa-calendar-alt pub-icon" aria-hidden="true"></i>
+  <a href="/event/2021asu-dissertationdefense/" >Collaborating in Motion: Distributed and Stochastic Algorithms for Emergent Behavior in Programmable Matter</a>
+
+  
+  <div class="article-metadata">
+    <span>
+      March 15, 2021 9:00 AM
+    </span>
+    
+    <span class="middot-divider"></span>
+    <span>Arizona State University (Virtual Event)</span>
+    
+  </div>
+  
+
+  
+
+  
+  <div class="btn-links">
+    
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/sops/">
+    Project
+  </a>
+  
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/active-matter/">
+    Project
+  </a>
+  
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/event/2021asu-dissertationdefense/slides.pdf" target="_blank" rel="noopener">
+  Slides
+</a>
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://asu.zoom.us/rec/play/KG7qYCU3MNpAFq-_LpalD-o51Us_P68iWfsnoByKCEOUOO8JgWzKV3LQK-KvmOVGLwvqtHsupr-9ubsU.z2udAG6dHupcTI03" target="_blank" rel="noopener">
+  Video
+</a>
+
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+    
+      
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/daymude2021-collaboratingmotion" >
+    
+    Dissertation
+  </a>
+
+
+  </div>
+  
+
+</div>
+
+          
+        
+          
+            
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+<div class="view-list-item">
+  <i class="far fa-calendar-alt pub-icon" aria-hidden="true"></i>
+  <a href="/event/2019random-separation/" >A Local Stochastic Algorithm for Separation in Heterogeneous Self-Organizing Particle Systems</a>
+
+  
+  <div class="article-metadata">
+    <span>
+      September 21, 2019 9:00 AM
+    </span>
+    
+    <span class="middot-divider"></span>
+    <span>Massachusetts Institute of Technology (MIT)</span>
+    
+  </div>
+  
+
+  
+
+  
+  <div class="btn-links">
+    
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/active-matter/">
+    Project
+  </a>
+  
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/event/2019random-separation/slides.pdf" target="_blank" rel="noopener">
+  Slides
+</a>
+
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+    
+      
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/cannon2019-separation" >
+    
+    Paper
+  </a>
+
+
+  </div>
+  
+
+</div>
+
+          
+        
+          
+            
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+<div class="view-list-item">
+  <i class="far fa-calendar-alt pub-icon" aria-hidden="true"></i>
+  <a href="/event/2019discretemath-stochastic/" >Stochastic Algorithms for Programmable Matter</a>
+
+  
+  <div class="article-metadata">
+    <span>
+      April 3, 2019 1:00 PM
+    </span>
+    
+    <span class="middot-divider"></span>
+    <span>Arizona State University</span>
+    
+  </div>
+  
+
+  
+
+  
+  <div class="btn-links">
+    
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/active-matter/">
+    Project
+  </a>
+  
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/event/2019discretemath-stochastic/slides.pdf" target="_blank" rel="noopener">
+  Slides
+</a>
+
+
+
+
+
+
+
+  </div>
+  
+
+</div>
+
+          
+        
+          
+            
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+<div class="view-list-item">
+  <i class="far fa-calendar-alt pub-icon" aria-hidden="true"></i>
+  <a href="/event/2018wssr-sops/" >Self-Organizing Particle Systems: an Algorithmic Approach to Programmable Matter</a>
+
+  
+  <div class="article-metadata">
+    <span>
+      November 4, 2018 4:00 PM
+    </span>
+    
+    <span class="middot-divider"></span>
+    <span>Campus Innovation Center, Tokyo Tech</span>
+    
+  </div>
+  
+
+  
+
+  
+  <div class="btn-links">
+    
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/sops/">
+    Project
+  </a>
+  
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/active-matter/">
+    Project
+  </a>
+  
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/event/2018wssr-sops/slides.pdf" target="_blank" rel="noopener">
+  Slides
+</a>
+
+
+
+
+
+
+
+  </div>
+  
+
+</div>
+
+          
+        
+          
+            
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+<div class="view-list-item">
+  <i class="far fa-calendar-alt pub-icon" aria-hidden="true"></i>
+  <a href="/event/2017acoseminar-bridging/" >A Stochastic Approach to Shortcut Bridging in Programmable Matter</a>
+
+  
+  <div class="article-metadata">
+    <span>
+      October 6, 2017 1:00 PM
+    </span>
+    
+    <span class="middot-divider"></span>
+    <span>Georgia Institute of Technology</span>
+    
+  </div>
+  
+
+  
+
+  
+  <div class="btn-links">
+    
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/active-matter/">
+    Project
+  </a>
+  
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/event/2017acoseminar-bridging/slides.pdf" target="_blank" rel="noopener">
+  Slides
+</a>
+
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+    
+      
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/andresarroyo2018-bridging" >
+    
+    Paper
+  </a>
+
+
+  </div>
+  
+
+</div>
+
+          
+        
+          
+            
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+<div class="view-list-item">
+  <i class="far fa-calendar-alt pub-icon" aria-hidden="true"></i>
+  <a href="/event/2017bda-compression/" >Local Stochastic Algorithms for Compression and Shortcut Bridging in Programmable Matter</a>
+
+  
+  <div class="article-metadata">
+    <span>
+      July 28, 2017 2:05 PM
+    </span>
+    
+    <span class="middot-divider"></span>
+    <span>George Washington University</span>
+    
+  </div>
+  
+
+  
+
+  
+  <div class="btn-links">
+    
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/active-matter/">
+    Project
+  </a>
+  
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/event/2017bda-compression/slides.pdf" target="_blank" rel="noopener">
+  Slides
+</a>
+
+
+
+
+
+
+
+  </div>
+  
+
+</div>
+
+          
+        
+          
+            
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+<div class="view-list-item">
+  <i class="far fa-calendar-alt pub-icon" aria-hidden="true"></i>
+  <a href="/event/2016asu-undergradthesis/" >Compression in Self-Organizing Particle Systems</a>
+
+  
+  <div class="article-metadata">
+    <span>
+      April 6, 2016 11:00 AM
+    </span>
+    
+    <span class="middot-divider"></span>
+    <span>Arizona State University</span>
+    
+  </div>
+  
+
+  
+
+  
+  <div class="btn-links">
+    
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/sops/">
+    Project
+  </a>
+  
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/active-matter/">
+    Project
+  </a>
+  
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/event/2016asu-undergradthesis/slides.pdf" target="_blank" rel="noopener">
+  Slides
+</a>
+
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+    
+      
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/publication/daymude2016-undergradthesis" >
+    
+    Thesis
+  </a>
+
+
+  </div>
+  
+
+</div>
+
+          
+        
+      
+    </div>
+  </div>
+</article>
+  </div>
+
+  <div class="page-footer">
+    
+    
+    <div class="container">
+      <footer class="site-footer">
+
+  
+
+
+
+  
+
+  
+
+  
+  <p class="powered-by">
+    © 2023 Joshua J. Daymude
+  </p>
+  
+
+  
+  
+
+
+
+
+
+
+  <p class="powered-by">
+    
+    
+    
+      
+      
+      
+      
+      
+      
+      Published with <a href="https://wowchemy.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Wowchemy</a> — the free, <a href="https://github.com/wowchemy/wowchemy-hugo-modules" target="_blank" rel="noopener">open source</a> website builder that empowers creators.
+    
+  </p>
+</footer>
+
+    </div>
+    
+  </div>
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+      
+
+    
+    <script src="/js/vendor-bundle.min.b73dfaac3b6499dc997741748a7c3fe2.js"></script>
+
+    
+    
+    
+      
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      
+
+      
+      
+
+      
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/highlight.min.js" integrity="sha512-TDKKr+IvoqZnPzc3l35hdjpHD0m+b2EC2SrLEgKDRWpxf2rFCxemkgvJ5kfU48ip+Y+m2XVKyOCD85ybtlZDmw==" crossorigin="anonymous"></script>
+        
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/languages/r.min.js" crossorigin="anonymous"></script>
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/languages/python.min.js" crossorigin="anonymous"></script>
+        
+      
+
+    
+
+    
+    
+    
+
+    
+    
+
+    
+    
+    
+      
+      <script id="search-hit-fuse-template" type="text/x-template">
+        <div class="search-hit" id="summary-{{key}}">
+          <div class="search-hit-content">
+            <div class="search-hit-name">
+              <a href="{{relpermalink}}">{{title}}</a>
+              <div class="article-metadata search-hit-type">{{type}}</div>
+              <p class="search-hit-description">{{snippet}}</p>
+            </div>
+          </div>
+        </div>
+      </script>
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+      
+    
+
+    
+    
+
+    
+    
+    
+    
+
+    
+    
+      
+      
+      
+      
+      
+      
+      
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+      
+      
+    
+    
+    <script src="/en/js/wowchemy.min.d68ecd57c0ec1f1f61d65fd568f1c3a0.js"></script>
+
+    
+
+
+
+
+
+
+</body>
+</html>
