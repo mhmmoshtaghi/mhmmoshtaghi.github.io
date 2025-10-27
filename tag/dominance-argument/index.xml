@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>dominance-argument | Joshua J. Daymude</title>
-    <link>https://jdaymude.github.io/tag/dominance-argument/</link>
-      <atom:link href="https://jdaymude.github.io/tag/dominance-argument/index.xml" rel="self" type="application/rss+xml" />
+    <title>dominance-argument | Mohammad Moshtaghi</title>
+    <link>https://mhmmoshtaghi.github.io/tag/dominance-argument/</link>
+      <atom:link href="https://mhmmoshtaghi.github.io/tag/dominance-argument/index.xml" rel="self" type="application/rss+xml" />
     <description>dominance-argument</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Joshua J. Daymude</copyright><lastBuildDate>Mon, 11 Dec 2017 09:05:00 -0700</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Mohammad Moshtaghi</copyright><lastBuildDate>Mon, 11 Dec 2017 09:05:00 -0700</lastBuildDate>
     <image>
-      <url>https://jdaymude.github.io/media/logo_hu1dc8deb1865675db905a286e8af9308b_16380_300x300_fit_lanczos_3.png</url>
+      <url>https://mhmmoshtaghi.github.io/media/logo_hu1dc8deb1865675db905a286e8af9308b_16380_300x300_fit_lanczos_3.png</url>
       <title>dominance-argument</title>
-      <link>https://jdaymude.github.io/tag/dominance-argument/</link>
+      <link>https://mhmmoshtaghi.github.io/tag/dominance-argument/</link>
     </image>
-    
+
     <item>
       <title>On Your Marks, Get Set, Coat!</title>
-      <link>https://jdaymude.github.io/post/on-your-marks-get-set-coat/</link>
+      <link>https://mhmmoshtaghi.github.io/post/on-your-marks-get-set-coat/</link>
       <pubDate>Mon, 11 Dec 2017 09:05:00 -0700</pubDate>
-      <guid>https://jdaymude.github.io/post/on-your-marks-get-set-coat/</guid>
+      <guid>https://mhmmoshtaghi.github.io/post/on-your-marks-get-set-coat/</guid>
       <description>&lt;p&gt;My first journal paper was &lt;a href=&#34;http://rdcu.be/zOaK&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;published&lt;/a&gt; early last week, marking a milestone in the winding forest path that is my PhD. The paper has some nice ideas and results I&amp;rsquo;m proud of, but — regrettably — the writing style and level of mathematical rigor needed for publication can make it pretty hard to decipher for anyone not familiar with our niche of computer science. I&amp;rsquo;m of the opinion that ideas are only useful if people can understand them, so to that end I&amp;rsquo;m going to explain this paper in a way that&amp;rsquo;s a bit less formal and academic. With a little effort, I think we&amp;rsquo;ll both learn something new here. (And if it&amp;rsquo;s still all Greek to you, I&amp;rsquo;ll happily answer questions you leave in the comments).&lt;/p&gt;
 &lt;h2 id=&#34;the-nickel-version-tldr&#34;&gt;The Nickel Version (TL;DR)&lt;/h2&gt;
 &lt;p&gt;The paper (whose title is mathy and unimportant) is all about programming futuristic, sci-fi materials that don&amp;rsquo;t exist yet to coat other objects in even layers as (relatively) fast as possible.&lt;/p&gt;
@@ -43,7 +43,7 @@
                /post/on-your-marks-get-set-coat/featured_hu6c163cf7af4fbe950083c652bb55d01a_505426_463e832ee3e11f196d1a814633b6e635.png 400w,
                /post/on-your-marks-get-set-coat/featured_hu6c163cf7af4fbe950083c652bb55d01a_505426_43f7aed6ae179137eb8905b6c4b365d3.png 760w,
                /post/on-your-marks-get-set-coat/featured_hu6c163cf7af4fbe950083c652bb55d01a_505426_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://jdaymude.github.io/post/on-your-marks-get-set-coat/featured_hu6c163cf7af4fbe950083c652bb55d01a_505426_463e832ee3e11f196d1a814633b6e635.png&#34;
+               src=&#34;https://mhmmoshtaghi.github.io/post/on-your-marks-get-set-coat/featured_hu6c163cf7af4fbe950083c652bb55d01a_505426_463e832ee3e11f196d1a814633b6e635.png&#34;
                width=&#34;760&#34;
                height=&#34;317&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -69,7 +69,7 @@
                /post/on-your-marks-get-set-coat/artificialcells_hu20929dbf7529e69106953818f1a68422_348174_01705d0dc4cb7b8051eef406ca66d3cb.png 400w,
                /post/on-your-marks-get-set-coat/artificialcells_hu20929dbf7529e69106953818f1a68422_348174_ba5b21ab1a072095349a7a938d122ae6.png 760w,
                /post/on-your-marks-get-set-coat/artificialcells_hu20929dbf7529e69106953818f1a68422_348174_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://jdaymude.github.io/post/on-your-marks-get-set-coat/artificialcells_hu20929dbf7529e69106953818f1a68422_348174_01705d0dc4cb7b8051eef406ca66d3cb.png&#34;
+               src=&#34;https://mhmmoshtaghi.github.io/post/on-your-marks-get-set-coat/artificialcells_hu20929dbf7529e69106953818f1a68422_348174_01705d0dc4cb7b8051eef406ca66d3cb.png&#34;
                width=&#34;760&#34;
                height=&#34;317&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -95,7 +95,7 @@
                /post/on-your-marks-get-set-coat/newpaint_hu9d7b855bc80a92d321e5cedaf16add02_541206_6ec75bda627dc562e11886e0a53097b5.png 400w,
                /post/on-your-marks-get-set-coat/newpaint_hu9d7b855bc80a92d321e5cedaf16add02_541206_9ada2ea019ee7f5cac346ca2d97982e1.png 760w,
                /post/on-your-marks-get-set-coat/newpaint_hu9d7b855bc80a92d321e5cedaf16add02_541206_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://jdaymude.github.io/post/on-your-marks-get-set-coat/newpaint_hu9d7b855bc80a92d321e5cedaf16add02_541206_6ec75bda627dc562e11886e0a53097b5.png&#34;
+               src=&#34;https://mhmmoshtaghi.github.io/post/on-your-marks-get-set-coat/newpaint_hu9d7b855bc80a92d321e5cedaf16add02_541206_6ec75bda627dc562e11886e0a53097b5.png&#34;
                width=&#34;760&#34;
                height=&#34;317&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -129,6 +129,6 @@
 &lt;p&gt;Thanks for reading, and feel free to comment with your thoughts, ideas, and questions!&lt;/p&gt;
 </description>
     </item>
-    
+
   </channel>
 </rss>

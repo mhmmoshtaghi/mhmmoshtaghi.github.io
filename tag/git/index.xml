@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>git | Joshua J. Daymude</title>
-    <link>https://jdaymude.github.io/tag/git/</link>
-      <atom:link href="https://jdaymude.github.io/tag/git/index.xml" rel="self" type="application/rss+xml" />
+    <title>git | Mohammad Moshtaghi</title>
+    <link>https://mhmmoshtaghi.github.io/tag/git/</link>
+      <atom:link href="https://mhmmoshtaghi.github.io/tag/git/index.xml" rel="self" type="application/rss+xml" />
     <description>git</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Joshua J. Daymude</copyright><lastBuildDate>Tue, 22 Jan 2019 12:40:00 -0700</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Mohammad Moshtaghi</copyright><lastBuildDate>Tue, 22 Jan 2019 12:40:00 -0700</lastBuildDate>
     <image>
-      <url>https://jdaymude.github.io/media/logo_hu1dc8deb1865675db905a286e8af9308b_16380_300x300_fit_lanczos_3.png</url>
+      <url>https://mhmmoshtaghi.github.io/media/logo_hu1dc8deb1865675db905a286e8af9308b_16380_300x300_fit_lanczos_3.png</url>
       <title>git</title>
-      <link>https://jdaymude.github.io/tag/git/</link>
+      <link>https://mhmmoshtaghi.github.io/tag/git/</link>
     </image>
-    
+
     <item>
       <title>Git Going With GitKraken</title>
-      <link>https://jdaymude.github.io/post/git-going-with-gitkraken/</link>
+      <link>https://mhmmoshtaghi.github.io/post/git-going-with-gitkraken/</link>
       <pubDate>Tue, 22 Jan 2019 12:40:00 -0700</pubDate>
-      <guid>https://jdaymude.github.io/post/git-going-with-gitkraken/</guid>
+      <guid>https://mhmmoshtaghi.github.io/post/git-going-with-gitkraken/</guid>
       <description>&lt;p&gt;Our team over at the &lt;a href=&#34;https://sops.engineering.asu.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SOPS Lab&lt;/a&gt; has been writing a lot of code lately as part of an ongoing effort to make our AmoebotSim simulator publicly available through an open source release. There&amp;rsquo;s a lot of diversity in coding/software engineering experience among our team members — from finishing a first course in C++ to completing several internships in big tech — so I&amp;rsquo;ve been spending some time thinking about how to make on-boarding easier, forming new students into conceptual thinkers and proficient programmers as quickly as possible. This tutorial on the basics of Git is meant to help with that.&lt;/p&gt;
 &lt;h2 id=&#34;necessary-disclaimers&#34;&gt;Necessary Disclaimers&lt;/h2&gt;
 &lt;p&gt;We have to get two things out of the way up front. First, this is not really the &amp;ldquo;accessible to anyone, technical or not&amp;rdquo; kind of post that I usually aim for. While it is meant to be simpler than the average Git tutorial, it&amp;rsquo;s still going to talk about software skills that are, by nature, technical. Speaking of other Git tutorials: yes, I do know how many Git tutorials already exist. Many of them are ones I&amp;rsquo;ve learned from and am inspired by. Some are far more &lt;a href=&#34;https://jwiegley.github.io/git-from-the-bottom-up/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;complete&lt;/a&gt;, more &lt;a href=&#34;https://chris.beams.io/posts/git-commit/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;specific&lt;/a&gt;, more &lt;a href=&#34;https://www.atlassian.com/git/tutorials&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;polished&lt;/a&gt;, and even more &lt;a href=&#34;https://www.youtube.com/watch?v=1ffBJ4sVUb4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;craftsy&lt;/a&gt; than what I intend to do here. The point of this tutorial is to distill all that wonderful material into something that gets students (and other newcomers) acquainted with basic Git concepts and comfortable with a great Git client all in one sitting.&lt;/p&gt;
@@ -43,7 +43,7 @@
                /post/git-going-with-gitkraken/overview1_hub13eecc48a7da159c36df9e38fb25fc7_21091_7360b822a929d24f70068d4ba74e6029.png 400w,
                /post/git-going-with-gitkraken/overview1_hub13eecc48a7da159c36df9e38fb25fc7_21091_d485b9b5f2f65f943f1826f85f9c9afd.png 760w,
                /post/git-going-with-gitkraken/overview1_hub13eecc48a7da159c36df9e38fb25fc7_21091_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://jdaymude.github.io/post/git-going-with-gitkraken/overview1_hub13eecc48a7da159c36df9e38fb25fc7_21091_7360b822a929d24f70068d4ba74e6029.png&#34;
+               src=&#34;https://mhmmoshtaghi.github.io/post/git-going-with-gitkraken/overview1_hub13eecc48a7da159c36df9e38fb25fc7_21091_7360b822a929d24f70068d4ba74e6029.png&#34;
                width=&#34;760&#34;
                height=&#34;384&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -69,7 +69,7 @@
                /post/git-going-with-gitkraken/overview2_huc8ef78e1cac3bdcd4fd7c5ce51e22d60_35358_d91519c499ddd497f2e745872d24540b.png 400w,
                /post/git-going-with-gitkraken/overview2_huc8ef78e1cac3bdcd4fd7c5ce51e22d60_35358_b38b1f73815419bd936e5845416f87e4.png 760w,
                /post/git-going-with-gitkraken/overview2_huc8ef78e1cac3bdcd4fd7c5ce51e22d60_35358_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://jdaymude.github.io/post/git-going-with-gitkraken/overview2_huc8ef78e1cac3bdcd4fd7c5ce51e22d60_35358_d91519c499ddd497f2e745872d24540b.png&#34;
+               src=&#34;https://mhmmoshtaghi.github.io/post/git-going-with-gitkraken/overview2_huc8ef78e1cac3bdcd4fd7c5ce51e22d60_35358_d91519c499ddd497f2e745872d24540b.png&#34;
                width=&#34;760&#34;
                height=&#34;326&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -103,7 +103,7 @@
                /post/git-going-with-gitkraken/featured_hu8b2ce5082bc18ebcc1bb4ed8ae5cc997_25331_bfb4883daee032c89f9563c0b177930c.png 400w,
                /post/git-going-with-gitkraken/featured_hu8b2ce5082bc18ebcc1bb4ed8ae5cc997_25331_33cc21783cc1f53b5be6f9ba6ca975f9.png 760w,
                /post/git-going-with-gitkraken/featured_hu8b2ce5082bc18ebcc1bb4ed8ae5cc997_25331_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://jdaymude.github.io/post/git-going-with-gitkraken/featured_hu8b2ce5082bc18ebcc1bb4ed8ae5cc997_25331_bfb4883daee032c89f9563c0b177930c.png&#34;
+               src=&#34;https://mhmmoshtaghi.github.io/post/git-going-with-gitkraken/featured_hu8b2ce5082bc18ebcc1bb4ed8ae5cc997_25331_bfb4883daee032c89f9563c0b177930c.png&#34;
                width=&#34;760&#34;
                height=&#34;386&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -127,7 +127,7 @@
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34;
-           src=&#34;https://jdaymude.github.io/post/git-going-with-gitkraken/cloneurl.gif&#34;
+           src=&#34;https://mhmmoshtaghi.github.io/post/git-going-with-gitkraken/cloneurl.gif&#34;
            loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;p&gt;And it&amp;rsquo;s even easier if you&amp;rsquo;ve already signed into your hosting platform (e.g., Bitbucket) in GitKraken:&lt;/p&gt;
@@ -148,7 +148,7 @@
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34;
-           src=&#34;https://jdaymude.github.io/post/git-going-with-gitkraken/clonebitbucket.gif&#34;
+           src=&#34;https://mhmmoshtaghi.github.io/post/git-going-with-gitkraken/clonebitbucket.gif&#34;
            loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;h2 id=&#34;making-and-submitting-changes&#34;&gt;Making and Submitting Changes&lt;/h2&gt;
@@ -173,7 +173,7 @@
                /post/git-going-with-gitkraken/overview4_hu256a8b59baa77d267bac69972f20125b_45816_d55a385144b2101df929760642d8b972.png 400w,
                /post/git-going-with-gitkraken/overview4_hu256a8b59baa77d267bac69972f20125b_45816_7a15de763dbe4ef89f778f803435d287.png 760w,
                /post/git-going-with-gitkraken/overview4_hu256a8b59baa77d267bac69972f20125b_45816_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://jdaymude.github.io/post/git-going-with-gitkraken/overview4_hu256a8b59baa77d267bac69972f20125b_45816_d55a385144b2101df929760642d8b972.png&#34;
+               src=&#34;https://mhmmoshtaghi.github.io/post/git-going-with-gitkraken/overview4_hu256a8b59baa77d267bac69972f20125b_45816_d55a385144b2101df929760642d8b972.png&#34;
                width=&#34;760&#34;
                height=&#34;389&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -196,7 +196,7 @@
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34;
-           src=&#34;https://jdaymude.github.io/post/git-going-with-gitkraken/editstage.gif&#34;
+           src=&#34;https://mhmmoshtaghi.github.io/post/git-going-with-gitkraken/editstage.gif&#34;
            loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;p&gt;Now that the changes are staged, we can &lt;em&gt;commit&lt;/em&gt; them to our local repository. A commit is essentially a batch of changes with a description known as a &lt;em&gt;commit message&lt;/em&gt;. In general, a commit message should clearly and concisely describe the changes its commit contains (see &lt;a href=&#34;https://chris.beams.io/posts/git-commit/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this post&lt;/a&gt; for best practices). Once that message is done, we can commit, adding our changes to the version history.&lt;/p&gt;
@@ -220,7 +220,7 @@
                /post/git-going-with-gitkraken/overview5_huf9ac3978c316dd0c10eb7a03f5514ebe_45225_32366a24bf4432ea41a9e035508d6acc.png 400w,
                /post/git-going-with-gitkraken/overview5_huf9ac3978c316dd0c10eb7a03f5514ebe_45225_6b5c7ea27f3cac04681e14f518c79a73.png 760w,
                /post/git-going-with-gitkraken/overview5_huf9ac3978c316dd0c10eb7a03f5514ebe_45225_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://jdaymude.github.io/post/git-going-with-gitkraken/overview5_huf9ac3978c316dd0c10eb7a03f5514ebe_45225_32366a24bf4432ea41a9e035508d6acc.png&#34;
+               src=&#34;https://mhmmoshtaghi.github.io/post/git-going-with-gitkraken/overview5_huf9ac3978c316dd0c10eb7a03f5514ebe_45225_32366a24bf4432ea41a9e035508d6acc.png&#34;
                width=&#34;760&#34;
                height=&#34;386&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -243,7 +243,7 @@
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34;
-           src=&#34;https://jdaymude.github.io/post/git-going-with-gitkraken/commit.gif&#34;
+           src=&#34;https://mhmmoshtaghi.github.io/post/git-going-with-gitkraken/commit.gif&#34;
            loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;p&gt;But committing only puts our changes in the local repository (shown by the little computer icon in GitKraken), not the remote repository where everyone else can see them (shown by the profile picture of the repository owner). Updating the remote repository with new commits from our local repository is called &lt;em&gt;pushing&lt;/em&gt;.&lt;/p&gt;
@@ -267,7 +267,7 @@
                /post/git-going-with-gitkraken/overview6_hu3a415b6ddcf0e96dab0cfcc3331ab0d8_45316_b901406f732b82d5e85c7cf0f75a9324.png 400w,
                /post/git-going-with-gitkraken/overview6_hu3a415b6ddcf0e96dab0cfcc3331ab0d8_45316_798e0c2aae30b63f381e0ecfb14ff091.png 760w,
                /post/git-going-with-gitkraken/overview6_hu3a415b6ddcf0e96dab0cfcc3331ab0d8_45316_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://jdaymude.github.io/post/git-going-with-gitkraken/overview6_hu3a415b6ddcf0e96dab0cfcc3331ab0d8_45316_b901406f732b82d5e85c7cf0f75a9324.png&#34;
+               src=&#34;https://mhmmoshtaghi.github.io/post/git-going-with-gitkraken/overview6_hu3a415b6ddcf0e96dab0cfcc3331ab0d8_45316_b901406f732b82d5e85c7cf0f75a9324.png&#34;
                width=&#34;760&#34;
                height=&#34;387&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -289,7 +289,7 @@
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34;
-           src=&#34;https://jdaymude.github.io/post/git-going-with-gitkraken/push.gif&#34;
+           src=&#34;https://mhmmoshtaghi.github.io/post/git-going-with-gitkraken/push.gif&#34;
            loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;p&gt;Once commits have been pushed, they&amp;rsquo;re out there for other repository members to see and use. Be sure that your code builds and is bug-free before you commit and push; otherwise, you&amp;rsquo;ll break everyone else&amp;rsquo;s builds and get a lot of angry messages asking you to fix your issues quickly! (There are ways to mitigate these kinds of problems, like branch/fork-based workflows with approval processes, but I&amp;rsquo;m saving those more advanced topics for a future post).&lt;/p&gt;
@@ -316,7 +316,7 @@
                /post/git-going-with-gitkraken/overview7_huac5dddf64e5f42c1357b0a6fce4de759_25204_e9c0671a88849a00d6207fcf96c624ee.png 400w,
                /post/git-going-with-gitkraken/overview7_huac5dddf64e5f42c1357b0a6fce4de759_25204_4e9a143f269b6651d98aab62d3085948.png 760w,
                /post/git-going-with-gitkraken/overview7_huac5dddf64e5f42c1357b0a6fce4de759_25204_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://jdaymude.github.io/post/git-going-with-gitkraken/overview7_huac5dddf64e5f42c1357b0a6fce4de759_25204_e9c0671a88849a00d6207fcf96c624ee.png&#34;
+               src=&#34;https://mhmmoshtaghi.github.io/post/git-going-with-gitkraken/overview7_huac5dddf64e5f42c1357b0a6fce4de759_25204_e9c0671a88849a00d6207fcf96c624ee.png&#34;
                width=&#34;760&#34;
                height=&#34;386&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -349,7 +349,7 @@
                /post/git-going-with-gitkraken/overview8_hubd69aaa45d75cd156217dc1d4527d004_25115_e017a8286fecac1023bf59a73998c9af.png 400w,
                /post/git-going-with-gitkraken/overview8_hubd69aaa45d75cd156217dc1d4527d004_25115_81a9a5c9f5696502450ba90476d9783c.png 760w,
                /post/git-going-with-gitkraken/overview8_hubd69aaa45d75cd156217dc1d4527d004_25115_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://jdaymude.github.io/post/git-going-with-gitkraken/overview8_hubd69aaa45d75cd156217dc1d4527d004_25115_e017a8286fecac1023bf59a73998c9af.png&#34;
+               src=&#34;https://mhmmoshtaghi.github.io/post/git-going-with-gitkraken/overview8_hubd69aaa45d75cd156217dc1d4527d004_25115_e017a8286fecac1023bf59a73998c9af.png&#34;
                width=&#34;760&#34;
                height=&#34;387&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -372,7 +372,7 @@
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34;
-           src=&#34;https://jdaymude.github.io/post/git-going-with-gitkraken/pull.gif&#34;
+           src=&#34;https://mhmmoshtaghi.github.io/post/git-going-with-gitkraken/pull.gif&#34;
            loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;h2 id=&#34;git-out-there&#34;&gt;Git Out There&lt;/h2&gt;
@@ -380,6 +380,6 @@
 &lt;p&gt;As always, I welcome your feedback and questions. Happy coding!&lt;/p&gt;
 </description>
     </item>
-    
+
   </channel>
 </rss>

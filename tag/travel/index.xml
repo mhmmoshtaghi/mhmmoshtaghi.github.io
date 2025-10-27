@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>travel | Joshua J. Daymude</title>
-    <link>https://jdaymude.github.io/tag/travel/</link>
-      <atom:link href="https://jdaymude.github.io/tag/travel/index.xml" rel="self" type="application/rss+xml" />
+    <title>travel | Mohammad Moshtaghi</title>
+    <link>https://mhmmoshtaghi.github.io/tag/travel/</link>
+      <atom:link href="https://mhmmoshtaghi.github.io/tag/travel/index.xml" rel="self" type="application/rss+xml" />
     <description>travel</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Joshua J. Daymude</copyright><lastBuildDate>Fri, 21 Dec 2018 12:15:00 -0700</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Mohammad Moshtaghi</copyright><lastBuildDate>Fri, 21 Dec 2018 12:15:00 -0700</lastBuildDate>
     <image>
-      <url>https://jdaymude.github.io/media/logo_hu1dc8deb1865675db905a286e8af9308b_16380_300x300_fit_lanczos_3.png</url>
+      <url>https://mhmmoshtaghi.github.io/media/logo_hu1dc8deb1865675db905a286e8af9308b_16380_300x300_fit_lanczos_3.png</url>
       <title>travel</title>
-      <link>https://jdaymude.github.io/tag/travel/</link>
+      <link>https://mhmmoshtaghi.github.io/tag/travel/</link>
     </image>
-    
+
     <item>
       <title>Oh, the Places You&#39;ll Go</title>
-      <link>https://jdaymude.github.io/post/oh-the-places-youll-go/</link>
+      <link>https://mhmmoshtaghi.github.io/post/oh-the-places-youll-go/</link>
       <pubDate>Fri, 21 Dec 2018 12:15:00 -0700</pubDate>
-      <guid>https://jdaymude.github.io/post/oh-the-places-youll-go/</guid>
+      <guid>https://mhmmoshtaghi.github.io/post/oh-the-places-youll-go/</guid>
       <description>&lt;p&gt;As a PhD student, I get to travel quite a bit. In just the last two years, I&amp;rsquo;ve been to Atlanta (a few times, once as a visiting researcher to GaTech for 3 months), Austin, Vienna, Dagstuhl, and — most recently — Tokyo. I get to meet interesting researchers on every trip, whether it be during a conference coffee break (where &amp;ldquo;meeting&amp;rdquo; people occasionally feels like getting interrogated about research) or by running into each other while meandering through a &lt;a href=&#34;https://www.japan-guide.com/e/e3034_001.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;national park&lt;/a&gt;.&lt;/p&gt;
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
@@ -34,6 +34,6 @@
 &lt;p&gt;So, until we meet again, Tokyo.&lt;/p&gt;
 </description>
     </item>
-    
+
   </channel>
 </rss>

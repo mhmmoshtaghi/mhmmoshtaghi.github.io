@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog | Joshua J. Daymude</title>
-    <link>https://jdaymude.github.io/post/</link>
-      <atom:link href="https://jdaymude.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <title>Blog | Mohammad Moshtaghi</title>
+    <link>https://mhmmoshtaghi.github.io/post/</link>
+      <atom:link href="https://mhmmoshtaghi.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Blog</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Joshua J. Daymude</copyright><lastBuildDate>Tue, 30 Nov 2021 11:57:40 -0700</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Mohammad Moshtaghi</copyright><lastBuildDate>Tue, 30 Nov 2021 11:57:40 -0700</lastBuildDate>
     <image>
-      <url>https://jdaymude.github.io/media/logo_hu1dc8deb1865675db905a286e8af9308b_16380_300x300_fit_lanczos_3.png</url>
+      <url>https://mhmmoshtaghi.github.io/media/logo_hu1dc8deb1865675db905a286e8af9308b_16380_300x300_fit_lanczos_3.png</url>
       <title>Blog</title>
-      <link>https://jdaymude.github.io/post/</link>
+      <link>https://mhmmoshtaghi.github.io/post/</link>
     </image>
-    
+
     <item>
       <title>Elegant Derivatives of Large Products</title>
-      <link>https://jdaymude.github.io/post/elegant-derivatives-of-large-products/</link>
+      <link>https://mhmmoshtaghi.github.io/post/elegant-derivatives-of-large-products/</link>
       <pubDate>Tue, 30 Nov 2021 11:57:40 -0700</pubDate>
-      <guid>https://jdaymude.github.io/post/elegant-derivatives-of-large-products/</guid>
+      <guid>https://mhmmoshtaghi.github.io/post/elegant-derivatives-of-large-products/</guid>
       <description>&lt;p&gt;An ongoing research project on modeling computer security has thrown me back into calculus for the first time since my undergraduate differential equations course in 2014, which as an aside was the only college course that forced me to buy the professor&amp;rsquo;s custom textbook just to get access to homework problems.
 (I&amp;rsquo;m still mad about that.)
 Anyway, my research led me to take the derivative of an expression of the form:&lt;/p&gt;
@@ -28,7 +28,7 @@ It says to look at each $f_i$ term as $i$ goes from $1, 2, \ldots, n$ and multip
 &lt;p&gt;$$\frac{d}{dx} \prod_{i=1}^n f_i(x) = \prod_{i=1}^n f_i(x) \cdot \sum_{i=1}^n \frac{f_i&#39;(x)}{f_i(x)}$$&lt;/p&gt;
 &lt;p&gt;As is common in mathematics, there&amp;rsquo;s a direct but tedious way to get this answer and another more elegant way to get the same thing.
 I&amp;rsquo;m not the first to derive this solution, but I&amp;rsquo;m writing it up for posterity because I will inevitably forget this trick in a few days.
-A PDF of the two derivations without all the handholding I&amp;rsquo;m about to do is available &lt;a href=&#34;https://jdaymude.github.io/uploads/elegant-derivatives-of-large-products.pdf&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+A PDF of the two derivations without all the handholding I&amp;rsquo;m about to do is available &lt;a href=&#34;https://mhmmoshtaghi.github.io/uploads/elegant-derivatives-of-large-products.pdf&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;method-1-product-rule&#34;&gt;Method 1: Product Rule&lt;/h2&gt;
 &lt;p&gt;I had to sweep away years of mental cobwebs to remember the &lt;a href=&#34;https://en.wikipedia.org/wiki/Product_rule&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;product rule&lt;/a&gt; for derivatives.
 My expression is a product, after all, so why not start there?
@@ -88,18 +88,18 @@ The derivative of the natural logarithm is:&lt;/p&gt;
 &lt;h2 id=&#34;concluding-thoughts&#34;&gt;Concluding Thoughts&lt;/h2&gt;
 &lt;p&gt;Having initially stumbled upon Method 1, I was surprised that this derivative came out so beautifully in the end.
 Credit where it&amp;rsquo;s due: I adapted the elegant Method 2 from &lt;a href=&#34;https://www.quora.com/What-is-the-first-derivative-of-an-infinite-product-of-factors&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this post&lt;/a&gt; regarding infinite products.
-I have some technical notes at the end of the &lt;a href=&#34;https://jdaymude.github.io/uploads/elegant-derivatives-of-large-products.pdf&#34; target=&#34;_blank&#34;&gt;linked PDF&lt;/a&gt; about when Method 2 breaks down, though I believe Method 1 does not have any of these problems.&lt;/p&gt;
+I have some technical notes at the end of the &lt;a href=&#34;https://mhmmoshtaghi.github.io/uploads/elegant-derivatives-of-large-products.pdf&#34; target=&#34;_blank&#34;&gt;linked PDF&lt;/a&gt; about when Method 2 breaks down, though I believe Method 1 does not have any of these problems.&lt;/p&gt;
 &lt;p&gt;Hopefully this was fun (and if it wasn&amp;rsquo;t, I doubt you read this far 😉).
 This is one of many examples in mathematics of finding multiple solutions to the same problem and learning something different each time.
 Next time you emerge victorious from a tedious derivation, see if you can find a clever alternative!&lt;/p&gt;
 </description>
     </item>
-    
+
     <item>
       <title>Pool Testing is k-ary Search for COVID-19</title>
-      <link>https://jdaymude.github.io/post/pool-testing-is-kary-search/</link>
+      <link>https://mhmmoshtaghi.github.io/post/pool-testing-is-kary-search/</link>
       <pubDate>Thu, 09 Jul 2020 14:04:44 -0700</pubDate>
-      <guid>https://jdaymude.github.io/post/pool-testing-is-kary-search/</guid>
+      <guid>https://mhmmoshtaghi.github.io/post/pool-testing-is-kary-search/</guid>
       <description>&lt;p&gt;I&amp;rsquo;ve seen a handful of articles in the last week about &lt;em&gt;pool testing&lt;/em&gt; and &lt;em&gt;sample pooling&lt;/em&gt; for COVID-19.
 The gist of this technique is simple: to make our limited supply of test kits (reagents) stretch farther, mix several people&amp;rsquo;s samples together and then test the mixture for COVID-19.
 Ideally, if the test comes back negative, everyone in that &amp;ldquo;sample pool&amp;rdquo; could be declared COVID-free using just one test.
@@ -159,7 +159,7 @@ Just like our helpful friend telling us which half of the page Waldo isn&amp;rsq
                /post/pool-testing-is-kary-search/pooltest_hub8d5ccf727d58e61b91e4b04452d5a8c_507898_d893c5c675f1faec887bbbea523952bc.png 400w,
                /post/pool-testing-is-kary-search/pooltest_hub8d5ccf727d58e61b91e4b04452d5a8c_507898_a6fd6dae15544600ded74901ce065f67.png 760w,
                /post/pool-testing-is-kary-search/pooltest_hub8d5ccf727d58e61b91e4b04452d5a8c_507898_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://jdaymude.github.io/post/pool-testing-is-kary-search/pooltest_hub8d5ccf727d58e61b91e4b04452d5a8c_507898_d893c5c675f1faec887bbbea523952bc.png&#34;
+               src=&#34;https://mhmmoshtaghi.github.io/post/pool-testing-is-kary-search/pooltest_hub8d5ccf727d58e61b91e4b04452d5a8c_507898_d893c5c675f1faec887bbbea523952bc.png&#34;
                width=&#34;760&#34;
                height=&#34;353&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -244,7 +244,7 @@ $$\begin{align*} (n/p)(1 - (1 - r)^p) &amp;amp;&amp;lt; (n/p)(1 - 1/p) \\ r &amp
                /post/pool-testing-is-kary-search/efficientplot_hubbab132a171178a63e8c403eaeaedda1_112102_95bee3cac31fd27c744668969647b2bf.png 400w,
                /post/pool-testing-is-kary-search/efficientplot_hubbab132a171178a63e8c403eaeaedda1_112102_bc08555fd46905af4750f157cfdc0c66.png 760w,
                /post/pool-testing-is-kary-search/efficientplot_hubbab132a171178a63e8c403eaeaedda1_112102_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://jdaymude.github.io/post/pool-testing-is-kary-search/efficientplot_hubbab132a171178a63e8c403eaeaedda1_112102_95bee3cac31fd27c744668969647b2bf.png&#34;
+               src=&#34;https://mhmmoshtaghi.github.io/post/pool-testing-is-kary-search/efficientplot_hubbab132a171178a63e8c403eaeaedda1_112102_95bee3cac31fd27c744668969647b2bf.png&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -281,7 +281,7 @@ The following plot shows this equation for different pool sizes $p$ as a functio
                /post/pool-testing-is-kary-search/savingsplot_hu0b73f0fe4a2adce77317aafa0603f92a_185079_8566ec12e810fe007a61095c9a21c56e.png 400w,
                /post/pool-testing-is-kary-search/savingsplot_hu0b73f0fe4a2adce77317aafa0603f92a_185079_f3c789c9a66a37ba6b4ac7c12ab8f208.png 760w,
                /post/pool-testing-is-kary-search/savingsplot_hu0b73f0fe4a2adce77317aafa0603f92a_185079_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://jdaymude.github.io/post/pool-testing-is-kary-search/savingsplot_hu0b73f0fe4a2adce77317aafa0603f92a_185079_8566ec12e810fe007a61095c9a21c56e.png&#34;
+               src=&#34;https://mhmmoshtaghi.github.io/post/pool-testing-is-kary-search/savingsplot_hu0b73f0fe4a2adce77317aafa0603f92a_185079_8566ec12e810fe007a61095c9a21c56e.png&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -337,19 +337,19 @@ Perhaps if this technique were widely used, we would all be that much closer to 
 &lt;/section&gt;
 </description>
     </item>
-    
+
     <item>
       <title>Announcing Reviews</title>
-      <link>https://jdaymude.github.io/post/announcing-reviews/</link>
+      <link>https://mhmmoshtaghi.github.io/post/announcing-reviews/</link>
       <pubDate>Fri, 29 May 2020 14:07:51 -0700</pubDate>
-      <guid>https://jdaymude.github.io/post/announcing-reviews/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;m excited to announce that I&amp;rsquo;ve added art and entertainment &lt;a href=&#34;https://jdaymude.github.io/review/&#34;&gt;reviews&lt;/a&gt; to the site. I&amp;rsquo;ve posted 28 reviews of books, movies, and video games so far; I will likely extend this to also include TV shows and music in the future. This post is a brief look at why I review things (it&amp;rsquo;s not for glorification of my own hot takes, I promise) and a bit about my experience with hacking the &lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Academic theme&lt;/a&gt; to support reviews.&lt;/p&gt;
+      <guid>https://mhmmoshtaghi.github.io/post/announcing-reviews/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m excited to announce that I&amp;rsquo;ve added art and entertainment &lt;a href=&#34;https://mhmmoshtaghi.github.io/review/&#34;&gt;reviews&lt;/a&gt; to the site. I&amp;rsquo;ve posted 28 reviews of books, movies, and video games so far; I will likely extend this to also include TV shows and music in the future. This post is a brief look at why I review things (it&amp;rsquo;s not for glorification of my own hot takes, I promise) and a bit about my experience with hacking the &lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Academic theme&lt;/a&gt; to support reviews.&lt;/p&gt;
 &lt;p&gt;In case my philosophy behind reviews and hacking the site theme are less interesting to you than actual reviews, here are a few that I was particularly happy to rediscover:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://jdaymude.github.io/review/videogame-overcooked/&#34;&gt;&lt;em&gt;Overcooked&lt;/em&gt;&lt;/a&gt;, a review from 2016 about the frantic cooperative cooking game.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://jdaymude.github.io/review/book-half-the-sky/&#34;&gt;&lt;em&gt;Half the Sky&lt;/em&gt;&lt;/a&gt;, a review from 2017 about the book that played a pivotal role in my understanding and caring about the global state of women&amp;rsquo;s rights.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://jdaymude.github.io/review/book-the-phantom-tollbooth/&#34;&gt;&lt;em&gt;The Phantom Tollbooth&lt;/em&gt;&lt;/a&gt;, a review from 2019 about one of my favorite books.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://jdaymude.github.io/review/videogame-batman-arkham-city/&#34;&gt;&lt;em&gt;Batman: Arkham City&lt;/em&gt;&lt;/a&gt;, a review from 2019 in which I question Batman&amp;rsquo;s approach to criminal justice and our assumptions about video game minions.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://mhmmoshtaghi.github.io/review/videogame-overcooked/&#34;&gt;&lt;em&gt;Overcooked&lt;/em&gt;&lt;/a&gt;, a review from 2016 about the frantic cooperative cooking game.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://mhmmoshtaghi.github.io/review/book-half-the-sky/&#34;&gt;&lt;em&gt;Half the Sky&lt;/em&gt;&lt;/a&gt;, a review from 2017 about the book that played a pivotal role in my understanding and caring about the global state of women&amp;rsquo;s rights.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://mhmmoshtaghi.github.io/review/book-the-phantom-tollbooth/&#34;&gt;&lt;em&gt;The Phantom Tollbooth&lt;/em&gt;&lt;/a&gt;, a review from 2019 about one of my favorite books.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://mhmmoshtaghi.github.io/review/videogame-batman-arkham-city/&#34;&gt;&lt;em&gt;Batman: Arkham City&lt;/em&gt;&lt;/a&gt;, a review from 2019 in which I question Batman&amp;rsquo;s approach to criminal justice and our assumptions about video game minions.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;the-entertainment-backlog&#34;&gt;The Entertainment Backlog&lt;/h2&gt;
 &lt;p&gt;Over the last decade, I&amp;rsquo;ve been iterating over ways to track my progress and remember my experiences with various books, movies, TV shows, music, and video games. It bothers me that I own more content than I have time to experience and that I often forget my key takeaways just months after finishing something. What came of my efforts was the &lt;em&gt;entertainment backlog&lt;/em&gt;, an informal and messy system of spreadsheets, notes, and written reviews.&lt;/p&gt;
@@ -373,7 +373,7 @@ Perhaps if this technique were widely used, we would all be that much closer to 
                /post/announcing-reviews/backlog_huf9ba52e8be594dc786ac117f88e9927c_14836_2ec80f44449e427ca5d74afc5c6ae502.png 400w,
                /post/announcing-reviews/backlog_huf9ba52e8be594dc786ac117f88e9927c_14836_894ed79274b3bd8d97915ad02a46254c.png 760w,
                /post/announcing-reviews/backlog_huf9ba52e8be594dc786ac117f88e9927c_14836_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://jdaymude.github.io/post/announcing-reviews/backlog_huf9ba52e8be594dc786ac117f88e9927c_14836_2ec80f44449e427ca5d74afc5c6ae502.png&#34;
+               src=&#34;https://mhmmoshtaghi.github.io/post/announcing-reviews/backlog_huf9ba52e8be594dc786ac117f88e9927c_14836_2ec80f44449e427ca5d74afc5c6ae502.png&#34;
                width=&#34;760&#34;
                height=&#34;229&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -406,7 +406,7 @@ Perhaps if this technique were widely used, we would all be that much closer to 
                /post/announcing-reviews/rating_hu7038b241120a37a417eeefe912ff6036_21825_3555c1b21eaddad5abcf6c4f194f1385.png 400w,
                /post/announcing-reviews/rating_hu7038b241120a37a417eeefe912ff6036_21825_4c1ed8a2227db78b80cb39eb723a735d.png 760w,
                /post/announcing-reviews/rating_hu7038b241120a37a417eeefe912ff6036_21825_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://jdaymude.github.io/post/announcing-reviews/rating_hu7038b241120a37a417eeefe912ff6036_21825_3555c1b21eaddad5abcf6c4f194f1385.png&#34;
+               src=&#34;https://mhmmoshtaghi.github.io/post/announcing-reviews/rating_hu7038b241120a37a417eeefe912ff6036_21825_3555c1b21eaddad5abcf6c4f194f1385.png&#34;
                width=&#34;760&#34;
                height=&#34;253&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -414,12 +414,12 @@ Perhaps if this technique were widely used, we would all be that much closer to 
 &lt;p&gt;This is just a screenshot, but the real ratings animate when they&amp;rsquo;re first loaded. The animation is usually done by the time you scroll down to the bottom where the ratings actually are, but refreshing the page will let you see it in action! It&amp;rsquo;s potentially possible to &lt;a href=&#34;https://github.com/kimmobrunfeldt/progressbar.js/issues/265&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;delay the animation&lt;/a&gt; until the ratings are scrolled into view, but my knowledge of jQuery is nonexistent so I&amp;rsquo;ll be leaving that as an improvement for another day.&lt;/p&gt;
 </description>
     </item>
-    
+
     <item>
       <title>Solving the Molecube by Reduction</title>
-      <link>https://jdaymude.github.io/post/solving-the-molecube-by-reduction/</link>
+      <link>https://mhmmoshtaghi.github.io/post/solving-the-molecube-by-reduction/</link>
       <pubDate>Mon, 06 Jan 2020 13:00:00 -0700</pubDate>
-      <guid>https://jdaymude.github.io/post/solving-the-molecube-by-reduction/</guid>
+      <guid>https://mhmmoshtaghi.github.io/post/solving-the-molecube-by-reduction/</guid>
       <description>&lt;p&gt;My sister-in-law surprised me with a &lt;a href=&#34;http://www.recenttoys.com/meffert-molecube-twister-puzzle/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Molecube&lt;/a&gt; for Christmas, which combines the logic of a Sudoku puzzle with the mechanics of a Rubik&amp;rsquo;s cube. Each ball on the Molecube is one of nine colors, and the goal is to reconfigure a shuffled Molecube so each of its faces has all nine colors on it.&lt;/p&gt;
 
 
@@ -440,7 +440,7 @@ Perhaps if this technique were widely used, we would all be that much closer to 
     &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://www.recenttoys.com/wp-content/uploads/2019/11/meffert-molecube-twister-puzzle-1200x900.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;65%&#34; /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;p&gt;It turns out that solving the Molecube is a wonderful exercise in what computer scientists call &lt;em&gt;reduction&lt;/em&gt;, which involves transforming a problem we don&amp;rsquo;t know how to solve into one that we do, solving that version, and then translating the solution back into the original problem. In this post, I&amp;rsquo;ll give a reader-friendly primer on reduction, outline a reduction from the Molecube to the Rubik&amp;rsquo;s cube, and then wrap up by solving the Molecube with a standard Rubik&amp;rsquo;s cube algorithm.&lt;/p&gt;
-&lt;p&gt;If you&amp;rsquo;re interested in solving the Molecube yourself (and perhaps you&amp;rsquo;re here looking for hints), I&amp;rsquo;ve created a &lt;a href=&#34;https://jdaymude.github.io/files/molecube_worksheet.pdf&#34; target=&#34;_blank&#34;&gt;worksheet&lt;/a&gt; you can use and will point out when you should skip ahead in the post so as to avoid spoiling this delightful puzzle.&lt;/p&gt;
+&lt;p&gt;If you&amp;rsquo;re interested in solving the Molecube yourself (and perhaps you&amp;rsquo;re here looking for hints), I&amp;rsquo;ve created a &lt;a href=&#34;https://mhmmoshtaghi.github.io/files/molecube_worksheet.pdf&#34; target=&#34;_blank&#34;&gt;worksheet&lt;/a&gt; you can use and will point out when you should skip ahead in the post so as to avoid spoiling this delightful puzzle.&lt;/p&gt;
 &lt;h2 id=&#34;reduction-there-and-back-again&#34;&gt;Reduction: There and Back Again&lt;/h2&gt;
 &lt;p&gt;Say we have a problem $A$ that we don&amp;rsquo;t know how to solve and another problem $B$ that we do know how to solve. Said another way, we have an &amp;ldquo;algorithm&amp;rdquo; that can answer any question asked in the form of problem $B$, but we have no such algorithm for problem $A$ questions. The whole idea of reduction is to:&lt;/p&gt;
 &lt;ol&gt;
@@ -471,8 +471,8 @@ Perhaps if this technique were widely used, we would all be that much closer to 
 &lt;li&gt;A block on the Rubik&amp;rsquo;s cube has 1–3 colors (one for each face it touches), while a ball on the Molecube is the same color on all &amp;ldquo;sides&amp;rdquo;.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;The similarities hint at a solution: though the goal configurations are different, the cubes&#39; structures and mechanics are the same. So if I find a goal configuration for the Molecube, I can use the Rubik&amp;rsquo;s cube algorithm to handle all the tricky rearranging involved in actually getting there.&lt;/p&gt;
-&lt;p&gt;If that&amp;rsquo;s enough of a framework for you to attempt your own solution, feel free to download the &lt;a href=&#34;https://jdaymude.github.io/files/molecube_worksheet.pdf&#34; target=&#34;_blank&#34;&gt;worksheet&lt;/a&gt; I&amp;rsquo;ve created to help you visualize the Molecube as a Sudoku puzzle (with colors instead of numbers). You&amp;rsquo;ll want to stop reading here and come back once you&amp;rsquo;ve completed a goal configuration or if you&amp;rsquo;re stuck and need hints.&lt;/p&gt;
-&lt;p&gt;Speaking of hints, the best way to unlock this tricky Sudoku-like color puzzle (getting one color on each face) is to study the Molecube&amp;rsquo;s colors and structure. I asked myself the following questions (which culminated in the table at the top of the &lt;a href=&#34;https://jdaymude.github.io/files/molecube_worksheet.pdf&#34; target=&#34;_blank&#34;&gt;worksheet&lt;/a&gt;):&lt;/p&gt;
+&lt;p&gt;If that&amp;rsquo;s enough of a framework for you to attempt your own solution, feel free to download the &lt;a href=&#34;https://mhmmoshtaghi.github.io/files/molecube_worksheet.pdf&#34; target=&#34;_blank&#34;&gt;worksheet&lt;/a&gt; I&amp;rsquo;ve created to help you visualize the Molecube as a Sudoku puzzle (with colors instead of numbers). You&amp;rsquo;ll want to stop reading here and come back once you&amp;rsquo;ve completed a goal configuration or if you&amp;rsquo;re stuck and need hints.&lt;/p&gt;
+&lt;p&gt;Speaking of hints, the best way to unlock this tricky Sudoku-like color puzzle (getting one color on each face) is to study the Molecube&amp;rsquo;s colors and structure. I asked myself the following questions (which culminated in the table at the top of the &lt;a href=&#34;https://mhmmoshtaghi.github.io/files/molecube_worksheet.pdf&#34; target=&#34;_blank&#34;&gt;worksheet&lt;/a&gt;):&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;How does the Molecube fit nine colors on a cube with 26 balls?&lt;/li&gt;
 &lt;li&gt;How are the colors distributed over the different types of balls (centers, corners, and edges)?&lt;/li&gt;
@@ -487,7 +487,7 @@ Perhaps if this technique were widely used, we would all be that much closer to 
 &lt;/ul&gt;
 &lt;img src=&#34;rule1.png&#34; style=&#34;display: inline-block; width: 47%; margin-right: 2%&#34;/&gt;
 &lt;img src=&#34;rule2.png&#34; style=&#34;display: inline-block; width: 47%; margin-left: 2%&#34;/&gt;
-&lt;p&gt;Using these rules and some trial and error, I found the solution shown below, also detailed in the &lt;a href=&#34;https://jdaymude.github.io/files/molecube_worksheet_solved.pdf&#34; target=&#34;_blank&#34;&gt;worksheet solution&lt;/a&gt;. (An interesting aside: I don&amp;rsquo;t know if this is the only solution, but any solution works for the reduction). To relate the Molecube solution to the Rubik&amp;rsquo;s cube solution, we simply treat each 3×3 face on the Molecube as a &amp;ldquo;color&amp;rdquo; on the Rubik&amp;rsquo;s cube. (For example, the Black ball at the top-left of the White-center face becomes the Red-White-Green block on the Rubik&amp;rsquo;s cube). This completes the transformation step of the reduction.&lt;/p&gt;
+&lt;p&gt;Using these rules and some trial and error, I found the solution shown below, also detailed in the &lt;a href=&#34;https://mhmmoshtaghi.github.io/files/molecube_worksheet_solved.pdf&#34; target=&#34;_blank&#34;&gt;worksheet solution&lt;/a&gt;. (An interesting aside: I don&amp;rsquo;t know if this is the only solution, but any solution works for the reduction). To relate the Molecube solution to the Rubik&amp;rsquo;s cube solution, we simply treat each 3×3 face on the Molecube as a &amp;ldquo;color&amp;rdquo; on the Rubik&amp;rsquo;s cube. (For example, the Black ball at the top-left of the White-center face becomes the Red-White-Green block on the Rubik&amp;rsquo;s cube). This completes the transformation step of the reduction.&lt;/p&gt;
 &lt;img src=&#34;sudoku-soln.jpg&#34; style=&#34;display: inline-block; width: 47%; margin-right: 2%&#34;/&gt;
 &lt;img src=&#34;rubiks-mapping.jpg&#34; style=&#34;display: inline-block; width: 47%; margin-left: 2%&#34;/&gt;
 &lt;h2 id=&#34;rubik-ing-the-molecube&#34;&gt;Rubik-ing the Molecube&lt;/h2&gt;
@@ -524,12 +524,12 @@ Perhaps if this technique were widely used, we would all be that much closer to 
 &lt;p&gt;There are a &lt;em&gt;lot&lt;/em&gt; of Rubik&amp;rsquo;s cube-inspired puzzles these days (for example, the &lt;a href=&#34;http://www.recenttoys.com/meffert-ghost-cube-twister-puzzle/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ghost Cube&lt;/a&gt; and the &lt;a href=&#34;http://www.recenttoys.com/meffert-pyraminx-twister-puzzle/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pyraminx&lt;/a&gt;). But solving the Molecube by reduction makes me wonder just how many of these new puzzles share a similar relationship to the original Rubik&amp;rsquo;s cube. If these relationships exist, we&amp;rsquo;d find that these new puzzles aren&amp;rsquo;t really new at all; they&amp;rsquo;re just an old puzzle we know how to solve, but with new names and nice packaging.&lt;/p&gt;
 </description>
     </item>
-    
+
     <item>
       <title>The Three Academics: A Joke</title>
-      <link>https://jdaymude.github.io/post/the-three-academics/</link>
+      <link>https://mhmmoshtaghi.github.io/post/the-three-academics/</link>
       <pubDate>Tue, 30 Jul 2019 09:15:00 -0700</pubDate>
-      <guid>https://jdaymude.github.io/post/the-three-academics/</guid>
+      <guid>https://mhmmoshtaghi.github.io/post/the-three-academics/</guid>
       <description>&lt;p&gt;Mathematicians really care about correctness. We believe unspoken assumptions are dangerous. We think vague language is confusing, and saying more or less than we mean is grounds for misunderstanding. We want terms to be clearly defined, and for points to follow logically, like links in an unbreakable chain of truth. But sometimes people say things that are completely reasonable and yet we still feel the need to set them straight:&lt;/p&gt;
 
 
@@ -551,21 +551,21 @@ Perhaps if this technique were widely used, we would all be that much closer to 
                /post/the-three-academics/the-three-academics-lowres_huc2345e23d7c9b85a48da5ce8d8476a68_168428_4f17334aea9310bd9c7aa31446707618.png 400w,
                /post/the-three-academics/the-three-academics-lowres_huc2345e23d7c9b85a48da5ce8d8476a68_168428_141baf6ae9c3a125432b27dadfc380a3.png 760w,
                /post/the-three-academics/the-three-academics-lowres_huc2345e23d7c9b85a48da5ce8d8476a68_168428_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://jdaymude.github.io/post/the-three-academics/the-three-academics-lowres_huc2345e23d7c9b85a48da5ce8d8476a68_168428_4f17334aea9310bd9c7aa31446707618.png&#34;
+               src=&#34;https://mhmmoshtaghi.github.io/post/the-three-academics/the-three-academics-lowres_huc2345e23d7c9b85a48da5ce8d8476a68_168428_4f17334aea9310bd9c7aa31446707618.png&#34;
                width=&#34;587&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-&lt;p&gt;This is my first contribution to the world of webcomics, a medium I&amp;rsquo;ve long admired for being able to deliver witty, weird reflections on life in simple packages. Giving credit where it&amp;rsquo;s due, this &amp;ldquo;joke&amp;rdquo; is adapted from &lt;a href=&#34;https://www.goodreads.com/book/show/1618.The_Curious_Incident_of_the_Dog_in_the_Night_Time&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;The Curious Case of the Dog in the Night-Time&lt;/em&gt;&lt;/a&gt; by Mark Haddon and the art style takes after &lt;a href=&#34;https://www.instagram.com/poorlydrawnlines/?hl=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;poorlydrawnlines&lt;/a&gt; by Reza Farazmand. In living out &lt;a href=&#34;https://www.alabasterco.com/blogs/articles/all-that-is-made&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;generous making&lt;/a&gt;, this comic is available as a high resolution &lt;a href=&#34;https://jdaymude.github.io/uploads/the-three-academics-highres.png&#34; target=&#34;_blank&#34;&gt;PNG&lt;/a&gt; or &lt;a href=&#34;https://jdaymude.github.io/uploads/the-three-academics.pdf&#34; target=&#34;_blank&#34;&gt;PDF&lt;/a&gt; for you to use as you&amp;rsquo;d like. (Just keep my authorship in the corner intact, please!)&lt;/p&gt;
+&lt;p&gt;This is my first contribution to the world of webcomics, a medium I&amp;rsquo;ve long admired for being able to deliver witty, weird reflections on life in simple packages. Giving credit where it&amp;rsquo;s due, this &amp;ldquo;joke&amp;rdquo; is adapted from &lt;a href=&#34;https://www.goodreads.com/book/show/1618.The_Curious_Incident_of_the_Dog_in_the_Night_Time&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;The Curious Case of the Dog in the Night-Time&lt;/em&gt;&lt;/a&gt; by Mark Haddon and the art style takes after &lt;a href=&#34;https://www.instagram.com/poorlydrawnlines/?hl=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;poorlydrawnlines&lt;/a&gt; by Reza Farazmand. In living out &lt;a href=&#34;https://www.alabasterco.com/blogs/articles/all-that-is-made&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;generous making&lt;/a&gt;, this comic is available as a high resolution &lt;a href=&#34;https://mhmmoshtaghi.github.io/uploads/the-three-academics-highres.png&#34; target=&#34;_blank&#34;&gt;PNG&lt;/a&gt; or &lt;a href=&#34;https://mhmmoshtaghi.github.io/uploads/the-three-academics.pdf&#34; target=&#34;_blank&#34;&gt;PDF&lt;/a&gt; for you to use as you&amp;rsquo;d like. (Just keep my authorship in the corner intact, please!)&lt;/p&gt;
 &lt;p&gt;And hey, to the economists out there: if you&amp;rsquo;ve got any good roasts of mathematicians, I&amp;rsquo;m all ears.&lt;/p&gt;
 </description>
     </item>
-    
+
     <item>
       <title>SureChoice: Making Informed Insurance Decisions</title>
-      <link>https://jdaymude.github.io/post/surechoice/</link>
+      <link>https://mhmmoshtaghi.github.io/post/surechoice/</link>
       <pubDate>Sat, 29 Jun 2019 22:21:00 -0700</pubDate>
-      <guid>https://jdaymude.github.io/post/surechoice/</guid>
+      <guid>https://mhmmoshtaghi.github.io/post/surechoice/</guid>
       <description>&lt;p&gt;Health insurance is confusing. Last year, after Annie and I got married and she started a new job, she came home from orientation day with &lt;em&gt;the book&lt;/em&gt;. The book of health insurance plans, complete with overcomplicated tables of costs and percentages, interspersed with pictures of smiling people. I assume they&amp;rsquo;re smiling either to make me — the daunted reader — feel assured, or because they know they&amp;rsquo;d be screwed in the U.S. without health insurance. But that&amp;rsquo;s another issue.&lt;/p&gt;
 &lt;h2 id=&#34;choices-choices&#34;&gt;Choices, Choices&lt;/h2&gt;
 &lt;p&gt;The problem with displaying a health insurance plan using many tables is that it&amp;rsquo;s very difficult to make comparisons between plans. One plan might be more costly than another in certain categories but not in others. One might have a low deductible while the other has a high co-pay. Yet a third plan might have a very middling premium and comes with a Flexible Savings Account. Even if I know what all these terms mean and how they interact with one another, it&amp;rsquo;s still hard to discern which would be best for our family&amp;rsquo;s specific health needs. And, to top it all off, I can&amp;rsquo;t know if I&amp;rsquo;m getting a good deal since insurance rates are negotiated between insurance companies and employers, and there&amp;rsquo;s very little info available online to compare with.&lt;/p&gt;
@@ -590,7 +590,7 @@ Perhaps if this technique were widely used, we would all be that much closer to 
                /post/surechoice/whiteboard_hu33e8a36b393a6ce43c03d74995a3870c_1598695_f92de1d39274d52eab009233a5251cc7.jpg 400w,
                /post/surechoice/whiteboard_hu33e8a36b393a6ce43c03d74995a3870c_1598695_fac9f84bfcf7f6286e25144152f470f9.jpg 760w,
                /post/surechoice/whiteboard_hu33e8a36b393a6ce43c03d74995a3870c_1598695_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
-               src=&#34;https://jdaymude.github.io/post/surechoice/whiteboard_hu33e8a36b393a6ce43c03d74995a3870c_1598695_f92de1d39274d52eab009233a5251cc7.jpg&#34;
+               src=&#34;https://mhmmoshtaghi.github.io/post/surechoice/whiteboard_hu33e8a36b393a6ce43c03d74995a3870c_1598695_f92de1d39274d52eab009233a5251cc7.jpg&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -648,7 +648,7 @@ Perhaps if this technique were widely used, we would all be that much closer to 
                /post/surechoice/piecewise_hud87a9595c36e2e9b086233bf7e273ba5_88289_ed59721bec3e451d74a7c7adabbe595b.jpg 400w,
                /post/surechoice/piecewise_hud87a9595c36e2e9b086233bf7e273ba5_88289_29b3023b91b6cee84897f22e9f93c532.jpg 760w,
                /post/surechoice/piecewise_hud87a9595c36e2e9b086233bf7e273ba5_88289_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
-               src=&#34;https://jdaymude.github.io/post/surechoice/piecewise_hud87a9595c36e2e9b086233bf7e273ba5_88289_ed59721bec3e451d74a7c7adabbe595b.jpg&#34;
+               src=&#34;https://mhmmoshtaghi.github.io/post/surechoice/piecewise_hud87a9595c36e2e9b086233bf7e273ba5_88289_ed59721bec3e451d74a7c7adabbe595b.jpg&#34;
                width=&#34;760&#34;
                height=&#34;638&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -676,7 +676,7 @@ Perhaps if this technique were widely used, we would all be that much closer to 
                /post/surechoice/featured_hud85f394eef86c84953f26804802d17b0_140831_61711b061c8e55c32016071282505406.png 400w,
                /post/surechoice/featured_hud85f394eef86c84953f26804802d17b0_140831_e43fee18d0a2bab560721d4ba8c3f192.png 760w,
                /post/surechoice/featured_hud85f394eef86c84953f26804802d17b0_140831_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://jdaymude.github.io/post/surechoice/featured_hud85f394eef86c84953f26804802d17b0_140831_61711b061c8e55c32016071282505406.png&#34;
+               src=&#34;https://mhmmoshtaghi.github.io/post/surechoice/featured_hud85f394eef86c84953f26804802d17b0_140831_61711b061c8e55c32016071282505406.png&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -685,12 +685,12 @@ Perhaps if this technique were widely used, we would all be that much closer to 
 &lt;p&gt;I&amp;rsquo;ve recently cleaned up my code, ported it to Python, and put it up on &lt;a href=&#34;https://github.com/jdaymude/SureChoice&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt; for anyone to use (&amp;hellip;assuming you know how to run Python code). Hopefully it can help you like it helped us, and if you have the skills to turn this into something easier to use (a web app, etc.) go for it! We might not be able to change these confusing systems, but we can at least make them easier to navigate.&lt;/p&gt;
 </description>
     </item>
-    
+
     <item>
       <title>Git Going With GitKraken</title>
-      <link>https://jdaymude.github.io/post/git-going-with-gitkraken/</link>
+      <link>https://mhmmoshtaghi.github.io/post/git-going-with-gitkraken/</link>
       <pubDate>Tue, 22 Jan 2019 12:40:00 -0700</pubDate>
-      <guid>https://jdaymude.github.io/post/git-going-with-gitkraken/</guid>
+      <guid>https://mhmmoshtaghi.github.io/post/git-going-with-gitkraken/</guid>
       <description>&lt;p&gt;Our team over at the &lt;a href=&#34;https://sops.engineering.asu.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SOPS Lab&lt;/a&gt; has been writing a lot of code lately as part of an ongoing effort to make our AmoebotSim simulator publicly available through an open source release. There&amp;rsquo;s a lot of diversity in coding/software engineering experience among our team members — from finishing a first course in C++ to completing several internships in big tech — so I&amp;rsquo;ve been spending some time thinking about how to make on-boarding easier, forming new students into conceptual thinkers and proficient programmers as quickly as possible. This tutorial on the basics of Git is meant to help with that.&lt;/p&gt;
 &lt;h2 id=&#34;necessary-disclaimers&#34;&gt;Necessary Disclaimers&lt;/h2&gt;
 &lt;p&gt;We have to get two things out of the way up front. First, this is not really the &amp;ldquo;accessible to anyone, technical or not&amp;rdquo; kind of post that I usually aim for. While it is meant to be simpler than the average Git tutorial, it&amp;rsquo;s still going to talk about software skills that are, by nature, technical. Speaking of other Git tutorials: yes, I do know how many Git tutorials already exist. Many of them are ones I&amp;rsquo;ve learned from and am inspired by. Some are far more &lt;a href=&#34;https://jwiegley.github.io/git-from-the-bottom-up/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;complete&lt;/a&gt;, more &lt;a href=&#34;https://chris.beams.io/posts/git-commit/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;specific&lt;/a&gt;, more &lt;a href=&#34;https://www.atlassian.com/git/tutorials&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;polished&lt;/a&gt;, and even more &lt;a href=&#34;https://www.youtube.com/watch?v=1ffBJ4sVUb4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;craftsy&lt;/a&gt; than what I intend to do here. The point of this tutorial is to distill all that wonderful material into something that gets students (and other newcomers) acquainted with basic Git concepts and comfortable with a great Git client all in one sitting.&lt;/p&gt;
@@ -717,7 +717,7 @@ Perhaps if this technique were widely used, we would all be that much closer to 
                /post/git-going-with-gitkraken/overview1_hub13eecc48a7da159c36df9e38fb25fc7_21091_7360b822a929d24f70068d4ba74e6029.png 400w,
                /post/git-going-with-gitkraken/overview1_hub13eecc48a7da159c36df9e38fb25fc7_21091_d485b9b5f2f65f943f1826f85f9c9afd.png 760w,
                /post/git-going-with-gitkraken/overview1_hub13eecc48a7da159c36df9e38fb25fc7_21091_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://jdaymude.github.io/post/git-going-with-gitkraken/overview1_hub13eecc48a7da159c36df9e38fb25fc7_21091_7360b822a929d24f70068d4ba74e6029.png&#34;
+               src=&#34;https://mhmmoshtaghi.github.io/post/git-going-with-gitkraken/overview1_hub13eecc48a7da159c36df9e38fb25fc7_21091_7360b822a929d24f70068d4ba74e6029.png&#34;
                width=&#34;760&#34;
                height=&#34;384&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -743,7 +743,7 @@ Perhaps if this technique were widely used, we would all be that much closer to 
                /post/git-going-with-gitkraken/overview2_huc8ef78e1cac3bdcd4fd7c5ce51e22d60_35358_d91519c499ddd497f2e745872d24540b.png 400w,
                /post/git-going-with-gitkraken/overview2_huc8ef78e1cac3bdcd4fd7c5ce51e22d60_35358_b38b1f73815419bd936e5845416f87e4.png 760w,
                /post/git-going-with-gitkraken/overview2_huc8ef78e1cac3bdcd4fd7c5ce51e22d60_35358_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://jdaymude.github.io/post/git-going-with-gitkraken/overview2_huc8ef78e1cac3bdcd4fd7c5ce51e22d60_35358_d91519c499ddd497f2e745872d24540b.png&#34;
+               src=&#34;https://mhmmoshtaghi.github.io/post/git-going-with-gitkraken/overview2_huc8ef78e1cac3bdcd4fd7c5ce51e22d60_35358_d91519c499ddd497f2e745872d24540b.png&#34;
                width=&#34;760&#34;
                height=&#34;326&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -777,7 +777,7 @@ Perhaps if this technique were widely used, we would all be that much closer to 
                /post/git-going-with-gitkraken/featured_hu8b2ce5082bc18ebcc1bb4ed8ae5cc997_25331_bfb4883daee032c89f9563c0b177930c.png 400w,
                /post/git-going-with-gitkraken/featured_hu8b2ce5082bc18ebcc1bb4ed8ae5cc997_25331_33cc21783cc1f53b5be6f9ba6ca975f9.png 760w,
                /post/git-going-with-gitkraken/featured_hu8b2ce5082bc18ebcc1bb4ed8ae5cc997_25331_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://jdaymude.github.io/post/git-going-with-gitkraken/featured_hu8b2ce5082bc18ebcc1bb4ed8ae5cc997_25331_bfb4883daee032c89f9563c0b177930c.png&#34;
+               src=&#34;https://mhmmoshtaghi.github.io/post/git-going-with-gitkraken/featured_hu8b2ce5082bc18ebcc1bb4ed8ae5cc997_25331_bfb4883daee032c89f9563c0b177930c.png&#34;
                width=&#34;760&#34;
                height=&#34;386&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -801,7 +801,7 @@ Perhaps if this technique were widely used, we would all be that much closer to 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34;
-           src=&#34;https://jdaymude.github.io/post/git-going-with-gitkraken/cloneurl.gif&#34;
+           src=&#34;https://mhmmoshtaghi.github.io/post/git-going-with-gitkraken/cloneurl.gif&#34;
            loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;p&gt;And it&amp;rsquo;s even easier if you&amp;rsquo;ve already signed into your hosting platform (e.g., Bitbucket) in GitKraken:&lt;/p&gt;
@@ -822,7 +822,7 @@ Perhaps if this technique were widely used, we would all be that much closer to 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34;
-           src=&#34;https://jdaymude.github.io/post/git-going-with-gitkraken/clonebitbucket.gif&#34;
+           src=&#34;https://mhmmoshtaghi.github.io/post/git-going-with-gitkraken/clonebitbucket.gif&#34;
            loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;h2 id=&#34;making-and-submitting-changes&#34;&gt;Making and Submitting Changes&lt;/h2&gt;
@@ -847,7 +847,7 @@ Perhaps if this technique were widely used, we would all be that much closer to 
                /post/git-going-with-gitkraken/overview4_hu256a8b59baa77d267bac69972f20125b_45816_d55a385144b2101df929760642d8b972.png 400w,
                /post/git-going-with-gitkraken/overview4_hu256a8b59baa77d267bac69972f20125b_45816_7a15de763dbe4ef89f778f803435d287.png 760w,
                /post/git-going-with-gitkraken/overview4_hu256a8b59baa77d267bac69972f20125b_45816_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://jdaymude.github.io/post/git-going-with-gitkraken/overview4_hu256a8b59baa77d267bac69972f20125b_45816_d55a385144b2101df929760642d8b972.png&#34;
+               src=&#34;https://mhmmoshtaghi.github.io/post/git-going-with-gitkraken/overview4_hu256a8b59baa77d267bac69972f20125b_45816_d55a385144b2101df929760642d8b972.png&#34;
                width=&#34;760&#34;
                height=&#34;389&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -870,7 +870,7 @@ Perhaps if this technique were widely used, we would all be that much closer to 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34;
-           src=&#34;https://jdaymude.github.io/post/git-going-with-gitkraken/editstage.gif&#34;
+           src=&#34;https://mhmmoshtaghi.github.io/post/git-going-with-gitkraken/editstage.gif&#34;
            loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;p&gt;Now that the changes are staged, we can &lt;em&gt;commit&lt;/em&gt; them to our local repository. A commit is essentially a batch of changes with a description known as a &lt;em&gt;commit message&lt;/em&gt;. In general, a commit message should clearly and concisely describe the changes its commit contains (see &lt;a href=&#34;https://chris.beams.io/posts/git-commit/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this post&lt;/a&gt; for best practices). Once that message is done, we can commit, adding our changes to the version history.&lt;/p&gt;
@@ -894,7 +894,7 @@ Perhaps if this technique were widely used, we would all be that much closer to 
                /post/git-going-with-gitkraken/overview5_huf9ac3978c316dd0c10eb7a03f5514ebe_45225_32366a24bf4432ea41a9e035508d6acc.png 400w,
                /post/git-going-with-gitkraken/overview5_huf9ac3978c316dd0c10eb7a03f5514ebe_45225_6b5c7ea27f3cac04681e14f518c79a73.png 760w,
                /post/git-going-with-gitkraken/overview5_huf9ac3978c316dd0c10eb7a03f5514ebe_45225_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://jdaymude.github.io/post/git-going-with-gitkraken/overview5_huf9ac3978c316dd0c10eb7a03f5514ebe_45225_32366a24bf4432ea41a9e035508d6acc.png&#34;
+               src=&#34;https://mhmmoshtaghi.github.io/post/git-going-with-gitkraken/overview5_huf9ac3978c316dd0c10eb7a03f5514ebe_45225_32366a24bf4432ea41a9e035508d6acc.png&#34;
                width=&#34;760&#34;
                height=&#34;386&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -917,7 +917,7 @@ Perhaps if this technique were widely used, we would all be that much closer to 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34;
-           src=&#34;https://jdaymude.github.io/post/git-going-with-gitkraken/commit.gif&#34;
+           src=&#34;https://mhmmoshtaghi.github.io/post/git-going-with-gitkraken/commit.gif&#34;
            loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;p&gt;But committing only puts our changes in the local repository (shown by the little computer icon in GitKraken), not the remote repository where everyone else can see them (shown by the profile picture of the repository owner). Updating the remote repository with new commits from our local repository is called &lt;em&gt;pushing&lt;/em&gt;.&lt;/p&gt;
@@ -941,7 +941,7 @@ Perhaps if this technique were widely used, we would all be that much closer to 
                /post/git-going-with-gitkraken/overview6_hu3a415b6ddcf0e96dab0cfcc3331ab0d8_45316_b901406f732b82d5e85c7cf0f75a9324.png 400w,
                /post/git-going-with-gitkraken/overview6_hu3a415b6ddcf0e96dab0cfcc3331ab0d8_45316_798e0c2aae30b63f381e0ecfb14ff091.png 760w,
                /post/git-going-with-gitkraken/overview6_hu3a415b6ddcf0e96dab0cfcc3331ab0d8_45316_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://jdaymude.github.io/post/git-going-with-gitkraken/overview6_hu3a415b6ddcf0e96dab0cfcc3331ab0d8_45316_b901406f732b82d5e85c7cf0f75a9324.png&#34;
+               src=&#34;https://mhmmoshtaghi.github.io/post/git-going-with-gitkraken/overview6_hu3a415b6ddcf0e96dab0cfcc3331ab0d8_45316_b901406f732b82d5e85c7cf0f75a9324.png&#34;
                width=&#34;760&#34;
                height=&#34;387&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -963,7 +963,7 @@ Perhaps if this technique were widely used, we would all be that much closer to 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34;
-           src=&#34;https://jdaymude.github.io/post/git-going-with-gitkraken/push.gif&#34;
+           src=&#34;https://mhmmoshtaghi.github.io/post/git-going-with-gitkraken/push.gif&#34;
            loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;p&gt;Once commits have been pushed, they&amp;rsquo;re out there for other repository members to see and use. Be sure that your code builds and is bug-free before you commit and push; otherwise, you&amp;rsquo;ll break everyone else&amp;rsquo;s builds and get a lot of angry messages asking you to fix your issues quickly! (There are ways to mitigate these kinds of problems, like branch/fork-based workflows with approval processes, but I&amp;rsquo;m saving those more advanced topics for a future post).&lt;/p&gt;
@@ -990,7 +990,7 @@ Perhaps if this technique were widely used, we would all be that much closer to 
                /post/git-going-with-gitkraken/overview7_huac5dddf64e5f42c1357b0a6fce4de759_25204_e9c0671a88849a00d6207fcf96c624ee.png 400w,
                /post/git-going-with-gitkraken/overview7_huac5dddf64e5f42c1357b0a6fce4de759_25204_4e9a143f269b6651d98aab62d3085948.png 760w,
                /post/git-going-with-gitkraken/overview7_huac5dddf64e5f42c1357b0a6fce4de759_25204_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://jdaymude.github.io/post/git-going-with-gitkraken/overview7_huac5dddf64e5f42c1357b0a6fce4de759_25204_e9c0671a88849a00d6207fcf96c624ee.png&#34;
+               src=&#34;https://mhmmoshtaghi.github.io/post/git-going-with-gitkraken/overview7_huac5dddf64e5f42c1357b0a6fce4de759_25204_e9c0671a88849a00d6207fcf96c624ee.png&#34;
                width=&#34;760&#34;
                height=&#34;386&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1023,7 +1023,7 @@ Perhaps if this technique were widely used, we would all be that much closer to 
                /post/git-going-with-gitkraken/overview8_hubd69aaa45d75cd156217dc1d4527d004_25115_e017a8286fecac1023bf59a73998c9af.png 400w,
                /post/git-going-with-gitkraken/overview8_hubd69aaa45d75cd156217dc1d4527d004_25115_81a9a5c9f5696502450ba90476d9783c.png 760w,
                /post/git-going-with-gitkraken/overview8_hubd69aaa45d75cd156217dc1d4527d004_25115_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://jdaymude.github.io/post/git-going-with-gitkraken/overview8_hubd69aaa45d75cd156217dc1d4527d004_25115_e017a8286fecac1023bf59a73998c9af.png&#34;
+               src=&#34;https://mhmmoshtaghi.github.io/post/git-going-with-gitkraken/overview8_hubd69aaa45d75cd156217dc1d4527d004_25115_e017a8286fecac1023bf59a73998c9af.png&#34;
                width=&#34;760&#34;
                height=&#34;387&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1046,7 +1046,7 @@ Perhaps if this technique were widely used, we would all be that much closer to 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34;
-           src=&#34;https://jdaymude.github.io/post/git-going-with-gitkraken/pull.gif&#34;
+           src=&#34;https://mhmmoshtaghi.github.io/post/git-going-with-gitkraken/pull.gif&#34;
            loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;h2 id=&#34;git-out-there&#34;&gt;Git Out There&lt;/h2&gt;
@@ -1054,12 +1054,12 @@ Perhaps if this technique were widely used, we would all be that much closer to 
 &lt;p&gt;As always, I welcome your feedback and questions. Happy coding!&lt;/p&gt;
 </description>
     </item>
-    
+
     <item>
       <title>Oh, the Places You&#39;ll Go</title>
-      <link>https://jdaymude.github.io/post/oh-the-places-youll-go/</link>
+      <link>https://mhmmoshtaghi.github.io/post/oh-the-places-youll-go/</link>
       <pubDate>Fri, 21 Dec 2018 12:15:00 -0700</pubDate>
-      <guid>https://jdaymude.github.io/post/oh-the-places-youll-go/</guid>
+      <guid>https://mhmmoshtaghi.github.io/post/oh-the-places-youll-go/</guid>
       <description>&lt;p&gt;As a PhD student, I get to travel quite a bit. In just the last two years, I&amp;rsquo;ve been to Atlanta (a few times, once as a visiting researcher to GaTech for 3 months), Austin, Vienna, Dagstuhl, and — most recently — Tokyo. I get to meet interesting researchers on every trip, whether it be during a conference coffee break (where &amp;ldquo;meeting&amp;rdquo; people occasionally feels like getting interrogated about research) or by running into each other while meandering through a &lt;a href=&#34;https://www.japan-guide.com/e/e3034_001.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;national park&lt;/a&gt;.&lt;/p&gt;
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
@@ -1077,12 +1077,12 @@ Perhaps if this technique were widely used, we would all be that much closer to 
 &lt;p&gt;So, until we meet again, Tokyo.&lt;/p&gt;
 </description>
     </item>
-    
+
     <item>
       <title>On Your Marks, Get Set, Coat!</title>
-      <link>https://jdaymude.github.io/post/on-your-marks-get-set-coat/</link>
+      <link>https://mhmmoshtaghi.github.io/post/on-your-marks-get-set-coat/</link>
       <pubDate>Mon, 11 Dec 2017 09:05:00 -0700</pubDate>
-      <guid>https://jdaymude.github.io/post/on-your-marks-get-set-coat/</guid>
+      <guid>https://mhmmoshtaghi.github.io/post/on-your-marks-get-set-coat/</guid>
       <description>&lt;p&gt;My first journal paper was &lt;a href=&#34;http://rdcu.be/zOaK&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;published&lt;/a&gt; early last week, marking a milestone in the winding forest path that is my PhD. The paper has some nice ideas and results I&amp;rsquo;m proud of, but — regrettably — the writing style and level of mathematical rigor needed for publication can make it pretty hard to decipher for anyone not familiar with our niche of computer science. I&amp;rsquo;m of the opinion that ideas are only useful if people can understand them, so to that end I&amp;rsquo;m going to explain this paper in a way that&amp;rsquo;s a bit less formal and academic. With a little effort, I think we&amp;rsquo;ll both learn something new here. (And if it&amp;rsquo;s still all Greek to you, I&amp;rsquo;ll happily answer questions you leave in the comments).&lt;/p&gt;
 &lt;h2 id=&#34;the-nickel-version-tldr&#34;&gt;The Nickel Version (TL;DR)&lt;/h2&gt;
 &lt;p&gt;The paper (whose title is mathy and unimportant) is all about programming futuristic, sci-fi materials that don&amp;rsquo;t exist yet to coat other objects in even layers as (relatively) fast as possible.&lt;/p&gt;
@@ -1109,7 +1109,7 @@ Perhaps if this technique were widely used, we would all be that much closer to 
                /post/on-your-marks-get-set-coat/featured_hu6c163cf7af4fbe950083c652bb55d01a_505426_463e832ee3e11f196d1a814633b6e635.png 400w,
                /post/on-your-marks-get-set-coat/featured_hu6c163cf7af4fbe950083c652bb55d01a_505426_43f7aed6ae179137eb8905b6c4b365d3.png 760w,
                /post/on-your-marks-get-set-coat/featured_hu6c163cf7af4fbe950083c652bb55d01a_505426_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://jdaymude.github.io/post/on-your-marks-get-set-coat/featured_hu6c163cf7af4fbe950083c652bb55d01a_505426_463e832ee3e11f196d1a814633b6e635.png&#34;
+               src=&#34;https://mhmmoshtaghi.github.io/post/on-your-marks-get-set-coat/featured_hu6c163cf7af4fbe950083c652bb55d01a_505426_463e832ee3e11f196d1a814633b6e635.png&#34;
                width=&#34;760&#34;
                height=&#34;317&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1135,7 +1135,7 @@ Perhaps if this technique were widely used, we would all be that much closer to 
                /post/on-your-marks-get-set-coat/artificialcells_hu20929dbf7529e69106953818f1a68422_348174_01705d0dc4cb7b8051eef406ca66d3cb.png 400w,
                /post/on-your-marks-get-set-coat/artificialcells_hu20929dbf7529e69106953818f1a68422_348174_ba5b21ab1a072095349a7a938d122ae6.png 760w,
                /post/on-your-marks-get-set-coat/artificialcells_hu20929dbf7529e69106953818f1a68422_348174_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://jdaymude.github.io/post/on-your-marks-get-set-coat/artificialcells_hu20929dbf7529e69106953818f1a68422_348174_01705d0dc4cb7b8051eef406ca66d3cb.png&#34;
+               src=&#34;https://mhmmoshtaghi.github.io/post/on-your-marks-get-set-coat/artificialcells_hu20929dbf7529e69106953818f1a68422_348174_01705d0dc4cb7b8051eef406ca66d3cb.png&#34;
                width=&#34;760&#34;
                height=&#34;317&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1161,7 +1161,7 @@ Perhaps if this technique were widely used, we would all be that much closer to 
                /post/on-your-marks-get-set-coat/newpaint_hu9d7b855bc80a92d321e5cedaf16add02_541206_6ec75bda627dc562e11886e0a53097b5.png 400w,
                /post/on-your-marks-get-set-coat/newpaint_hu9d7b855bc80a92d321e5cedaf16add02_541206_9ada2ea019ee7f5cac346ca2d97982e1.png 760w,
                /post/on-your-marks-get-set-coat/newpaint_hu9d7b855bc80a92d321e5cedaf16add02_541206_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://jdaymude.github.io/post/on-your-marks-get-set-coat/newpaint_hu9d7b855bc80a92d321e5cedaf16add02_541206_6ec75bda627dc562e11886e0a53097b5.png&#34;
+               src=&#34;https://mhmmoshtaghi.github.io/post/on-your-marks-get-set-coat/newpaint_hu9d7b855bc80a92d321e5cedaf16add02_541206_6ec75bda627dc562e11886e0a53097b5.png&#34;
                width=&#34;760&#34;
                height=&#34;317&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1195,6 +1195,6 @@ Perhaps if this technique were widely used, we would all be that much closer to 
 &lt;p&gt;Thanks for reading, and feel free to comment with your thoughts, ideas, and questions!&lt;/p&gt;
 </description>
     </item>
-    
+
   </channel>
 </rss>

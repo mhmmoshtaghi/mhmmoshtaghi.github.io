@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>creature-collector | Joshua J. Daymude</title>
-    <link>https://jdaymude.github.io/tag/creature-collector/</link>
-      <atom:link href="https://jdaymude.github.io/tag/creature-collector/index.xml" rel="self" type="application/rss+xml" />
+    <title>creature-collector | Mohammad Moshtaghi</title>
+    <link>https://mhmmoshtaghi.github.io/tag/creature-collector/</link>
+      <atom:link href="https://mhmmoshtaghi.github.io/tag/creature-collector/index.xml" rel="self" type="application/rss+xml" />
     <description>creature-collector</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Joshua J. Daymude</copyright><lastBuildDate>Sun, 22 May 2022 11:00:00 -0700</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Mohammad Moshtaghi</copyright><lastBuildDate>Sun, 22 May 2022 11:00:00 -0700</lastBuildDate>
     <image>
-      <url>https://jdaymude.github.io/media/logo_hu1dc8deb1865675db905a286e8af9308b_16380_300x300_fit_lanczos_3.png</url>
+      <url>https://mhmmoshtaghi.github.io/media/logo_hu1dc8deb1865675db905a286e8af9308b_16380_300x300_fit_lanczos_3.png</url>
       <title>creature-collector</title>
-      <link>https://jdaymude.github.io/tag/creature-collector/</link>
+      <link>https://mhmmoshtaghi.github.io/tag/creature-collector/</link>
     </image>
-    
+
     <item>
       <title>Bugsnax</title>
-      <link>https://jdaymude.github.io/review/videogame-bugsnax/</link>
+      <link>https://mhmmoshtaghi.github.io/review/videogame-bugsnax/</link>
       <pubDate>Sun, 22 May 2022 11:00:00 -0700</pubDate>
-      <guid>https://jdaymude.github.io/review/videogame-bugsnax/</guid>
+      <guid>https://mhmmoshtaghi.github.io/review/videogame-bugsnax/</guid>
       <description>&lt;p&gt;&lt;em&gt;Bugsnax&lt;/em&gt; tells the story of a ragtag band of grumpuses who followed the charismatic Aussie-explorer Elizabert Megafig to Snaktooth Island.
 On arrival, they discover bugsnax—part bug, part snack!—which quickly become their primary source of food and mystery.
 Only three things are certain: bugsnax are delicious, eating them changes body parts into the &amp;ldquo;-snax&amp;rdquo; part of bugsnax, and grumpuses are bizarrely okay with having curly fries for biceps and honeycombs for hands.
@@ -41,7 +41,7 @@ But just as eating too many bugsnax morphs grumpuses into foodie-Frankensteins, 
                /review/videogame-bugsnax/chandlo_hu67f43246ef3723f28ec9f658b8cbbbb9_11098875_bd59abff18c60c0e3dcec6295e350608.png 400w,
                /review/videogame-bugsnax/chandlo_hu67f43246ef3723f28ec9f658b8cbbbb9_11098875_22b7eec29dc315526d8ff4e63c32bd6a.png 760w,
                /review/videogame-bugsnax/chandlo_hu67f43246ef3723f28ec9f658b8cbbbb9_11098875_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://jdaymude.github.io/review/videogame-bugsnax/chandlo_hu67f43246ef3723f28ec9f658b8cbbbb9_11098875_bd59abff18c60c0e3dcec6295e350608.png&#34;
+               src=&#34;https://mhmmoshtaghi.github.io/review/videogame-bugsnax/chandlo_hu67f43246ef3723f28ec9f658b8cbbbb9_11098875_bd59abff18c60c0e3dcec6295e350608.png&#34;
                width=&#34;760&#34;
                height=&#34;428&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -82,7 +82,7 @@ Figuring out these idiosyncrasies for the first time is good fun— repeating th
                /review/videogame-bugsnax/party_hub288d71f368e3316dfa6d690adc1e376_10983763_094bcfa548c58507675cf3e4910ab6aa.png 400w,
                /review/videogame-bugsnax/party_hub288d71f368e3316dfa6d690adc1e376_10983763_feca1f4a5eefd60b8a983c2f196e6745.png 760w,
                /review/videogame-bugsnax/party_hub288d71f368e3316dfa6d690adc1e376_10983763_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://jdaymude.github.io/review/videogame-bugsnax/party_hub288d71f368e3316dfa6d690adc1e376_10983763_094bcfa548c58507675cf3e4910ab6aa.png&#34;
+               src=&#34;https://mhmmoshtaghi.github.io/review/videogame-bugsnax/party_hub288d71f368e3316dfa6d690adc1e376_10983763_094bcfa548c58507675cf3e4910ab6aa.png&#34;
                width=&#34;760&#34;
                height=&#34;428&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -114,7 +114,7 @@ And don&amp;rsquo;t even get me started on Wiggle.&lt;/p&gt;
                /review/videogame-bugsnax/wiggle_hue586f5bdd12c1608f3a4e6947390d787_8826702_47d0ac2217c684824986cb63d2101bbb.png 400w,
                /review/videogame-bugsnax/wiggle_hue586f5bdd12c1608f3a4e6947390d787_8826702_2daff6c7bfebc6d36cd71123aa878bba.png 760w,
                /review/videogame-bugsnax/wiggle_hue586f5bdd12c1608f3a4e6947390d787_8826702_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://jdaymude.github.io/review/videogame-bugsnax/wiggle_hue586f5bdd12c1608f3a4e6947390d787_8826702_47d0ac2217c684824986cb63d2101bbb.png&#34;
+               src=&#34;https://mhmmoshtaghi.github.io/review/videogame-bugsnax/wiggle_hue586f5bdd12c1608f3a4e6947390d787_8826702_47d0ac2217c684824986cb63d2101bbb.png&#34;
                width=&#34;760&#34;
                height=&#34;428&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -125,6 +125,6 @@ It may not have been the finest of dining, but would it satisfy at a family dinn
 Hopefully so.&lt;/p&gt;
 </description>
     </item>
-    
+
   </channel>
 </rss>

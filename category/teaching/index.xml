@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>teaching | Joshua J. Daymude</title>
-    <link>https://jdaymude.github.io/category/teaching/</link>
-      <atom:link href="https://jdaymude.github.io/category/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <title>teaching | Mohammad Moshtaghi</title>
+    <link>https://mhmmoshtaghi.github.io/category/teaching/</link>
+      <atom:link href="https://mhmmoshtaghi.github.io/category/teaching/index.xml" rel="self" type="application/rss+xml" />
     <description>teaching</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Joshua J. Daymude</copyright><lastBuildDate>Tue, 30 Nov 2021 11:57:40 -0700</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Mohammad Moshtaghi</copyright><lastBuildDate>Tue, 30 Nov 2021 11:57:40 -0700</lastBuildDate>
     <image>
-      <url>https://jdaymude.github.io/media/logo_hu1dc8deb1865675db905a286e8af9308b_16380_300x300_fit_lanczos_3.png</url>
+      <url>https://mhmmoshtaghi.github.io/media/logo_hu1dc8deb1865675db905a286e8af9308b_16380_300x300_fit_lanczos_3.png</url>
       <title>teaching</title>
-      <link>https://jdaymude.github.io/category/teaching/</link>
+      <link>https://mhmmoshtaghi.github.io/category/teaching/</link>
     </image>
-    
+
     <item>
       <title>Elegant Derivatives of Large Products</title>
-      <link>https://jdaymude.github.io/post/elegant-derivatives-of-large-products/</link>
+      <link>https://mhmmoshtaghi.github.io/post/elegant-derivatives-of-large-products/</link>
       <pubDate>Tue, 30 Nov 2021 11:57:40 -0700</pubDate>
-      <guid>https://jdaymude.github.io/post/elegant-derivatives-of-large-products/</guid>
+      <guid>https://mhmmoshtaghi.github.io/post/elegant-derivatives-of-large-products/</guid>
       <description>&lt;p&gt;An ongoing research project on modeling computer security has thrown me back into calculus for the first time since my undergraduate differential equations course in 2014, which as an aside was the only college course that forced me to buy the professor&amp;rsquo;s custom textbook just to get access to homework problems.
 (I&amp;rsquo;m still mad about that.)
 Anyway, my research led me to take the derivative of an expression of the form:&lt;/p&gt;
@@ -28,7 +28,7 @@ It says to look at each $f_i$ term as $i$ goes from $1, 2, \ldots, n$ and multip
 &lt;p&gt;$$\frac{d}{dx} \prod_{i=1}^n f_i(x) = \prod_{i=1}^n f_i(x) \cdot \sum_{i=1}^n \frac{f_i&#39;(x)}{f_i(x)}$$&lt;/p&gt;
 &lt;p&gt;As is common in mathematics, there&amp;rsquo;s a direct but tedious way to get this answer and another more elegant way to get the same thing.
 I&amp;rsquo;m not the first to derive this solution, but I&amp;rsquo;m writing it up for posterity because I will inevitably forget this trick in a few days.
-A PDF of the two derivations without all the handholding I&amp;rsquo;m about to do is available &lt;a href=&#34;https://jdaymude.github.io/uploads/elegant-derivatives-of-large-products.pdf&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+A PDF of the two derivations without all the handholding I&amp;rsquo;m about to do is available &lt;a href=&#34;https://mhmmoshtaghi.github.io/uploads/elegant-derivatives-of-large-products.pdf&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;method-1-product-rule&#34;&gt;Method 1: Product Rule&lt;/h2&gt;
 &lt;p&gt;I had to sweep away years of mental cobwebs to remember the &lt;a href=&#34;https://en.wikipedia.org/wiki/Product_rule&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;product rule&lt;/a&gt; for derivatives.
 My expression is a product, after all, so why not start there?
@@ -88,18 +88,18 @@ The derivative of the natural logarithm is:&lt;/p&gt;
 &lt;h2 id=&#34;concluding-thoughts&#34;&gt;Concluding Thoughts&lt;/h2&gt;
 &lt;p&gt;Having initially stumbled upon Method 1, I was surprised that this derivative came out so beautifully in the end.
 Credit where it&amp;rsquo;s due: I adapted the elegant Method 2 from &lt;a href=&#34;https://www.quora.com/What-is-the-first-derivative-of-an-infinite-product-of-factors&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this post&lt;/a&gt; regarding infinite products.
-I have some technical notes at the end of the &lt;a href=&#34;https://jdaymude.github.io/uploads/elegant-derivatives-of-large-products.pdf&#34; target=&#34;_blank&#34;&gt;linked PDF&lt;/a&gt; about when Method 2 breaks down, though I believe Method 1 does not have any of these problems.&lt;/p&gt;
+I have some technical notes at the end of the &lt;a href=&#34;https://mhmmoshtaghi.github.io/uploads/elegant-derivatives-of-large-products.pdf&#34; target=&#34;_blank&#34;&gt;linked PDF&lt;/a&gt; about when Method 2 breaks down, though I believe Method 1 does not have any of these problems.&lt;/p&gt;
 &lt;p&gt;Hopefully this was fun (and if it wasn&amp;rsquo;t, I doubt you read this far 😉).
 This is one of many examples in mathematics of finding multiple solutions to the same problem and learning something different each time.
 Next time you emerge victorious from a tedious derivation, see if you can find a clever alternative!&lt;/p&gt;
 </description>
     </item>
-    
+
     <item>
       <title>Pool Testing is k-ary Search for COVID-19</title>
-      <link>https://jdaymude.github.io/post/pool-testing-is-kary-search/</link>
+      <link>https://mhmmoshtaghi.github.io/post/pool-testing-is-kary-search/</link>
       <pubDate>Thu, 09 Jul 2020 14:04:44 -0700</pubDate>
-      <guid>https://jdaymude.github.io/post/pool-testing-is-kary-search/</guid>
+      <guid>https://mhmmoshtaghi.github.io/post/pool-testing-is-kary-search/</guid>
       <description>&lt;p&gt;I&amp;rsquo;ve seen a handful of articles in the last week about &lt;em&gt;pool testing&lt;/em&gt; and &lt;em&gt;sample pooling&lt;/em&gt; for COVID-19.
 The gist of this technique is simple: to make our limited supply of test kits (reagents) stretch farther, mix several people&amp;rsquo;s samples together and then test the mixture for COVID-19.
 Ideally, if the test comes back negative, everyone in that &amp;ldquo;sample pool&amp;rdquo; could be declared COVID-free using just one test.
@@ -159,7 +159,7 @@ Just like our helpful friend telling us which half of the page Waldo isn&amp;rsq
                /post/pool-testing-is-kary-search/pooltest_hub8d5ccf727d58e61b91e4b04452d5a8c_507898_d893c5c675f1faec887bbbea523952bc.png 400w,
                /post/pool-testing-is-kary-search/pooltest_hub8d5ccf727d58e61b91e4b04452d5a8c_507898_a6fd6dae15544600ded74901ce065f67.png 760w,
                /post/pool-testing-is-kary-search/pooltest_hub8d5ccf727d58e61b91e4b04452d5a8c_507898_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://jdaymude.github.io/post/pool-testing-is-kary-search/pooltest_hub8d5ccf727d58e61b91e4b04452d5a8c_507898_d893c5c675f1faec887bbbea523952bc.png&#34;
+               src=&#34;https://mhmmoshtaghi.github.io/post/pool-testing-is-kary-search/pooltest_hub8d5ccf727d58e61b91e4b04452d5a8c_507898_d893c5c675f1faec887bbbea523952bc.png&#34;
                width=&#34;760&#34;
                height=&#34;353&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -244,7 +244,7 @@ $$\begin{align*} (n/p)(1 - (1 - r)^p) &amp;amp;&amp;lt; (n/p)(1 - 1/p) \\ r &amp
                /post/pool-testing-is-kary-search/efficientplot_hubbab132a171178a63e8c403eaeaedda1_112102_95bee3cac31fd27c744668969647b2bf.png 400w,
                /post/pool-testing-is-kary-search/efficientplot_hubbab132a171178a63e8c403eaeaedda1_112102_bc08555fd46905af4750f157cfdc0c66.png 760w,
                /post/pool-testing-is-kary-search/efficientplot_hubbab132a171178a63e8c403eaeaedda1_112102_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://jdaymude.github.io/post/pool-testing-is-kary-search/efficientplot_hubbab132a171178a63e8c403eaeaedda1_112102_95bee3cac31fd27c744668969647b2bf.png&#34;
+               src=&#34;https://mhmmoshtaghi.github.io/post/pool-testing-is-kary-search/efficientplot_hubbab132a171178a63e8c403eaeaedda1_112102_95bee3cac31fd27c744668969647b2bf.png&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -281,7 +281,7 @@ The following plot shows this equation for different pool sizes $p$ as a functio
                /post/pool-testing-is-kary-search/savingsplot_hu0b73f0fe4a2adce77317aafa0603f92a_185079_8566ec12e810fe007a61095c9a21c56e.png 400w,
                /post/pool-testing-is-kary-search/savingsplot_hu0b73f0fe4a2adce77317aafa0603f92a_185079_f3c789c9a66a37ba6b4ac7c12ab8f208.png 760w,
                /post/pool-testing-is-kary-search/savingsplot_hu0b73f0fe4a2adce77317aafa0603f92a_185079_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://jdaymude.github.io/post/pool-testing-is-kary-search/savingsplot_hu0b73f0fe4a2adce77317aafa0603f92a_185079_8566ec12e810fe007a61095c9a21c56e.png&#34;
+               src=&#34;https://mhmmoshtaghi.github.io/post/pool-testing-is-kary-search/savingsplot_hu0b73f0fe4a2adce77317aafa0603f92a_185079_8566ec12e810fe007a61095c9a21c56e.png&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -337,12 +337,12 @@ Perhaps if this technique were widely used, we would all be that much closer to 
 &lt;/section&gt;
 </description>
     </item>
-    
+
     <item>
       <title>Solving the Molecube by Reduction</title>
-      <link>https://jdaymude.github.io/post/solving-the-molecube-by-reduction/</link>
+      <link>https://mhmmoshtaghi.github.io/post/solving-the-molecube-by-reduction/</link>
       <pubDate>Mon, 06 Jan 2020 13:00:00 -0700</pubDate>
-      <guid>https://jdaymude.github.io/post/solving-the-molecube-by-reduction/</guid>
+      <guid>https://mhmmoshtaghi.github.io/post/solving-the-molecube-by-reduction/</guid>
       <description>&lt;p&gt;My sister-in-law surprised me with a &lt;a href=&#34;http://www.recenttoys.com/meffert-molecube-twister-puzzle/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Molecube&lt;/a&gt; for Christmas, which combines the logic of a Sudoku puzzle with the mechanics of a Rubik&amp;rsquo;s cube. Each ball on the Molecube is one of nine colors, and the goal is to reconfigure a shuffled Molecube so each of its faces has all nine colors on it.&lt;/p&gt;
 
 
@@ -363,7 +363,7 @@ Perhaps if this technique were widely used, we would all be that much closer to 
     &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://www.recenttoys.com/wp-content/uploads/2019/11/meffert-molecube-twister-puzzle-1200x900.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;65%&#34; /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;p&gt;It turns out that solving the Molecube is a wonderful exercise in what computer scientists call &lt;em&gt;reduction&lt;/em&gt;, which involves transforming a problem we don&amp;rsquo;t know how to solve into one that we do, solving that version, and then translating the solution back into the original problem. In this post, I&amp;rsquo;ll give a reader-friendly primer on reduction, outline a reduction from the Molecube to the Rubik&amp;rsquo;s cube, and then wrap up by solving the Molecube with a standard Rubik&amp;rsquo;s cube algorithm.&lt;/p&gt;
-&lt;p&gt;If you&amp;rsquo;re interested in solving the Molecube yourself (and perhaps you&amp;rsquo;re here looking for hints), I&amp;rsquo;ve created a &lt;a href=&#34;https://jdaymude.github.io/files/molecube_worksheet.pdf&#34; target=&#34;_blank&#34;&gt;worksheet&lt;/a&gt; you can use and will point out when you should skip ahead in the post so as to avoid spoiling this delightful puzzle.&lt;/p&gt;
+&lt;p&gt;If you&amp;rsquo;re interested in solving the Molecube yourself (and perhaps you&amp;rsquo;re here looking for hints), I&amp;rsquo;ve created a &lt;a href=&#34;https://mhmmoshtaghi.github.io/files/molecube_worksheet.pdf&#34; target=&#34;_blank&#34;&gt;worksheet&lt;/a&gt; you can use and will point out when you should skip ahead in the post so as to avoid spoiling this delightful puzzle.&lt;/p&gt;
 &lt;h2 id=&#34;reduction-there-and-back-again&#34;&gt;Reduction: There and Back Again&lt;/h2&gt;
 &lt;p&gt;Say we have a problem $A$ that we don&amp;rsquo;t know how to solve and another problem $B$ that we do know how to solve. Said another way, we have an &amp;ldquo;algorithm&amp;rdquo; that can answer any question asked in the form of problem $B$, but we have no such algorithm for problem $A$ questions. The whole idea of reduction is to:&lt;/p&gt;
 &lt;ol&gt;
@@ -394,8 +394,8 @@ Perhaps if this technique were widely used, we would all be that much closer to 
 &lt;li&gt;A block on the Rubik&amp;rsquo;s cube has 1–3 colors (one for each face it touches), while a ball on the Molecube is the same color on all &amp;ldquo;sides&amp;rdquo;.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;The similarities hint at a solution: though the goal configurations are different, the cubes&#39; structures and mechanics are the same. So if I find a goal configuration for the Molecube, I can use the Rubik&amp;rsquo;s cube algorithm to handle all the tricky rearranging involved in actually getting there.&lt;/p&gt;
-&lt;p&gt;If that&amp;rsquo;s enough of a framework for you to attempt your own solution, feel free to download the &lt;a href=&#34;https://jdaymude.github.io/files/molecube_worksheet.pdf&#34; target=&#34;_blank&#34;&gt;worksheet&lt;/a&gt; I&amp;rsquo;ve created to help you visualize the Molecube as a Sudoku puzzle (with colors instead of numbers). You&amp;rsquo;ll want to stop reading here and come back once you&amp;rsquo;ve completed a goal configuration or if you&amp;rsquo;re stuck and need hints.&lt;/p&gt;
-&lt;p&gt;Speaking of hints, the best way to unlock this tricky Sudoku-like color puzzle (getting one color on each face) is to study the Molecube&amp;rsquo;s colors and structure. I asked myself the following questions (which culminated in the table at the top of the &lt;a href=&#34;https://jdaymude.github.io/files/molecube_worksheet.pdf&#34; target=&#34;_blank&#34;&gt;worksheet&lt;/a&gt;):&lt;/p&gt;
+&lt;p&gt;If that&amp;rsquo;s enough of a framework for you to attempt your own solution, feel free to download the &lt;a href=&#34;https://mhmmoshtaghi.github.io/files/molecube_worksheet.pdf&#34; target=&#34;_blank&#34;&gt;worksheet&lt;/a&gt; I&amp;rsquo;ve created to help you visualize the Molecube as a Sudoku puzzle (with colors instead of numbers). You&amp;rsquo;ll want to stop reading here and come back once you&amp;rsquo;ve completed a goal configuration or if you&amp;rsquo;re stuck and need hints.&lt;/p&gt;
+&lt;p&gt;Speaking of hints, the best way to unlock this tricky Sudoku-like color puzzle (getting one color on each face) is to study the Molecube&amp;rsquo;s colors and structure. I asked myself the following questions (which culminated in the table at the top of the &lt;a href=&#34;https://mhmmoshtaghi.github.io/files/molecube_worksheet.pdf&#34; target=&#34;_blank&#34;&gt;worksheet&lt;/a&gt;):&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;How does the Molecube fit nine colors on a cube with 26 balls?&lt;/li&gt;
 &lt;li&gt;How are the colors distributed over the different types of balls (centers, corners, and edges)?&lt;/li&gt;
@@ -410,7 +410,7 @@ Perhaps if this technique were widely used, we would all be that much closer to 
 &lt;/ul&gt;
 &lt;img src=&#34;rule1.png&#34; style=&#34;display: inline-block; width: 47%; margin-right: 2%&#34;/&gt;
 &lt;img src=&#34;rule2.png&#34; style=&#34;display: inline-block; width: 47%; margin-left: 2%&#34;/&gt;
-&lt;p&gt;Using these rules and some trial and error, I found the solution shown below, also detailed in the &lt;a href=&#34;https://jdaymude.github.io/files/molecube_worksheet_solved.pdf&#34; target=&#34;_blank&#34;&gt;worksheet solution&lt;/a&gt;. (An interesting aside: I don&amp;rsquo;t know if this is the only solution, but any solution works for the reduction). To relate the Molecube solution to the Rubik&amp;rsquo;s cube solution, we simply treat each 3×3 face on the Molecube as a &amp;ldquo;color&amp;rdquo; on the Rubik&amp;rsquo;s cube. (For example, the Black ball at the top-left of the White-center face becomes the Red-White-Green block on the Rubik&amp;rsquo;s cube). This completes the transformation step of the reduction.&lt;/p&gt;
+&lt;p&gt;Using these rules and some trial and error, I found the solution shown below, also detailed in the &lt;a href=&#34;https://mhmmoshtaghi.github.io/files/molecube_worksheet_solved.pdf&#34; target=&#34;_blank&#34;&gt;worksheet solution&lt;/a&gt;. (An interesting aside: I don&amp;rsquo;t know if this is the only solution, but any solution works for the reduction). To relate the Molecube solution to the Rubik&amp;rsquo;s cube solution, we simply treat each 3×3 face on the Molecube as a &amp;ldquo;color&amp;rdquo; on the Rubik&amp;rsquo;s cube. (For example, the Black ball at the top-left of the White-center face becomes the Red-White-Green block on the Rubik&amp;rsquo;s cube). This completes the transformation step of the reduction.&lt;/p&gt;
 &lt;img src=&#34;sudoku-soln.jpg&#34; style=&#34;display: inline-block; width: 47%; margin-right: 2%&#34;/&gt;
 &lt;img src=&#34;rubiks-mapping.jpg&#34; style=&#34;display: inline-block; width: 47%; margin-left: 2%&#34;/&gt;
 &lt;h2 id=&#34;rubik-ing-the-molecube&#34;&gt;Rubik-ing the Molecube&lt;/h2&gt;
@@ -447,6 +447,6 @@ Perhaps if this technique were widely used, we would all be that much closer to 
 &lt;p&gt;There are a &lt;em&gt;lot&lt;/em&gt; of Rubik&amp;rsquo;s cube-inspired puzzles these days (for example, the &lt;a href=&#34;http://www.recenttoys.com/meffert-ghost-cube-twister-puzzle/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ghost Cube&lt;/a&gt; and the &lt;a href=&#34;http://www.recenttoys.com/meffert-pyraminx-twister-puzzle/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pyraminx&lt;/a&gt;). But solving the Molecube by reduction makes me wonder just how many of these new puzzles share a similar relationship to the original Rubik&amp;rsquo;s cube. If these relationships exist, we&amp;rsquo;d find that these new puzzles aren&amp;rsquo;t really new at all; they&amp;rsquo;re just an old puzzle we know how to solve, but with new names and nice packaging.&lt;/p&gt;
 </description>
     </item>
-    
+
   </channel>
 </rss>

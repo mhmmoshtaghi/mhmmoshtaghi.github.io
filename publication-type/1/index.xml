@@ -1,62 +1,62 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>1 | Joshua J. Daymude</title>
-    <link>https://jdaymude.github.io/publication-type/1/</link>
-      <atom:link href="https://jdaymude.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <title>1 | Mohammad Moshtaghi</title>
+    <link>https://mhmmoshtaghi.github.io/publication-type/1/</link>
+      <atom:link href="https://mhmmoshtaghi.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Joshua J. Daymude</copyright><lastBuildDate>Wed, 04 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Mohammad Moshtaghi</copyright><lastBuildDate>Wed, 04 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://jdaymude.github.io/media/logo_hu1dc8deb1865675db905a286e8af9308b_16380_300x300_fit_lanczos_3.png</url>
+      <url>https://mhmmoshtaghi.github.io/media/logo_hu1dc8deb1865675db905a286e8af9308b_16380_300x300_fit_lanczos_3.png</url>
       <title>1</title>
-      <link>https://jdaymude.github.io/publication-type/1/</link>
+      <link>https://mhmmoshtaghi.github.io/publication-type/1/</link>
     </image>
-    
+
     <item>
       <title>Invited Paper: Asynchronous Deterministic Leader Election in Three-Dimensional Programmable Matter</title>
-      <link>https://jdaymude.github.io/publication/briones2023-3dleader/</link>
+      <link>https://mhmmoshtaghi.github.io/publication/briones2023-3dleader/</link>
       <pubDate>Wed, 04 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://jdaymude.github.io/publication/briones2023-3dleader/</guid>
+      <guid>https://mhmmoshtaghi.github.io/publication/briones2023-3dleader/</guid>
       <description></description>
     </item>
-    
+
     <item>
       <title>Cutting Through the Noise to Infer Autonomous System Topology</title>
-      <link>https://jdaymude.github.io/publication/leyba2022-cuttingthrough/</link>
+      <link>https://mhmmoshtaghi.github.io/publication/leyba2022-cuttingthrough/</link>
       <pubDate>Mon, 02 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://jdaymude.github.io/publication/leyba2022-cuttingthrough/</guid>
+      <guid>https://mhmmoshtaghi.github.io/publication/leyba2022-cuttingthrough/</guid>
       <description></description>
     </item>
-    
+
     <item>
       <title>Local Mutual Exclusion for Dynamic, Anonymous, Bounded Memory Message Passing Systems</title>
-      <link>https://jdaymude.github.io/publication/daymude2022-localmutual/</link>
+      <link>https://mhmmoshtaghi.github.io/publication/daymude2022-localmutual/</link>
       <pubDate>Fri, 29 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://jdaymude.github.io/publication/daymude2022-localmutual/</guid>
+      <guid>https://mhmmoshtaghi.github.io/publication/daymude2022-localmutual/</guid>
       <description></description>
     </item>
-    
+
     <item>
       <title>Deadlock and Noise in Self-Organized Aggregation Without Computation</title>
-      <link>https://jdaymude.github.io/publication/daymude2021-deadlockaggregation/</link>
+      <link>https://mhmmoshtaghi.github.io/publication/daymude2021-deadlockaggregation/</link>
       <pubDate>Tue, 09 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://jdaymude.github.io/publication/daymude2021-deadlockaggregation/</guid>
+      <guid>https://mhmmoshtaghi.github.io/publication/daymude2021-deadlockaggregation/</guid>
       <description></description>
     </item>
-    
+
     <item>
       <title>The Canonical Amoebot Model: Algorithms and Concurrency Control</title>
-      <link>https://jdaymude.github.io/publication/daymude2021-canonicalamoebot/</link>
+      <link>https://mhmmoshtaghi.github.io/publication/daymude2021-canonicalamoebot/</link>
       <pubDate>Mon, 04 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://jdaymude.github.io/publication/daymude2021-canonicalamoebot/</guid>
+      <guid>https://mhmmoshtaghi.github.io/publication/daymude2021-canonicalamoebot/</guid>
       <description></description>
     </item>
-    
+
     <item>
       <title>Bio-Inspired Energy Distribution for Programmable Matter</title>
-      <link>https://jdaymude.github.io/publication/daymude2021-energydistribution/</link>
+      <link>https://mhmmoshtaghi.github.io/publication/daymude2021-energydistribution/</link>
       <pubDate>Tue, 05 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://jdaymude.github.io/publication/daymude2021-energydistribution/</guid>
+      <guid>https://mhmmoshtaghi.github.io/publication/daymude2021-energydistribution/</guid>
       <description>&lt;h3 id=&#34;summary&#34;&gt;Summary&lt;/h3&gt;
 &lt;p&gt;In short, individual bacterium that are metabolically stressed (lacking in nutrients) catalyze a wave of chemical signaling that inhibits the rest of the biofilm’s nutrient uptake. This allows more nutrients to flow to the stressed bacteria, effectively solving the energy distribution problem. We model energy constraints in the amoebot model by giving each particle a battery for storing energy that it can transfer to its neighbors or spend to perform actions. We assume at least one particle in the system has access to an &lt;em&gt;external energy source&lt;/em&gt; from which it can harvest energy. The goal of our energy distribution algorithm is to coordinate the transfer of energy between particles so that all particles meet their actions’ energy demands and at least one particle can actually perform its action within a bounded amount of time. After some initial setup, our &lt;strong&gt;Energy-Sharing&lt;/strong&gt; algorithm works in the following phases repeated by each particle individually:&lt;/p&gt;
 &lt;ul&gt;
@@ -82,7 +82,7 @@
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34;
-           src=&#34;https://jdaymude.github.io/publication/daymude2021-energydistribution/energysim.gif&#34;
+           src=&#34;https://mhmmoshtaghi.github.io/publication/daymude2021-energydistribution/energysim.gif&#34;
            loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;p&gt;When communication of the stress/inhibit flags is disabled, the energy distribution strategy in Energy-Sharing fails (just as the bacterial biofilms fail to feed all bacteria when their signal relays are disabled). A simulation of this setting is shown below, corresponding to Figure 3 in the paper. Without the communication phase to inhibit particles from using energy while those that are stressed recharge, particles continuously share any energy they have with their descendants in the spanning forest. Thus, while the leaves of the spanning forest occasionally meet their energy demands(seen as the flickering darker green particles), even after 1000 rounds most particles have still not met their energy demand even once.&lt;/p&gt;
@@ -103,7 +103,7 @@
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34;
-           src=&#34;https://jdaymude.github.io/publication/daymude2021-energydistribution/nocommsim.gif&#34;
+           src=&#34;https://mhmmoshtaghi.github.io/publication/daymude2021-energydistribution/nocommsim.gif&#34;
            loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;p&gt;As an independent but supporting result, we present the &lt;strong&gt;Forest-Prune-Repair&lt;/strong&gt; algorithm that enables a spanning forest of particles to self-repair in the presence of &lt;em&gt;crash failures&lt;/em&gt; so long as the set of non-faulty particles remains connected and there is at least one non-crashed root. We prove that this algorithm stabilizes in a spanning forest rooted at root particles in at most ${\cal O}(m^2)$ asynchronous rounds, where $m$ is the number of particles that are severed from the spanning forest by crash failures.&lt;/p&gt;
@@ -125,7 +125,7 @@
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34;
-           src=&#34;https://jdaymude.github.io/publication/daymude2021-energydistribution/compsim.gif&#34;
+           src=&#34;https://mhmmoshtaghi.github.io/publication/daymude2021-energydistribution/compsim.gif&#34;
            loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;p&gt;Since &lt;strong&gt;Energy-Sharing&lt;/strong&gt; meets the system’s energy demands every ${\cal O}(n)$ asynchronous rounds and &lt;strong&gt;Forest-Prune-Repair&lt;/strong&gt; repairs any disruptions to the communication structure as particles move, a composed algorithm will not be impeded by the underlying energy distribution primitive, but may add significant overhead to its runtime. However, we observe reasonable performance in practice: for example, since hexagon formation terminates in ${\cal O}(n)$ rounds, our proven bounds suggest that the composed algorithm could terminate in time ${\cal O}(n^2)$ or worse but the graph below demonstrates an overhead that appears asymptotically sublinear. With the addition of more energy roots, the composed algorithm is dramatically faster, approaching the runtime achieved without energy constraints.&lt;/p&gt;
@@ -149,66 +149,66 @@
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34;
-           src=&#34;https://jdaymude.github.io/publication/daymude2021-energydistribution/growthsim.gif&#34;
+           src=&#34;https://mhmmoshtaghi.github.io/publication/daymude2021-energydistribution/growthsim.gif&#34;
            loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 </description>
     </item>
-    
+
     <item>
       <title>Convex Hull Formation for Programmable Matter</title>
-      <link>https://jdaymude.github.io/publication/daymude2020-convexhull/</link>
+      <link>https://mhmmoshtaghi.github.io/publication/daymude2020-convexhull/</link>
       <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://jdaymude.github.io/publication/daymude2020-convexhull/</guid>
+      <guid>https://mhmmoshtaghi.github.io/publication/daymude2020-convexhull/</guid>
       <description></description>
     </item>
-    
+
     <item>
       <title>A Local Stochastic Algorithm for Separation in Heterogeneous Self-Organizing Particle Systems</title>
-      <link>https://jdaymude.github.io/publication/cannon2019-separation/</link>
+      <link>https://mhmmoshtaghi.github.io/publication/cannon2019-separation/</link>
       <pubDate>Fri, 20 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://jdaymude.github.io/publication/cannon2019-separation/</guid>
+      <guid>https://mhmmoshtaghi.github.io/publication/cannon2019-separation/</guid>
       <description></description>
     </item>
-    
+
     <item>
       <title>Simulation of Programmable Matter Systems Using Active Tile-Based Self-Assembly</title>
-      <link>https://jdaymude.github.io/publication/alumbaugh2019-tilesimulation/</link>
+      <link>https://mhmmoshtaghi.github.io/publication/alumbaugh2019-tilesimulation/</link>
       <pubDate>Wed, 24 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://jdaymude.github.io/publication/alumbaugh2019-tilesimulation/</guid>
+      <guid>https://mhmmoshtaghi.github.io/publication/alumbaugh2019-tilesimulation/</guid>
       <description></description>
     </item>
-    
+
     <item>
       <title>Brief Announcement: A Local Stochastic Algorithm for Separation in Heterogeneous Self-Organizing Particle Systems</title>
-      <link>https://jdaymude.github.io/publication/cannon2018-separationba/</link>
+      <link>https://mhmmoshtaghi.github.io/publication/cannon2018-separationba/</link>
       <pubDate>Mon, 23 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>https://jdaymude.github.io/publication/cannon2018-separationba/</guid>
+      <guid>https://mhmmoshtaghi.github.io/publication/cannon2018-separationba/</guid>
       <description></description>
     </item>
-    
+
     <item>
       <title>Improved Leader Election for Self-Organizing Programmable Matter</title>
-      <link>https://jdaymude.github.io/publication/daymude2017-improvedleaderelection/</link>
+      <link>https://mhmmoshtaghi.github.io/publication/daymude2017-improvedleaderelection/</link>
       <pubDate>Sun, 31 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>https://jdaymude.github.io/publication/daymude2017-improvedleaderelection/</guid>
+      <guid>https://mhmmoshtaghi.github.io/publication/daymude2017-improvedleaderelection/</guid>
       <description></description>
     </item>
-    
+
     <item>
       <title>A Stochastic Approach to Shortcut Bridging in Programmable Matter</title>
-      <link>https://jdaymude.github.io/publication/andresarroyo2017-bridging/</link>
+      <link>https://mhmmoshtaghi.github.io/publication/andresarroyo2017-bridging/</link>
       <pubDate>Thu, 24 Aug 2017 00:00:00 +0000</pubDate>
-      <guid>https://jdaymude.github.io/publication/andresarroyo2017-bridging/</guid>
+      <guid>https://mhmmoshtaghi.github.io/publication/andresarroyo2017-bridging/</guid>
       <description>&lt;p&gt;Image of &lt;em&gt;Eciton&lt;/em&gt; army ants forming a shortcut bridge is reproduced with permission from &lt;a href=&#34;https://doi.org/10.1073/pnas.1512241112&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Reid et al. (PNAS, 2015)&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
-    
+
     <item>
       <title>A Markov Chain Algorithm for Compression in Self-Organizing Particle Systems</title>
-      <link>https://jdaymude.github.io/publication/cannon2016-compression/</link>
+      <link>https://mhmmoshtaghi.github.io/publication/cannon2016-compression/</link>
       <pubDate>Mon, 25 Jul 2016 00:00:00 +0000</pubDate>
-      <guid>https://jdaymude.github.io/publication/cannon2016-compression/</guid>
+      <guid>https://mhmmoshtaghi.github.io/publication/cannon2016-compression/</guid>
       <description>&lt;h3 id=&#34;related-press&#34;&gt;Related Press&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://discrete-notes.github.io/sss-2020-2-compression&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SSS 2020 Report 2: Compression of programmable matter.&lt;/a&gt; Laurent Feuilloley. &lt;em&gt;Discrete Notes&lt;/em&gt;, November 2020.&lt;/li&gt;
@@ -217,6 +217,6 @@
 &lt;/ul&gt;
 </description>
     </item>
-    
+
   </channel>
 </rss>

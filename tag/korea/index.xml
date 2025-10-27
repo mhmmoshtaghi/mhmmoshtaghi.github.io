@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>korea | Joshua J. Daymude</title>
-    <link>https://jdaymude.github.io/tag/korea/</link>
-      <atom:link href="https://jdaymude.github.io/tag/korea/index.xml" rel="self" type="application/rss+xml" />
+    <title>korea | Mohammad Moshtaghi</title>
+    <link>https://mhmmoshtaghi.github.io/tag/korea/</link>
+      <atom:link href="https://mhmmoshtaghi.github.io/tag/korea/index.xml" rel="self" type="application/rss+xml" />
     <description>korea</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Joshua J. Daymude</copyright><lastBuildDate>Wed, 05 Jan 2022 13:00:00 -0800</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Mohammad Moshtaghi</copyright><lastBuildDate>Wed, 05 Jan 2022 13:00:00 -0800</lastBuildDate>
     <image>
-      <url>https://jdaymude.github.io/media/logo_hu1dc8deb1865675db905a286e8af9308b_16380_300x300_fit_lanczos_3.png</url>
+      <url>https://mhmmoshtaghi.github.io/media/logo_hu1dc8deb1865675db905a286e8af9308b_16380_300x300_fit_lanczos_3.png</url>
       <title>korea</title>
-      <link>https://jdaymude.github.io/tag/korea/</link>
+      <link>https://mhmmoshtaghi.github.io/tag/korea/</link>
     </image>
-    
+
     <item>
       <title>Crying in H Mart</title>
-      <link>https://jdaymude.github.io/review/book-crying-in-h-mart/</link>
+      <link>https://mhmmoshtaghi.github.io/review/book-crying-in-h-mart/</link>
       <pubDate>Wed, 05 Jan 2022 13:00:00 -0800</pubDate>
-      <guid>https://jdaymude.github.io/review/book-crying-in-h-mart/</guid>
+      <guid>https://mhmmoshtaghi.github.io/review/book-crying-in-h-mart/</guid>
       <description>&lt;p&gt;I came to &lt;em&gt;Crying in H Mart&lt;/em&gt; with questions I&amp;rsquo;ve been asking my entire race- and ethnicity-conscious life.
 Questions of place and perception, where I fit and how others see me.
 Questions of whether people like me, my siblings, and Michelle Zauner will ever find ourselves in a world where we don&amp;rsquo;t have to explain ourselves as 한국사람 하고 미국사람, a biracial Korean and white person.
@@ -74,6 +74,6 @@ And in all this, we&amp;rsquo;ve come to learn that there are no clean answers t
 &lt;p&gt;Even still, it&amp;rsquo;s nice to not be alone.&lt;/p&gt;
 </description>
     </item>
-    
+
   </channel>
 </rss>

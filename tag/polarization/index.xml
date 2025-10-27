@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>polarization | Joshua J. Daymude</title>
-    <link>https://jdaymude.github.io/tag/polarization/</link>
-      <atom:link href="https://jdaymude.github.io/tag/polarization/index.xml" rel="self" type="application/rss+xml" />
+    <title>polarization | Mohammad Moshtaghi</title>
+    <link>https://mhmmoshtaghi.github.io/tag/polarization/</link>
+      <atom:link href="https://mhmmoshtaghi.github.io/tag/polarization/index.xml" rel="self" type="application/rss+xml" />
     <description>polarization</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Joshua J. Daymude</copyright><lastBuildDate>Thu, 21 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Mohammad Moshtaghi</copyright><lastBuildDate>Thu, 21 Apr 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://jdaymude.github.io/media/logo_hu1dc8deb1865675db905a286e8af9308b_16380_300x300_fit_lanczos_3.png</url>
+      <url>https://mhmmoshtaghi.github.io/media/logo_hu1dc8deb1865675db905a286e8af9308b_16380_300x300_fit_lanczos_3.png</url>
       <title>polarization</title>
-      <link>https://jdaymude.github.io/tag/polarization/</link>
+      <link>https://mhmmoshtaghi.github.io/tag/polarization/</link>
     </image>
-    
+
     <item>
       <title>Reply to de Marchi: Modeling Polarization of Political Attitudes</title>
-      <link>https://jdaymude.github.io/publication/axelrod2022-polarizationreply/</link>
+      <link>https://mhmmoshtaghi.github.io/publication/axelrod2022-polarizationreply/</link>
       <pubDate>Thu, 21 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://jdaymude.github.io/publication/axelrod2022-polarizationreply/</guid>
+      <guid>https://mhmmoshtaghi.github.io/publication/axelrod2022-polarizationreply/</guid>
       <description></description>
     </item>
-    
+
     <item>
       <title>Preventing Extreme Polarization of Political Attitudes</title>
-      <link>https://jdaymude.github.io/publication/axelrod2021-preventingpolarization/</link>
+      <link>https://mhmmoshtaghi.github.io/publication/axelrod2021-preventingpolarization/</link>
       <pubDate>Tue, 14 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://jdaymude.github.io/publication/axelrod2021-preventingpolarization/</guid>
+      <guid>https://mhmmoshtaghi.github.io/publication/axelrod2021-preventingpolarization/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://icccr.tc.columbia.edu/blog/how-might-individual-interactions-lead-to-polarization-in-a-society/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Science-Practice Blog: How might individual interactions lead to polarization in a society?&lt;/a&gt; Nancy Lewis. &lt;em&gt;The Morton Deutsch International Center for Cooperation and Conflict Resolution&lt;/em&gt;, June 2022.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.eurekalert.org/news-releases/937038&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Like a natural system, democracy faces collapse as polarization leads to loss of diversity.&lt;/a&gt; Princeton University. &lt;em&gt;EurekaAlert!&lt;/em&gt;, December 2021.&lt;/li&gt;
@@ -35,6 +35,6 @@
 &lt;/ul&gt;
 </description>
     </item>
-    
+
   </channel>
 </rss>

@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects | Joshua J. Daymude</title>
-    <link>https://jdaymude.github.io/project/</link>
-      <atom:link href="https://jdaymude.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <title>Projects | Mohammad Moshtaghi</title>
+    <link>https://mhmmoshtaghi.github.io/project/</link>
+      <atom:link href="https://mhmmoshtaghi.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Joshua J. Daymude</copyright><lastBuildDate>Fri, 17 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Mohammad Moshtaghi</copyright><lastBuildDate>Fri, 17 Feb 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://jdaymude.github.io/media/logo_hu1dc8deb1865675db905a286e8af9308b_16380_300x300_fit_lanczos_3.png</url>
+      <url>https://mhmmoshtaghi.github.io/media/logo_hu1dc8deb1865675db905a286e8af9308b_16380_300x300_fit_lanczos_3.png</url>
       <title>Projects</title>
-      <link>https://jdaymude.github.io/project/</link>
+      <link>https://mhmmoshtaghi.github.io/project/</link>
     </image>
-    
+
     <item>
       <title>Self-Organizing Particle Systems (SOPS)</title>
-      <link>https://jdaymude.github.io/project/sops/</link>
+      <link>https://mhmmoshtaghi.github.io/project/sops/</link>
       <pubDate>Fri, 17 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>https://jdaymude.github.io/project/sops/</guid>
+      <guid>https://mhmmoshtaghi.github.io/project/sops/</guid>
       <description>&lt;p&gt;Self-Organizing Particle Systems (SOPS) is an abstraction of &lt;em&gt;programmable matter&lt;/em&gt;, a substance with the ability to change its physical properties (shape, density, conductivity, etc.) in a programmable fashion. In order for programmable matter to live up to the dream of being an all-purpose &amp;quot;bucket of stuff&amp;quot; deployable for any task at any scale, we need a rich toolbox of algorithmic primitives upon which we can program more complex behaviors. Although the eventual vision is to control a whole mass of programmable matter as a single entity, our toolbox of primitives should be defined at the level of individual &amp;quot;atoms&amp;quot; of programmable matter to enable arbitrary scalability. Thus, we must take a distributed computing approach to defining micro-scale behaviors that collectively induce macro-scale phenomena.&lt;/p&gt;
 &lt;p&gt;Towards this goal, self-organizing particle systems abstractly envision programmable matter as an ensemble of tiny computational units called &lt;em&gt;particles&lt;/em&gt;. These particles are assumed to be very simple: they have very limited memory, no sense of orientation or direction, and only local movement and communication capabilities. Our formal model for these particle systems is the &lt;em&gt;amoebot model&lt;/em&gt;, which provides a theoretical framework for developing and analyzing our distributed algorithms for particle systems.&lt;/p&gt;
 </description>
     </item>
-    
+
     <item>
       <title>Adaptive Self-Organization in Anonymous Dynamic Networks</title>
-      <link>https://jdaymude.github.io/project/dynamic-networks/</link>
+      <link>https://mhmmoshtaghi.github.io/project/dynamic-networks/</link>
       <pubDate>Fri, 29 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://jdaymude.github.io/project/dynamic-networks/</guid>
+      <guid>https://mhmmoshtaghi.github.io/project/dynamic-networks/</guid>
       <description>&lt;p&gt;Distributed computing theory has matured well beyond its original inspiration of dedicated computers linked together in static networks for message passing and file sharing.
 A key theme across modern applications of distributed computing is the impact of &lt;em&gt;dynamics&lt;/em&gt;, or frequent changes in the system&amp;rsquo;s members or the connections among them.
 This paradigm shift has enabled distributed computing to innovate both within computer science—e.g., in the construction of self-stabilizing overlay networks—and beyond the realm of engineering in, e.g., economics, biology, neurology, and active matter physics.
@@ -36,15 +36,15 @@ In studying asynchronous concurrency, we challenge the literature&amp;rsquo;s ub
 With adaptive self-organization, we initiate the study of an orthogonal type of dynamics, &lt;em&gt;time-varying system tasks&lt;/em&gt;, which require algorithms to simultaneously adapt to the environment and achieve self-stabilization.&lt;/p&gt;
 </description>
     </item>
-    
+
     <item>
       <title>A Distributed, Stochastic Framework for Active Matter</title>
-      <link>https://jdaymude.github.io/project/active-matter/</link>
+      <link>https://mhmmoshtaghi.github.io/project/active-matter/</link>
       <pubDate>Fri, 23 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://jdaymude.github.io/project/active-matter/</guid>
+      <guid>https://mhmmoshtaghi.github.io/project/active-matter/</guid>
       <description>&lt;p&gt;We develop a theoretical framework for task-oriented &lt;em&gt;active matter&lt;/em&gt; that combines distributed computing, stochastic processes, statistical physics, active matter physics, and robophysics. By harnessing phase changes from statistical physics in our formal modeling and algorithm design, we obtain robust and provable self-organizing behaviors. We then incorporate this theory into swarm robotics platforms, establishing tight analogies between (but not necessarily strict implementations of) the algorithms&#39; rules and our robots&#39; designs. This allows us to critically examine our theoretical algorithms&#39; robustness to the errors and uncertainties of physical environments. Further, we can treat robot swarms as macro-scale active matter systems, studying the inter-robot dynamics as an analogy to particle interactions.&lt;/p&gt;
 </description>
     </item>
-    
+
   </channel>
 </rss>

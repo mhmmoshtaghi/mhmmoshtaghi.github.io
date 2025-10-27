@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>videogame-review | Joshua J. Daymude</title>
-    <link>https://jdaymude.github.io/category/videogame-review/</link>
-      <atom:link href="https://jdaymude.github.io/category/videogame-review/index.xml" rel="self" type="application/rss+xml" />
+    <title>videogame-review | Mohammad Moshtaghi</title>
+    <link>https://mhmmoshtaghi.github.io/category/videogame-review/</link>
+      <atom:link href="https://mhmmoshtaghi.github.io/category/videogame-review/index.xml" rel="self" type="application/rss+xml" />
     <description>videogame-review</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Joshua J. Daymude</copyright><lastBuildDate>Thu, 23 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Mohammad Moshtaghi</copyright><lastBuildDate>Thu, 23 Jun 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://jdaymude.github.io/media/logo_hu1dc8deb1865675db905a286e8af9308b_16380_300x300_fit_lanczos_3.png</url>
+      <url>https://mhmmoshtaghi.github.io/media/logo_hu1dc8deb1865675db905a286e8af9308b_16380_300x300_fit_lanczos_3.png</url>
       <title>videogame-review</title>
-      <link>https://jdaymude.github.io/category/videogame-review/</link>
+      <link>https://mhmmoshtaghi.github.io/category/videogame-review/</link>
     </image>
-    
+
     <item>
       <title>Fable: Anniversary</title>
-      <link>https://jdaymude.github.io/review/videogame-fable-anniversary/</link>
+      <link>https://mhmmoshtaghi.github.io/review/videogame-fable-anniversary/</link>
       <pubDate>Thu, 23 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://jdaymude.github.io/review/videogame-fable-anniversary/</guid>
+      <guid>https://mhmmoshtaghi.github.io/review/videogame-fable-anniversary/</guid>
       <description>&lt;p&gt;When the original &lt;em&gt;Fable&lt;/em&gt; was released in 2004, it made waves.
 As Guildford Games wrote in their &lt;a href=&#34;https://guildford.games/developers/lionhead-studios&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;eulogy for Lionhead Studios&lt;/a&gt;:&lt;/p&gt;
 &lt;blockquote&gt;
@@ -48,7 +48,7 @@ So here I am in 2022, having never touched a &lt;em&gt;Fable&lt;/em&gt; game, th
                /review/videogame-fable-anniversary/hero_hu368ae3dd97cf64c12c5df8af1390b967_3182096_3be9d77dea25367ae95bec811bc470c7.png 400w,
                /review/videogame-fable-anniversary/hero_hu368ae3dd97cf64c12c5df8af1390b967_3182096_9590c421bf4b736d4ea533c6d7cc5b97.png 760w,
                /review/videogame-fable-anniversary/hero_hu368ae3dd97cf64c12c5df8af1390b967_3182096_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://jdaymude.github.io/review/videogame-fable-anniversary/hero_hu368ae3dd97cf64c12c5df8af1390b967_3182096_3be9d77dea25367ae95bec811bc470c7.png&#34;
+               src=&#34;https://mhmmoshtaghi.github.io/review/videogame-fable-anniversary/hero_hu368ae3dd97cf64c12c5df8af1390b967_3182096_3be9d77dea25367ae95bec811bc470c7.png&#34;
                width=&#34;760&#34;
                height=&#34;428&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -84,7 +84,7 @@ Good joke!&lt;/p&gt;
                /review/videogame-fable-anniversary/guard_hu671b1a836abdcf1c521e1111c30a6ca9_3028679_9123de145e5b89e0313e0a3b9e07a93e.png 400w,
                /review/videogame-fable-anniversary/guard_hu671b1a836abdcf1c521e1111c30a6ca9_3028679_73a40b0811e5ff4084ee4558734a70b7.png 760w,
                /review/videogame-fable-anniversary/guard_hu671b1a836abdcf1c521e1111c30a6ca9_3028679_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://jdaymude.github.io/review/videogame-fable-anniversary/guard_hu671b1a836abdcf1c521e1111c30a6ca9_3028679_9123de145e5b89e0313e0a3b9e07a93e.png&#34;
+               src=&#34;https://mhmmoshtaghi.github.io/review/videogame-fable-anniversary/guard_hu671b1a836abdcf1c521e1111c30a6ca9_3028679_9123de145e5b89e0313e0a3b9e07a93e.png&#34;
                width=&#34;760&#34;
                height=&#34;428&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -105,12 +105,12 @@ Good games can be simple.
 Good games can be fun.&lt;/p&gt;
 </description>
     </item>
-    
+
     <item>
       <title>Donut County</title>
-      <link>https://jdaymude.github.io/review/videogame-donut-county/</link>
+      <link>https://mhmmoshtaghi.github.io/review/videogame-donut-county/</link>
       <pubDate>Mon, 23 May 2022 12:00:00 -0700</pubDate>
-      <guid>https://jdaymude.github.io/review/videogame-donut-county/</guid>
+      <guid>https://mhmmoshtaghi.github.io/review/videogame-donut-county/</guid>
       <description>&lt;p&gt;This will be a short and sweet review for a short and sweet game.
 &lt;em&gt;Donut County&lt;/em&gt; is a delightful and comical must-play in which you control as a hole in the ground that&amp;rsquo;s gobbling everything up.
 Each hole starts small—fitting only a soda can or a pebble—but grows with each object consumed.
@@ -136,7 +136,7 @@ Clear the area of any and all objects, and you win!&lt;/p&gt;
                /review/videogame-donut-county/lagoon_huae14f9948a41b49dd39a8cc50d1a38b6_750641_31dabf6b3dfdd7d61aacaab82c757cb5.png 400w,
                /review/videogame-donut-county/lagoon_huae14f9948a41b49dd39a8cc50d1a38b6_750641_45439be4bc3c9a534bf8e0059212cc9a.png 760w,
                /review/videogame-donut-county/lagoon_huae14f9948a41b49dd39a8cc50d1a38b6_750641_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://jdaymude.github.io/review/videogame-donut-county/lagoon_huae14f9948a41b49dd39a8cc50d1a38b6_750641_31dabf6b3dfdd7d61aacaab82c757cb5.png&#34;
+               src=&#34;https://mhmmoshtaghi.github.io/review/videogame-donut-county/lagoon_huae14f9948a41b49dd39a8cc50d1a38b6_750641_31dabf6b3dfdd7d61aacaab82c757cb5.png&#34;
                width=&#34;760&#34;
                height=&#34;428&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -166,7 +166,7 @@ Our consciences get to take a back seat to hilarity on this colorful and minimal
                /review/videogame-donut-county/roaches_hu37bbe4c4fb81050bf2f28d15d1198476_712798_c902565c223c6b5e5a63d7f700f72415.png 400w,
                /review/videogame-donut-county/roaches_hu37bbe4c4fb81050bf2f28d15d1198476_712798_7c9abf128bf1b740b1dc286b99f8d560.png 760w,
                /review/videogame-donut-county/roaches_hu37bbe4c4fb81050bf2f28d15d1198476_712798_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://jdaymude.github.io/review/videogame-donut-county/roaches_hu37bbe4c4fb81050bf2f28d15d1198476_712798_c902565c223c6b5e5a63d7f700f72415.png&#34;
+               src=&#34;https://mhmmoshtaghi.github.io/review/videogame-donut-county/roaches_hu37bbe4c4fb81050bf2f28d15d1198476_712798_c902565c223c6b5e5a63d7f700f72415.png&#34;
                width=&#34;760&#34;
                height=&#34;428&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -175,12 +175,12 @@ Our consciences get to take a back seat to hilarity on this colorful and minimal
 If you need an afternoon pick-me-up or a palette cleanser between longer games, &lt;em&gt;Donut County&lt;/em&gt; won&amp;rsquo;t fail to delight.&lt;/p&gt;
 </description>
     </item>
-    
+
     <item>
       <title>Bugsnax</title>
-      <link>https://jdaymude.github.io/review/videogame-bugsnax/</link>
+      <link>https://mhmmoshtaghi.github.io/review/videogame-bugsnax/</link>
       <pubDate>Sun, 22 May 2022 11:00:00 -0700</pubDate>
-      <guid>https://jdaymude.github.io/review/videogame-bugsnax/</guid>
+      <guid>https://mhmmoshtaghi.github.io/review/videogame-bugsnax/</guid>
       <description>&lt;p&gt;&lt;em&gt;Bugsnax&lt;/em&gt; tells the story of a ragtag band of grumpuses who followed the charismatic Aussie-explorer Elizabert Megafig to Snaktooth Island.
 On arrival, they discover bugsnax—part bug, part snack!—which quickly become their primary source of food and mystery.
 Only three things are certain: bugsnax are delicious, eating them changes body parts into the &amp;ldquo;-snax&amp;rdquo; part of bugsnax, and grumpuses are bizarrely okay with having curly fries for biceps and honeycombs for hands.
@@ -205,7 +205,7 @@ But just as eating too many bugsnax morphs grumpuses into foodie-Frankensteins, 
                /review/videogame-bugsnax/chandlo_hu67f43246ef3723f28ec9f658b8cbbbb9_11098875_bd59abff18c60c0e3dcec6295e350608.png 400w,
                /review/videogame-bugsnax/chandlo_hu67f43246ef3723f28ec9f658b8cbbbb9_11098875_22b7eec29dc315526d8ff4e63c32bd6a.png 760w,
                /review/videogame-bugsnax/chandlo_hu67f43246ef3723f28ec9f658b8cbbbb9_11098875_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://jdaymude.github.io/review/videogame-bugsnax/chandlo_hu67f43246ef3723f28ec9f658b8cbbbb9_11098875_bd59abff18c60c0e3dcec6295e350608.png&#34;
+               src=&#34;https://mhmmoshtaghi.github.io/review/videogame-bugsnax/chandlo_hu67f43246ef3723f28ec9f658b8cbbbb9_11098875_bd59abff18c60c0e3dcec6295e350608.png&#34;
                width=&#34;760&#34;
                height=&#34;428&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -246,7 +246,7 @@ Figuring out these idiosyncrasies for the first time is good fun— repeating th
                /review/videogame-bugsnax/party_hub288d71f368e3316dfa6d690adc1e376_10983763_094bcfa548c58507675cf3e4910ab6aa.png 400w,
                /review/videogame-bugsnax/party_hub288d71f368e3316dfa6d690adc1e376_10983763_feca1f4a5eefd60b8a983c2f196e6745.png 760w,
                /review/videogame-bugsnax/party_hub288d71f368e3316dfa6d690adc1e376_10983763_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://jdaymude.github.io/review/videogame-bugsnax/party_hub288d71f368e3316dfa6d690adc1e376_10983763_094bcfa548c58507675cf3e4910ab6aa.png&#34;
+               src=&#34;https://mhmmoshtaghi.github.io/review/videogame-bugsnax/party_hub288d71f368e3316dfa6d690adc1e376_10983763_094bcfa548c58507675cf3e4910ab6aa.png&#34;
                width=&#34;760&#34;
                height=&#34;428&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -278,7 +278,7 @@ And don&amp;rsquo;t even get me started on Wiggle.&lt;/p&gt;
                /review/videogame-bugsnax/wiggle_hue586f5bdd12c1608f3a4e6947390d787_8826702_47d0ac2217c684824986cb63d2101bbb.png 400w,
                /review/videogame-bugsnax/wiggle_hue586f5bdd12c1608f3a4e6947390d787_8826702_2daff6c7bfebc6d36cd71123aa878bba.png 760w,
                /review/videogame-bugsnax/wiggle_hue586f5bdd12c1608f3a4e6947390d787_8826702_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://jdaymude.github.io/review/videogame-bugsnax/wiggle_hue586f5bdd12c1608f3a4e6947390d787_8826702_47d0ac2217c684824986cb63d2101bbb.png&#34;
+               src=&#34;https://mhmmoshtaghi.github.io/review/videogame-bugsnax/wiggle_hue586f5bdd12c1608f3a4e6947390d787_8826702_47d0ac2217c684824986cb63d2101bbb.png&#34;
                width=&#34;760&#34;
                height=&#34;428&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -289,12 +289,12 @@ It may not have been the finest of dining, but would it satisfy at a family dinn
 Hopefully so.&lt;/p&gt;
 </description>
     </item>
-    
+
     <item>
       <title>Moonglow Bay</title>
-      <link>https://jdaymude.github.io/review/videogame-moonglow-bay/</link>
+      <link>https://mhmmoshtaghi.github.io/review/videogame-moonglow-bay/</link>
       <pubDate>Sun, 13 Feb 2022 15:00:00 -0700</pubDate>
-      <guid>https://jdaymude.github.io/review/videogame-moonglow-bay/</guid>
+      <guid>https://mhmmoshtaghi.github.io/review/videogame-moonglow-bay/</guid>
       <description>&lt;p&gt;I so badly wanted to love &lt;em&gt;Moonglow Bay&lt;/em&gt; from the moment I saw its trailer at Wholesome Direct 2021.
 Your late spouse loved the titular Canadian small town until the day they disappeared in its ocean.
 Years later, it stands on the brink of economic collapse and it&amp;rsquo;s up to you to combine their passion for fishing with your love of cooking to save it.
@@ -320,7 +320,7 @@ Reinvesting their lunch money into town renovations slowly transforms a languish
                /review/videogame-moonglow-bay/baylandscape_hu7b85d471563a583bdb0dab532a76c002_9150112_47f501742794d25379e4bcc5a1213465.png 400w,
                /review/videogame-moonglow-bay/baylandscape_hu7b85d471563a583bdb0dab532a76c002_9150112_230ed5e3dd34dd458950b86f9891db37.png 760w,
                /review/videogame-moonglow-bay/baylandscape_hu7b85d471563a583bdb0dab532a76c002_9150112_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://jdaymude.github.io/review/videogame-moonglow-bay/baylandscape_hu7b85d471563a583bdb0dab532a76c002_9150112_47f501742794d25379e4bcc5a1213465.png&#34;
+               src=&#34;https://mhmmoshtaghi.github.io/review/videogame-moonglow-bay/baylandscape_hu7b85d471563a583bdb0dab532a76c002_9150112_47f501742794d25379e4bcc5a1213465.png&#34;
                width=&#34;760&#34;
                height=&#34;428&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -348,7 +348,7 @@ By over-emphasizing its most tedious gameplay elements, failing to achieve cohes
                /review/videogame-moonglow-bay/townhall_huc774a957b1dfdfd0a2e8e9e312f4aa33_9280176_ae1e913653e8b0d4f5449b1fa1be62f1.png 400w,
                /review/videogame-moonglow-bay/townhall_huc774a957b1dfdfd0a2e8e9e312f4aa33_9280176_9036faf82d5a6b1216c9e93281128548.png 760w,
                /review/videogame-moonglow-bay/townhall_huc774a957b1dfdfd0a2e8e9e312f4aa33_9280176_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://jdaymude.github.io/review/videogame-moonglow-bay/townhall_huc774a957b1dfdfd0a2e8e9e312f4aa33_9280176_ae1e913653e8b0d4f5449b1fa1be62f1.png&#34;
+               src=&#34;https://mhmmoshtaghi.github.io/review/videogame-moonglow-bay/townhall_huc774a957b1dfdfd0a2e8e9e312f4aa33_9280176_ae1e913653e8b0d4f5449b1fa1be62f1.png&#34;
                width=&#34;760&#34;
                height=&#34;428&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -386,7 +386,7 @@ Turns out there&amp;rsquo;s nothing to find—not even a cool view—and there w
                /review/videogame-moonglow-bay/iceview_hu5f3a252fe0695601f1d01e2bbcbd1fc5_8627159_e7b14a769f785486e5ef114b455d1d3e.png 400w,
                /review/videogame-moonglow-bay/iceview_hu5f3a252fe0695601f1d01e2bbcbd1fc5_8627159_4537e7712f8a6f2ea77590422b2d7640.png 760w,
                /review/videogame-moonglow-bay/iceview_hu5f3a252fe0695601f1d01e2bbcbd1fc5_8627159_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://jdaymude.github.io/review/videogame-moonglow-bay/iceview_hu5f3a252fe0695601f1d01e2bbcbd1fc5_8627159_e7b14a769f785486e5ef114b455d1d3e.png&#34;
+               src=&#34;https://mhmmoshtaghi.github.io/review/videogame-moonglow-bay/iceview_hu5f3a252fe0695601f1d01e2bbcbd1fc5_8627159_e7b14a769f785486e5ef114b455d1d3e.png&#34;
                width=&#34;760&#34;
                height=&#34;428&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -416,7 +416,7 @@ At this point, my feelings as a player are like:&lt;/p&gt;
                /review/videogame-moonglow-bay/questions_hu4384f2f48a3c02d93b63cc8494181e65_8344499_4c60f75de892259bf714dd9b43b10f78.png 400w,
                /review/videogame-moonglow-bay/questions_hu4384f2f48a3c02d93b63cc8494181e65_8344499_3bf4656805702a492ee71ed508d21ad9.png 760w,
                /review/videogame-moonglow-bay/questions_hu4384f2f48a3c02d93b63cc8494181e65_8344499_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://jdaymude.github.io/review/videogame-moonglow-bay/questions_hu4384f2f48a3c02d93b63cc8494181e65_8344499_4c60f75de892259bf714dd9b43b10f78.png&#34;
+               src=&#34;https://mhmmoshtaghi.github.io/review/videogame-moonglow-bay/questions_hu4384f2f48a3c02d93b63cc8494181e65_8344499_4c60f75de892259bf714dd9b43b10f78.png&#34;
                width=&#34;760&#34;
                height=&#34;428&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -449,7 +449,7 @@ Either you realize you need to take notes yourself, or you&amp;rsquo;re resortin
                /review/videogame-moonglow-bay/dinghys_hufd5745a5dc9c56669ccb2f89dc592811_9568549_08684c86021ad74ca3a9e37d1b64a487.png 400w,
                /review/videogame-moonglow-bay/dinghys_hufd5745a5dc9c56669ccb2f89dc592811_9568549_dbef886ca1cbeeaa7bbc21dca33af807.png 760w,
                /review/videogame-moonglow-bay/dinghys_hufd5745a5dc9c56669ccb2f89dc592811_9568549_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://jdaymude.github.io/review/videogame-moonglow-bay/dinghys_hufd5745a5dc9c56669ccb2f89dc592811_9568549_08684c86021ad74ca3a9e37d1b64a487.png&#34;
+               src=&#34;https://mhmmoshtaghi.github.io/review/videogame-moonglow-bay/dinghys_hufd5745a5dc9c56669ccb2f89dc592811_9568549_08684c86021ad74ca3a9e37d1b64a487.png&#34;
                width=&#34;760&#34;
                height=&#34;428&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -473,12 +473,12 @@ You do the math on that time sink.&lt;/p&gt;
 Too bad it seized every opportunity to take that vision down with the ship.&lt;/p&gt;
 </description>
     </item>
-    
+
     <item>
       <title>Hades</title>
-      <link>https://jdaymude.github.io/review/videogame-hades/</link>
+      <link>https://mhmmoshtaghi.github.io/review/videogame-hades/</link>
       <pubDate>Tue, 04 Jan 2022 13:00:00 -0800</pubDate>
-      <guid>https://jdaymude.github.io/review/videogame-hades/</guid>
+      <guid>https://mhmmoshtaghi.github.io/review/videogame-hades/</guid>
       <description>&lt;p&gt;It&amp;rsquo;s very difficult at this point to say anything about &lt;em&gt;Hades&lt;/em&gt; that hasn&amp;rsquo;t already been said, not because of any lack on the part of this Underworld roguelite, but because &lt;a href=&#34;https://www.polygon.com/reviews/2020/9/24/21453043/hades-review-switch-windows-early-access-supergiant-roguelite-impressions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;so&lt;/a&gt; &lt;a href=&#34;https://kotaku.com/hades-the-kotaku-review-1845204803&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;many&lt;/a&gt; &lt;a href=&#34;https://www.thegamer.com/hades-relationships/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;others&lt;/a&gt; &lt;a href=&#34;https://pandemics-and-games-essay-jam.pubpub.org/pub/t2elcdwu/release/3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;before&lt;/a&gt; &lt;a href=&#34;&#34;&gt;me&lt;/a&gt; have loved and effusively written about this game.
 A week after its early access release in September 2020, it had already &lt;a href=&#34;https://www.gamespot.com/articles/hades-has-sold-1-million-copies-nearly-one-third-sold-in-last-few-days/1100-6482388/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;sold 1,000,000 copies&lt;/a&gt;.
 It was listed as just about everyone&amp;rsquo;s 2020 game of the year and even won the &lt;a href=&#34;http://www.thehugoawards.org/hugo-history/2021-hugo-awards/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;first ever Hugo award given to a videogame&lt;/a&gt; (for the unfamiliar, those are literary awards for sci-fi and fantasy).
@@ -505,7 +505,7 @@ Fair enough.&lt;/p&gt;
                /review/videogame-hades/asphodel_hu3e02d9993d6b7ca16ff38861c80eebe3_5590285_1bffddde67e3c2b3d40146fb6fbb9d94.png 400w,
                /review/videogame-hades/asphodel_hu3e02d9993d6b7ca16ff38861c80eebe3_5590285_51a193176d9afc0708f30e60b9eabbe7.png 760w,
                /review/videogame-hades/asphodel_hu3e02d9993d6b7ca16ff38861c80eebe3_5590285_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://jdaymude.github.io/review/videogame-hades/asphodel_hu3e02d9993d6b7ca16ff38861c80eebe3_5590285_1bffddde67e3c2b3d40146fb6fbb9d94.png&#34;
+               src=&#34;https://mhmmoshtaghi.github.io/review/videogame-hades/asphodel_hu3e02d9993d6b7ca16ff38861c80eebe3_5590285_1bffddde67e3c2b3d40146fb6fbb9d94.png&#34;
                width=&#34;760&#34;
                height=&#34;428&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -534,7 +534,7 @@ Therein lies the game&amp;rsquo;s core mechanic of repeated and semi-randomized 
                /review/videogame-hades/sisyphus_hua9bb2ec1a17a0c56258d9845936e41e0_5787638_46bcd29625a6c8c887e36fd7b583a184.png 400w,
                /review/videogame-hades/sisyphus_hua9bb2ec1a17a0c56258d9845936e41e0_5787638_a185aaf0b2bd6f9f7e0cc270c66ce1b2.png 760w,
                /review/videogame-hades/sisyphus_hua9bb2ec1a17a0c56258d9845936e41e0_5787638_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://jdaymude.github.io/review/videogame-hades/sisyphus_hua9bb2ec1a17a0c56258d9845936e41e0_5787638_46bcd29625a6c8c887e36fd7b583a184.png&#34;
+               src=&#34;https://mhmmoshtaghi.github.io/review/videogame-hades/sisyphus_hua9bb2ec1a17a0c56258d9845936e41e0_5787638_46bcd29625a6c8c887e36fd7b583a184.png&#34;
                width=&#34;760&#34;
                height=&#34;428&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -562,7 +562,7 @@ Largely thanks to the game&amp;rsquo;s writing and length, relationships grow an
                /review/videogame-hades/cerberus_hu09e94034d8f80ca905a103b16ab3fb11_6258964_70287b34a73678d1504d5ad86776b4fe.png 400w,
                /review/videogame-hades/cerberus_hu09e94034d8f80ca905a103b16ab3fb11_6258964_86a913882f4e5e848db2851fca8ea78e.png 760w,
                /review/videogame-hades/cerberus_hu09e94034d8f80ca905a103b16ab3fb11_6258964_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://jdaymude.github.io/review/videogame-hades/cerberus_hu09e94034d8f80ca905a103b16ab3fb11_6258964_70287b34a73678d1504d5ad86776b4fe.png&#34;
+               src=&#34;https://mhmmoshtaghi.github.io/review/videogame-hades/cerberus_hu09e94034d8f80ca905a103b16ab3fb11_6258964_70287b34a73678d1504d5ad86776b4fe.png&#34;
                width=&#34;760&#34;
                height=&#34;428&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -591,7 +591,7 @@ Keepsakes given to Zagreus by his friends can make the difference between living
                /review/videogame-hades/houseofhades_hu617251975e2bd76a982738a8a3da9036_9977131_a8a7c98f51bc6e2696ce3099c1f81275.png 400w,
                /review/videogame-hades/houseofhades_hu617251975e2bd76a982738a8a3da9036_9977131_ba08bcf82bd7d1720b3453a6c1de2684.png 760w,
                /review/videogame-hades/houseofhades_hu617251975e2bd76a982738a8a3da9036_9977131_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://jdaymude.github.io/review/videogame-hades/houseofhades_hu617251975e2bd76a982738a8a3da9036_9977131_a8a7c98f51bc6e2696ce3099c1f81275.png&#34;
+               src=&#34;https://mhmmoshtaghi.github.io/review/videogame-hades/houseofhades_hu617251975e2bd76a982738a8a3da9036_9977131_a8a7c98f51bc6e2696ce3099c1f81275.png&#34;
                width=&#34;760&#34;
                height=&#34;428&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -604,12 +604,12 @@ I completed runs on autopilot, sped along by the Pact of Punishment&amp;rsquo;s 
 The epilogue shows us how Zagreus&amp;rsquo;s potential for redemptive, generous, and loving acts are discovered only after finding his place within community.&lt;/p&gt;
 </description>
     </item>
-    
+
     <item>
       <title>Control</title>
-      <link>https://jdaymude.github.io/review/videogame-control/</link>
+      <link>https://mhmmoshtaghi.github.io/review/videogame-control/</link>
       <pubDate>Fri, 03 Sep 2021 19:08:32 -0700</pubDate>
-      <guid>https://jdaymude.github.io/review/videogame-control/</guid>
+      <guid>https://mhmmoshtaghi.github.io/review/videogame-control/</guid>
       <description>&lt;p&gt;&lt;em&gt;Control&lt;/em&gt; exerts full mastery over videogames as a unique narrative form, blending motion-capture acting performances, live-action filmed skits and monologues, puppet shows, radio programs, rock albums, short stories, technical documentation, a whole slew of homages to other videogame genres, and — of course — shooting weird shit that needs to be shot.
 While not a must, &lt;em&gt;Control&lt;/em&gt; and its Oldest House are best experienced in the progressive revelations and immersive weirdness so carefully crafted by its developers.
 The remainder of this review may contain atmospheric and thematic spoilers.&lt;/p&gt;
@@ -633,7 +633,7 @@ The remainder of this review may contain atmospheric and thematic spoilers.&lt;/
                /review/videogame-control/darlinglab_hu471d3b84ad02b33ff440bd4b1443ac0c_13269229_4a4e2ded0cf0e2069c1d4191dec0dcb3.png 400w,
                /review/videogame-control/darlinglab_hu471d3b84ad02b33ff440bd4b1443ac0c_13269229_da53c9220be5e207c05b6876b4e21d25.png 760w,
                /review/videogame-control/darlinglab_hu471d3b84ad02b33ff440bd4b1443ac0c_13269229_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://jdaymude.github.io/review/videogame-control/darlinglab_hu471d3b84ad02b33ff440bd4b1443ac0c_13269229_4a4e2ded0cf0e2069c1d4191dec0dcb3.png&#34;
+               src=&#34;https://mhmmoshtaghi.github.io/review/videogame-control/darlinglab_hu471d3b84ad02b33ff440bd4b1443ac0c_13269229_4a4e2ded0cf0e2069c1d4191dec0dcb3.png&#34;
                width=&#34;760&#34;
                height=&#34;428&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -669,7 +669,7 @@ The player may be holding the controller, but this is Jesse&amp;rsquo;s story an
                /review/videogame-control/deadletters_hu22768126cfc898da6df58e5b94ef368d_9677457_9c3fa6311828fe013d8ed836b5a39268.png 400w,
                /review/videogame-control/deadletters_hu22768126cfc898da6df58e5b94ef368d_9677457_1bb8423f2034d09922e30568d51f7d8f.png 760w,
                /review/videogame-control/deadletters_hu22768126cfc898da6df58e5b94ef368d_9677457_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://jdaymude.github.io/review/videogame-control/deadletters_hu22768126cfc898da6df58e5b94ef368d_9677457_9c3fa6311828fe013d8ed836b5a39268.png&#34;
+               src=&#34;https://mhmmoshtaghi.github.io/review/videogame-control/deadletters_hu22768126cfc898da6df58e5b94ef368d_9677457_9c3fa6311828fe013d8ed836b5a39268.png&#34;
                width=&#34;760&#34;
                height=&#34;428&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -704,7 +704,7 @@ I&amp;rsquo;d hoped for more.&lt;/p&gt;
                /review/videogame-control/soundroom_hu97ea86f693491786ffd8c82ceb90bfa2_14313455_b01adf5f5641e14093f72b18d752b934.png 400w,
                /review/videogame-control/soundroom_hu97ea86f693491786ffd8c82ceb90bfa2_14313455_5f36b80ce19d5f562fb1428ecb61f81d.png 760w,
                /review/videogame-control/soundroom_hu97ea86f693491786ffd8c82ceb90bfa2_14313455_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://jdaymude.github.io/review/videogame-control/soundroom_hu97ea86f693491786ffd8c82ceb90bfa2_14313455_b01adf5f5641e14093f72b18d752b934.png&#34;
+               src=&#34;https://mhmmoshtaghi.github.io/review/videogame-control/soundroom_hu97ea86f693491786ffd8c82ceb90bfa2_14313455_b01adf5f5641e14093f72b18d752b934.png&#34;
                width=&#34;760&#34;
                height=&#34;428&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -736,7 +736,7 @@ At first I thought this was a thing the Oldest House did; then after an extended
                /review/videogame-control/floorbug_hu2a4f98ea48d4cfd72de22c655851d2d9_11707162_9c8b7863356240629bff972d02fecc59.png 400w,
                /review/videogame-control/floorbug_hu2a4f98ea48d4cfd72de22c655851d2d9_11707162_66b151ae56ebe47b37dc6bef219f8ac8.png 760w,
                /review/videogame-control/floorbug_hu2a4f98ea48d4cfd72de22c655851d2d9_11707162_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://jdaymude.github.io/review/videogame-control/floorbug_hu2a4f98ea48d4cfd72de22c655851d2d9_11707162_9c8b7863356240629bff972d02fecc59.png&#34;
+               src=&#34;https://mhmmoshtaghi.github.io/review/videogame-control/floorbug_hu2a4f98ea48d4cfd72de22c655851d2d9_11707162_9c8b7863356240629bff972d02fecc59.png&#34;
                width=&#34;760&#34;
                height=&#34;428&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -765,19 +765,19 @@ The Federal Bureau of Control, I guess.&lt;/p&gt;
                /review/videogame-control/toilets_hu51f52b82679017d68d67f516aa5fab5d_12345706_9eb1b276bfb13d1616aa2efd3e44fa05.png 400w,
                /review/videogame-control/toilets_hu51f52b82679017d68d67f516aa5fab5d_12345706_6c5133d8fe4f0ed579abd31ef949464b.png 760w,
                /review/videogame-control/toilets_hu51f52b82679017d68d67f516aa5fab5d_12345706_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://jdaymude.github.io/review/videogame-control/toilets_hu51f52b82679017d68d67f516aa5fab5d_12345706_9eb1b276bfb13d1616aa2efd3e44fa05.png&#34;
+               src=&#34;https://mhmmoshtaghi.github.io/review/videogame-control/toilets_hu51f52b82679017d68d67f516aa5fab5d_12345706_9eb1b276bfb13d1616aa2efd3e44fa05.png&#34;
                width=&#34;760&#34;
                height=&#34;428&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 </description>
     </item>
-    
+
     <item>
       <title>Outer Wilds</title>
-      <link>https://jdaymude.github.io/review/videogame-outer-wilds/</link>
+      <link>https://mhmmoshtaghi.github.io/review/videogame-outer-wilds/</link>
       <pubDate>Sat, 24 Jul 2021 12:00:00 -0700</pubDate>
-      <guid>https://jdaymude.github.io/review/videogame-outer-wilds/</guid>
+      <guid>https://mhmmoshtaghi.github.io/review/videogame-outer-wilds/</guid>
       <description>&lt;p&gt;Against the backdrop of a diorama solar system in a diorama universe, &lt;em&gt;Outer Wilds&lt;/em&gt; plunges forward into an ambitious adventure of wonder and exploration.
 You play as the sixth member of your species to venture out into space — and the first to do so with a translation device for the language of the Nomai, an ancient species that mysteriously disappeared a long time ago.
 Remnants of their civilization are scattered all around your solar system, like bread crumbs in a nonlinear trail, inviting you into their mystery.
@@ -804,7 +804,7 @@ What&amp;rsquo;s it all for?&lt;/p&gt;
                /review/videogame-outer-wilds/nomaischematics_hu850032374c8e22d7c3a6ee5181beb27f_1853793_8795a9b84ee65d8c63f55a17d07dad0a.png 400w,
                /review/videogame-outer-wilds/nomaischematics_hu850032374c8e22d7c3a6ee5181beb27f_1853793_eab8e4662d89d5fec492cf03b31eba11.png 760w,
                /review/videogame-outer-wilds/nomaischematics_hu850032374c8e22d7c3a6ee5181beb27f_1853793_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://jdaymude.github.io/review/videogame-outer-wilds/nomaischematics_hu850032374c8e22d7c3a6ee5181beb27f_1853793_8795a9b84ee65d8c63f55a17d07dad0a.png&#34;
+               src=&#34;https://mhmmoshtaghi.github.io/review/videogame-outer-wilds/nomaischematics_hu850032374c8e22d7c3a6ee5181beb27f_1853793_8795a9b84ee65d8c63f55a17d07dad0a.png&#34;
                width=&#34;760&#34;
                height=&#34;428&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -839,7 +839,7 @@ Extremely bizarre things happen on a regular basis — like getting launched fro
                /review/videogame-outer-wilds/sunandembertwin_hu764ad56c509280e7a5ecd0d1fc05eb09_2114230_a8afe67fe00801f02d0ff55b479a278c.png 400w,
                /review/videogame-outer-wilds/sunandembertwin_hu764ad56c509280e7a5ecd0d1fc05eb09_2114230_51fc0110492a35c9f5a77dc2edef0c9e.png 760w,
                /review/videogame-outer-wilds/sunandembertwin_hu764ad56c509280e7a5ecd0d1fc05eb09_2114230_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://jdaymude.github.io/review/videogame-outer-wilds/sunandembertwin_hu764ad56c509280e7a5ecd0d1fc05eb09_2114230_a8afe67fe00801f02d0ff55b479a278c.png&#34;
+               src=&#34;https://mhmmoshtaghi.github.io/review/videogame-outer-wilds/sunandembertwin_hu764ad56c509280e7a5ecd0d1fc05eb09_2114230_a8afe67fe00801f02d0ff55b479a278c.png&#34;
                width=&#34;760&#34;
                height=&#34;428&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -870,7 +870,7 @@ Suffice it to say, this is my favorite game soundtrack, and I&amp;rsquo;ve liste
                /review/videogame-outer-wilds/opening_hue4e580f276037637a8acdceda0b8789c_2447327_79503bc24e7b47e8aa5fd3e0b1fc8e85.png 400w,
                /review/videogame-outer-wilds/opening_hue4e580f276037637a8acdceda0b8789c_2447327_ae0545433c5c675d0e15562a2e8e95ac.png 760w,
                /review/videogame-outer-wilds/opening_hue4e580f276037637a8acdceda0b8789c_2447327_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://jdaymude.github.io/review/videogame-outer-wilds/opening_hue4e580f276037637a8acdceda0b8789c_2447327_79503bc24e7b47e8aa5fd3e0b1fc8e85.png&#34;
+               src=&#34;https://mhmmoshtaghi.github.io/review/videogame-outer-wilds/opening_hue4e580f276037637a8acdceda0b8789c_2447327_79503bc24e7b47e8aa5fd3e0b1fc8e85.png&#34;
                width=&#34;760&#34;
                height=&#34;428&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -886,12 +886,12 @@ But unless they are collapsed by an observer, they will never be more than possi
 &lt;/blockquote&gt;
 </description>
     </item>
-    
+
     <item>
       <title>Jedi: Fallen Order</title>
-      <link>https://jdaymude.github.io/review/videogame-jedi-fallen-order/</link>
+      <link>https://mhmmoshtaghi.github.io/review/videogame-jedi-fallen-order/</link>
       <pubDate>Fri, 22 Jan 2021 22:09:15 -0700</pubDate>
-      <guid>https://jdaymude.github.io/review/videogame-jedi-fallen-order/</guid>
+      <guid>https://mhmmoshtaghi.github.io/review/videogame-jedi-fallen-order/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m not ashamed to admit that I spent much of my childhood wanting to be a Jedi.
 My sister and I would duel for hours in the backyard with our plastic lightsabers, having to pause between whacks and parries to negotiate whose limbs were still attached or how far back we were supposed to move when the other pushed with the Force.
 As a teenager, &lt;em&gt;The Force Unleashed&lt;/em&gt; on the Wii was magic: my remote was my lightsaber, my nunchuk was my connection to the Force, and the galaxy was filled with Stormtroopers to send flying.
@@ -918,7 +918,7 @@ Now, as an adult and a whole sequel trilogy and two seasons of &lt;em&gt;The Man
                /review/videogame-jedi-fallen-order/boganovault_hu58287486998c194fffaf63e800bd9874_2899197_5824f396544b564802cb9d22a41e1dc7.png 400w,
                /review/videogame-jedi-fallen-order/boganovault_hu58287486998c194fffaf63e800bd9874_2899197_3fcba4cbdca54ced68040e15734231d5.png 760w,
                /review/videogame-jedi-fallen-order/boganovault_hu58287486998c194fffaf63e800bd9874_2899197_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://jdaymude.github.io/review/videogame-jedi-fallen-order/boganovault_hu58287486998c194fffaf63e800bd9874_2899197_5824f396544b564802cb9d22a41e1dc7.png&#34;
+               src=&#34;https://mhmmoshtaghi.github.io/review/videogame-jedi-fallen-order/boganovault_hu58287486998c194fffaf63e800bd9874_2899197_5824f396544b564802cb9d22a41e1dc7.png&#34;
                width=&#34;760&#34;
                height=&#34;428&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -943,7 +943,7 @@ Now, as an adult and a whole sequel trilogy and two seasons of &lt;em&gt;The Man
                /review/videogame-jedi-fallen-order/scouttroopers_hude06c35df865cbabc11390a267dc31da_3295951_fa83fb7b01a81ee177e02bb8e27933e3.png 400w,
                /review/videogame-jedi-fallen-order/scouttroopers_hude06c35df865cbabc11390a267dc31da_3295951_7db9523515466bfdf3def10a43b487a4.png 760w,
                /review/videogame-jedi-fallen-order/scouttroopers_hude06c35df865cbabc11390a267dc31da_3295951_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://jdaymude.github.io/review/videogame-jedi-fallen-order/scouttroopers_hude06c35df865cbabc11390a267dc31da_3295951_fa83fb7b01a81ee177e02bb8e27933e3.png&#34;
+               src=&#34;https://mhmmoshtaghi.github.io/review/videogame-jedi-fallen-order/scouttroopers_hude06c35df865cbabc11390a267dc31da_3295951_fa83fb7b01a81ee177e02bb8e27933e3.png&#34;
                width=&#34;760&#34;
                height=&#34;428&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -973,7 +973,7 @@ This is a Star Wars story where nobody&amp;rsquo;s okay and the heroes are the o
                /review/videogame-jedi-fallen-order/ilumbattle_hu09f15c0bcdcda375de7ea645566f48cd_3799220_a45f7e936f319b6dce9bd0e56da1bc78.png 400w,
                /review/videogame-jedi-fallen-order/ilumbattle_hu09f15c0bcdcda375de7ea645566f48cd_3799220_1f5066f3f9f160ec519b48d97f36b4a3.png 760w,
                /review/videogame-jedi-fallen-order/ilumbattle_hu09f15c0bcdcda375de7ea645566f48cd_3799220_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://jdaymude.github.io/review/videogame-jedi-fallen-order/ilumbattle_hu09f15c0bcdcda375de7ea645566f48cd_3799220_a45f7e936f319b6dce9bd0e56da1bc78.png&#34;
+               src=&#34;https://mhmmoshtaghi.github.io/review/videogame-jedi-fallen-order/ilumbattle_hu09f15c0bcdcda375de7ea645566f48cd_3799220_a45f7e936f319b6dce9bd0e56da1bc78.png&#34;
                width=&#34;760&#34;
                height=&#34;428&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1005,7 +1005,7 @@ His best ability, psychometry, makes him a better anthropologist than Stormtroop
                /review/videogame-jedi-fallen-order/dathomir_hu1243943952a5fdf76277be63ba3703ec_2975053_36cccd48889df386deb784ed787d2a9e.png 400w,
                /review/videogame-jedi-fallen-order/dathomir_hu1243943952a5fdf76277be63ba3703ec_2975053_7c36f9fb4c68b40f7630d86f61fd32d3.png 760w,
                /review/videogame-jedi-fallen-order/dathomir_hu1243943952a5fdf76277be63ba3703ec_2975053_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://jdaymude.github.io/review/videogame-jedi-fallen-order/dathomir_hu1243943952a5fdf76277be63ba3703ec_2975053_36cccd48889df386deb784ed787d2a9e.png&#34;
+               src=&#34;https://mhmmoshtaghi.github.io/review/videogame-jedi-fallen-order/dathomir_hu1243943952a5fdf76277be63ba3703ec_2975053_36cccd48889df386deb784ed787d2a9e.png&#34;
                width=&#34;760&#34;
                height=&#34;428&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1035,7 +1035,7 @@ This feels less like a chore and more like virtual space-tourism, giving players
                /review/videogame-jedi-fallen-order/fortressinquisitoris_hud5dd9248f697357f9555c538c13da0e0_3009625_f8b3050f6dabbb7365fa50aee6bd4876.png 400w,
                /review/videogame-jedi-fallen-order/fortressinquisitoris_hud5dd9248f697357f9555c538c13da0e0_3009625_5259c7f9db81f72ee99e203d476d2d15.png 760w,
                /review/videogame-jedi-fallen-order/fortressinquisitoris_hud5dd9248f697357f9555c538c13da0e0_3009625_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://jdaymude.github.io/review/videogame-jedi-fallen-order/fortressinquisitoris_hud5dd9248f697357f9555c538c13da0e0_3009625_f8b3050f6dabbb7365fa50aee6bd4876.png&#34;
+               src=&#34;https://mhmmoshtaghi.github.io/review/videogame-jedi-fallen-order/fortressinquisitoris_hud5dd9248f697357f9555c538c13da0e0_3009625_f8b3050f6dabbb7365fa50aee6bd4876.png&#34;
                width=&#34;760&#34;
                height=&#34;428&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1066,19 +1066,19 @@ To the developers at Respawn, Chewbacca would be disappointed in you.&lt;/p&gt;
                /review/videogame-jedi-fallen-order/wookiee_hu78d9a4a2ecba7e87b86359930f979412_3375027_e34c7bc312e800556d389b8babb74a27.png 400w,
                /review/videogame-jedi-fallen-order/wookiee_hu78d9a4a2ecba7e87b86359930f979412_3375027_62cbf9d69accb4001bb597d29495be7a.png 760w,
                /review/videogame-jedi-fallen-order/wookiee_hu78d9a4a2ecba7e87b86359930f979412_3375027_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://jdaymude.github.io/review/videogame-jedi-fallen-order/wookiee_hu78d9a4a2ecba7e87b86359930f979412_3375027_e34c7bc312e800556d389b8babb74a27.png&#34;
+               src=&#34;https://mhmmoshtaghi.github.io/review/videogame-jedi-fallen-order/wookiee_hu78d9a4a2ecba7e87b86359930f979412_3375027_e34c7bc312e800556d389b8babb74a27.png&#34;
                width=&#34;760&#34;
                height=&#34;428&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 </description>
     </item>
-    
+
     <item>
       <title>Spiritfarer</title>
-      <link>https://jdaymude.github.io/review/videogame-spiritfarer/</link>
+      <link>https://mhmmoshtaghi.github.io/review/videogame-spiritfarer/</link>
       <pubDate>Wed, 07 Oct 2020 21:12:52 -0700</pubDate>
-      <guid>https://jdaymude.github.io/review/videogame-spiritfarer/</guid>
+      <guid>https://mhmmoshtaghi.github.io/review/videogame-spiritfarer/</guid>
       <description>&lt;p&gt;The world of &lt;em&gt;Spiritfarer&lt;/em&gt; is in between life and the afterlife, where the spirits of the dead run lemonade stands, go on meditation retreats, and look down on the less fortunate from skyscrapers while they prepare emotionally to pass on to the beyond. As the Spiritfarer, our protagonist Stella and her cat Daffodil are tasked with supporting reluctant spirits on their journey to the Everdoor. By building each spirit a unique home, cooking them their favorite meals, and giving them &lt;em&gt;the best video game hugs I have ever seen&lt;/em&gt;, each spirit gradually comes to deal with their unique and challenging vestiges from the life before.&lt;/p&gt;
 
 
@@ -1100,7 +1100,7 @@ To the developers at Respawn, Chewbacca would be disappointed in you.&lt;/p&gt;
                /review/videogame-spiritfarer/charon_hu9a87c5e1f88957c09600be8ba28547b3_1916812_e44ffc2f1bc8b431c11cc81c9ddbfb68.png 400w,
                /review/videogame-spiritfarer/charon_hu9a87c5e1f88957c09600be8ba28547b3_1916812_acaf83cef29a6453f709e123af0748ec.png 760w,
                /review/videogame-spiritfarer/charon_hu9a87c5e1f88957c09600be8ba28547b3_1916812_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://jdaymude.github.io/review/videogame-spiritfarer/charon_hu9a87c5e1f88957c09600be8ba28547b3_1916812_e44ffc2f1bc8b431c11cc81c9ddbfb68.png&#34;
+               src=&#34;https://mhmmoshtaghi.github.io/review/videogame-spiritfarer/charon_hu9a87c5e1f88957c09600be8ba28547b3_1916812_e44ffc2f1bc8b431c11cc81c9ddbfb68.png&#34;
                width=&#34;760&#34;
                height=&#34;428&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1134,7 +1134,7 @@ To the developers at Respawn, Chewbacca would be disappointed in you.&lt;/p&gt;
                /review/videogame-spiritfarer/raccooninc_hu505484d949edc711b370a72cec88d6d5_1987505_03c4d1aab59c6d0922780fa535292ecf.png 400w,
                /review/videogame-spiritfarer/raccooninc_hu505484d949edc711b370a72cec88d6d5_1987505_2367339c49312a0738472bd913af0137.png 760w,
                /review/videogame-spiritfarer/raccooninc_hu505484d949edc711b370a72cec88d6d5_1987505_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://jdaymude.github.io/review/videogame-spiritfarer/raccooninc_hu505484d949edc711b370a72cec88d6d5_1987505_03c4d1aab59c6d0922780fa535292ecf.png&#34;
+               src=&#34;https://mhmmoshtaghi.github.io/review/videogame-spiritfarer/raccooninc_hu505484d949edc711b370a72cec88d6d5_1987505_03c4d1aab59c6d0922780fa535292ecf.png&#34;
                width=&#34;760&#34;
                height=&#34;428&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1162,7 +1162,7 @@ To the developers at Respawn, Chewbacca would be disappointed in you.&lt;/p&gt;
                /review/videogame-spiritfarer/meditation_huf4597e38d94b98f06d683eb118cb9ef4_1474970_ba1554f54213d002146dda93762c354d.png 400w,
                /review/videogame-spiritfarer/meditation_huf4597e38d94b98f06d683eb118cb9ef4_1474970_6fc5815f03b734675ee944bef8058bee.png 760w,
                /review/videogame-spiritfarer/meditation_huf4597e38d94b98f06d683eb118cb9ef4_1474970_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://jdaymude.github.io/review/videogame-spiritfarer/meditation_huf4597e38d94b98f06d683eb118cb9ef4_1474970_ba1554f54213d002146dda93762c354d.png&#34;
+               src=&#34;https://mhmmoshtaghi.github.io/review/videogame-spiritfarer/meditation_huf4597e38d94b98f06d683eb118cb9ef4_1474970_ba1554f54213d002146dda93762c354d.png&#34;
                width=&#34;760&#34;
                height=&#34;428&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1190,7 +1190,7 @@ To the developers at Respawn, Chewbacca would be disappointed in you.&lt;/p&gt;
                /review/videogame-spiritfarer/fishing_hu816391143ad5f60e34c823998845babc_1008006_7dafa4c7146b4d1c5c32372c79aa40fd.png 400w,
                /review/videogame-spiritfarer/fishing_hu816391143ad5f60e34c823998845babc_1008006_f8dc91cac5ab637d0f65182ff244a13f.png 760w,
                /review/videogame-spiritfarer/fishing_hu816391143ad5f60e34c823998845babc_1008006_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://jdaymude.github.io/review/videogame-spiritfarer/fishing_hu816391143ad5f60e34c823998845babc_1008006_7dafa4c7146b4d1c5c32372c79aa40fd.png&#34;
+               src=&#34;https://mhmmoshtaghi.github.io/review/videogame-spiritfarer/fishing_hu816391143ad5f60e34c823998845babc_1008006_7dafa4c7146b4d1c5c32372c79aa40fd.png&#34;
                width=&#34;760&#34;
                height=&#34;428&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1213,12 +1213,12 @@ To the developers at Respawn, Chewbacca would be disappointed in you.&lt;/p&gt;
 &lt;p&gt;Finally, a mini-rant on something that isn&amp;rsquo;t so much a technical bug as a design flaw: the secret achievements &amp;ldquo;Loose Lips&amp;rdquo; and &amp;ldquo;Sealed Lips&amp;rdquo; should absolutely not be in the game. Without spoilers, these achievements are unlocked based on engaging in a main quest conversation that — depending on how you play — can occur quite late in the game. Choose one dialogue option, you get &amp;ldquo;Loose Lips&amp;rdquo;; choose the other, you get &amp;ldquo;Sealed Lips.&amp;rdquo; Unless you know this ahead of time and do a &lt;a href=&#34;https://www.trueachievements.com/a306628/sealed-lips-achievement?gamerid=900962&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;janky hack&lt;/a&gt; of getting one achievement to pop, immediately quitting the game, and then redoing the conversation the other way, getting both achievements requires two playthroughs. These are the only achievements that cannot be obtained in a single run, and &lt;em&gt;Spiritfarer&lt;/em&gt; is not a game with significant replay potential. This feels like a design flaw, where user experience clashes with the game&amp;rsquo;s systems.&lt;/p&gt;
 </description>
     </item>
-    
+
     <item>
       <title>Ori and the Will of the Wisps</title>
-      <link>https://jdaymude.github.io/review/videogame-ori-and-the-will-of-the-wisps/</link>
+      <link>https://mhmmoshtaghi.github.io/review/videogame-ori-and-the-will-of-the-wisps/</link>
       <pubDate>Sun, 07 Jun 2020 21:58:21 -0700</pubDate>
-      <guid>https://jdaymude.github.io/review/videogame-ori-and-the-will-of-the-wisps/</guid>
+      <guid>https://mhmmoshtaghi.github.io/review/videogame-ori-and-the-will-of-the-wisps/</guid>
       <description>&lt;p&gt;&lt;em&gt;Ori and the Will of the Wisps&lt;/em&gt; was released on March 10, 2020 — one day before many in the United States were put under stay-at-home orders to slow the spread of COVID-19. In the following months, our leaders abdicated their responsibility to coordinate a comprehensive response as the non-essential of us remained at home, wringing our hands and feeling powerless to stop our world from slipping into shambles. So when &lt;em&gt;Ori&lt;/em&gt; opened with Naru, Gumo, and Ori working to restore Ku — a young owl with a malformed wing — my emotions were immediately invested. When the first major chapter involved ridding a historic watermill/library of a corrupted monster poisoning the water, my determination was fixed. And when Grom asked Ori &amp;ldquo;Want to make [the Wellspring Glades] a better place?&amp;rdquo; I nearly shouted &amp;ldquo;yes!&amp;rdquo; at the screen. Beautiful graphics, slick gameplay, and huge improvements over the original game aside, &lt;em&gt;Ori and the Will of the Wisps&lt;/em&gt; is a game about healing, restoration, and hope — three things that run at a high premium in today&amp;rsquo;s world.&lt;/p&gt;
 
 
@@ -1240,7 +1240,7 @@ To the developers at Respawn, Chewbacca would be disappointed in you.&lt;/p&gt;
                /review/videogame-ori-and-the-will-of-the-wisps/spirittree_hu26a2b2080d6a223eeafa0ab3069efaee_2292382_efac639ac9b81ea7510c7294048abccc.png 400w,
                /review/videogame-ori-and-the-will-of-the-wisps/spirittree_hu26a2b2080d6a223eeafa0ab3069efaee_2292382_069629848b4e56a1e1ca972d868f9188.png 760w,
                /review/videogame-ori-and-the-will-of-the-wisps/spirittree_hu26a2b2080d6a223eeafa0ab3069efaee_2292382_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://jdaymude.github.io/review/videogame-ori-and-the-will-of-the-wisps/spirittree_hu26a2b2080d6a223eeafa0ab3069efaee_2292382_efac639ac9b81ea7510c7294048abccc.png&#34;
+               src=&#34;https://mhmmoshtaghi.github.io/review/videogame-ori-and-the-will-of-the-wisps/spirittree_hu26a2b2080d6a223eeafa0ab3069efaee_2292382_efac639ac9b81ea7510c7294048abccc.png&#34;
                width=&#34;760&#34;
                height=&#34;428&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1271,7 +1271,7 @@ To the developers at Respawn, Chewbacca would be disappointed in you.&lt;/p&gt;
                /review/videogame-ori-and-the-will-of-the-wisps/spiritlight_hu8a35b21c17581add946ecb858fa2fbe5_1529683_775379132827bc4dc8a06aa2dc442efa.png 400w,
                /review/videogame-ori-and-the-will-of-the-wisps/spiritlight_hu8a35b21c17581add946ecb858fa2fbe5_1529683_eeab4611356b33b7f34294c6a19babbf.png 760w,
                /review/videogame-ori-and-the-will-of-the-wisps/spiritlight_hu8a35b21c17581add946ecb858fa2fbe5_1529683_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://jdaymude.github.io/review/videogame-ori-and-the-will-of-the-wisps/spiritlight_hu8a35b21c17581add946ecb858fa2fbe5_1529683_775379132827bc4dc8a06aa2dc442efa.png&#34;
+               src=&#34;https://mhmmoshtaghi.github.io/review/videogame-ori-and-the-will-of-the-wisps/spiritlight_hu8a35b21c17581add946ecb858fa2fbe5_1529683_775379132827bc4dc8a06aa2dc442efa.png&#34;
                width=&#34;760&#34;
                height=&#34;428&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1297,7 +1297,7 @@ To the developers at Respawn, Chewbacca would be disappointed in you.&lt;/p&gt;
                /review/videogame-ori-and-the-will-of-the-wisps/lumapools_hud518339447da2cc114de1dc0a7419af6_2106687_9efefce2bc6b80265436976de695015f.png 400w,
                /review/videogame-ori-and-the-will-of-the-wisps/lumapools_hud518339447da2cc114de1dc0a7419af6_2106687_0a3550ad897d60a27a91b27ac75f8761.png 760w,
                /review/videogame-ori-and-the-will-of-the-wisps/lumapools_hud518339447da2cc114de1dc0a7419af6_2106687_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://jdaymude.github.io/review/videogame-ori-and-the-will-of-the-wisps/lumapools_hud518339447da2cc114de1dc0a7419af6_2106687_9efefce2bc6b80265436976de695015f.png&#34;
+               src=&#34;https://mhmmoshtaghi.github.io/review/videogame-ori-and-the-will-of-the-wisps/lumapools_hud518339447da2cc114de1dc0a7419af6_2106687_9efefce2bc6b80265436976de695015f.png&#34;
                width=&#34;760&#34;
                height=&#34;428&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1330,19 +1330,19 @@ To the developers at Respawn, Chewbacca would be disappointed in you.&lt;/p&gt;
                /review/videogame-ori-and-the-will-of-the-wisps/99percent_hu7e4734bca109e3b50b5ea038214740c7_1875673_4b25d9ef9d0a062fd104a187021819c1.png 400w,
                /review/videogame-ori-and-the-will-of-the-wisps/99percent_hu7e4734bca109e3b50b5ea038214740c7_1875673_e518d7924490f73485bbbec90552bceb.png 760w,
                /review/videogame-ori-and-the-will-of-the-wisps/99percent_hu7e4734bca109e3b50b5ea038214740c7_1875673_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://jdaymude.github.io/review/videogame-ori-and-the-will-of-the-wisps/99percent_hu7e4734bca109e3b50b5ea038214740c7_1875673_4b25d9ef9d0a062fd104a187021819c1.png&#34;
+               src=&#34;https://mhmmoshtaghi.github.io/review/videogame-ori-and-the-will-of-the-wisps/99percent_hu7e4734bca109e3b50b5ea038214740c7_1875673_4b25d9ef9d0a062fd104a187021819c1.png&#34;
                width=&#34;760&#34;
                height=&#34;428&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 </description>
     </item>
-    
+
     <item>
       <title>The Outer Worlds</title>
-      <link>https://jdaymude.github.io/review/videogame-the-outer-worlds/</link>
+      <link>https://mhmmoshtaghi.github.io/review/videogame-the-outer-worlds/</link>
       <pubDate>Fri, 17 Jan 2020 12:00:00 -0700</pubDate>
-      <guid>https://jdaymude.github.io/review/videogame-the-outer-worlds/</guid>
+      <guid>https://mhmmoshtaghi.github.io/review/videogame-the-outer-worlds/</guid>
       <description>&lt;p&gt;&lt;em&gt;The Outer Worlds&lt;/em&gt; promised to let you, &amp;ldquo;the unknown variable,&amp;rdquo; truly role-play in the wild world of Halycon. Want to be the hero and save the world? Sure, who doesn&amp;rsquo;t? Want to steer your jaded friends towards self-awareness and hope? Just might work. Want to murder everyone on sight, including major companions and story-critical characters? Have a great time, you monster. Streamers have basically tried it all, and the game does indeed deliver. I particularly enjoyed embodying some kind of scientist/intellectual with an aversion for violence and a deep need to screw some corporate tools over.&lt;/p&gt;
 
 
@@ -1364,7 +1364,7 @@ To the developers at Respawn, Chewbacca would be disappointed in you.&lt;/p&gt;
                /review/videogame-the-outer-worlds/edgewaternight_hua95115548d781dc70255b1e6927bd015_2440629_0e3e112676b707e1ec91757638b3e391.png 400w,
                /review/videogame-the-outer-worlds/edgewaternight_hua95115548d781dc70255b1e6927bd015_2440629_1da8e0ff2167d5242fb7ef445a610fdd.png 760w,
                /review/videogame-the-outer-worlds/edgewaternight_hua95115548d781dc70255b1e6927bd015_2440629_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://jdaymude.github.io/review/videogame-the-outer-worlds/edgewaternight_hua95115548d781dc70255b1e6927bd015_2440629_0e3e112676b707e1ec91757638b3e391.png&#34;
+               src=&#34;https://mhmmoshtaghi.github.io/review/videogame-the-outer-worlds/edgewaternight_hua95115548d781dc70255b1e6927bd015_2440629_0e3e112676b707e1ec91757638b3e391.png&#34;
                width=&#34;760&#34;
                height=&#34;428&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1391,7 +1391,7 @@ To the developers at Respawn, Chewbacca would be disappointed in you.&lt;/p&gt;
                /review/videogame-the-outer-worlds/lavaflows_hu69c586f845e63269f64449ba8b24ebf9_2669693_873668b5252ba8bd609e1a31ad17cb04.png 400w,
                /review/videogame-the-outer-worlds/lavaflows_hu69c586f845e63269f64449ba8b24ebf9_2669693_62873ae67f596a5eca1ebcbb22f09199.png 760w,
                /review/videogame-the-outer-worlds/lavaflows_hu69c586f845e63269f64449ba8b24ebf9_2669693_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://jdaymude.github.io/review/videogame-the-outer-worlds/lavaflows_hu69c586f845e63269f64449ba8b24ebf9_2669693_873668b5252ba8bd609e1a31ad17cb04.png&#34;
+               src=&#34;https://mhmmoshtaghi.github.io/review/videogame-the-outer-worlds/lavaflows_hu69c586f845e63269f64449ba8b24ebf9_2669693_873668b5252ba8bd609e1a31ad17cb04.png&#34;
                width=&#34;760&#34;
                height=&#34;428&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1417,7 +1417,7 @@ To the developers at Respawn, Chewbacca would be disappointed in you.&lt;/p&gt;
                /review/videogame-the-outer-worlds/scylla_hu224bb35c97e260bf23d205f44c29c329_2845510_8b45913c3f9764b211c65f0e1649118f.png 400w,
                /review/videogame-the-outer-worlds/scylla_hu224bb35c97e260bf23d205f44c29c329_2845510_f93bfc4e294cac2ad0ac03f0691a1781.png 760w,
                /review/videogame-the-outer-worlds/scylla_hu224bb35c97e260bf23d205f44c29c329_2845510_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://jdaymude.github.io/review/videogame-the-outer-worlds/scylla_hu224bb35c97e260bf23d205f44c29c329_2845510_8b45913c3f9764b211c65f0e1649118f.png&#34;
+               src=&#34;https://mhmmoshtaghi.github.io/review/videogame-the-outer-worlds/scylla_hu224bb35c97e260bf23d205f44c29c329_2845510_8b45913c3f9764b211c65f0e1649118f.png&#34;
                width=&#34;760&#34;
                height=&#34;428&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1431,12 +1431,12 @@ To the developers at Respawn, Chewbacca would be disappointed in you.&lt;/p&gt;
 &lt;/ul&gt;
 </description>
     </item>
-    
+
     <item>
       <title>Hidden My Game By Mom!</title>
-      <link>https://jdaymude.github.io/review/videogame-hidden-my-game-by-mom/</link>
+      <link>https://mhmmoshtaghi.github.io/review/videogame-hidden-my-game-by-mom/</link>
       <pubDate>Sun, 15 Dec 2019 12:00:00 -0700</pubDate>
-      <guid>https://jdaymude.github.io/review/videogame-hidden-my-game-by-mom/</guid>
+      <guid>https://mhmmoshtaghi.github.io/review/videogame-hidden-my-game-by-mom/</guid>
       <description>&lt;p&gt;&lt;em&gt;Hidden My Game By Mom&lt;/em&gt; is a quick, quirky, and delightful little puzzle starring a boy addicted to his handheld gaming device and his mother&amp;rsquo;s attempts to hide it from him in increasingly bizarre ways. You, the real-life gamer that you are, vicariously strike back against the parental anti-game tyranny you may or may not have actually experienced by interacting with the scene to find this boy&amp;rsquo;s game. The core gameplay revolves around collecting items and using them in clever and silly ways to reveal where the boy&amp;rsquo;s game was hidden, but this comes with a catch: Mom is also hiding in nearly every level, often in more absurd places than the game. Find the game, win the level; find Mom, you&amp;rsquo;re busted.&lt;/p&gt;
 
 
@@ -1458,7 +1458,7 @@ To the developers at Respawn, Chewbacca would be disappointed in you.&lt;/p&gt;
                /review/videogame-hidden-my-game-by-mom/lady_game_hucbecac82dffa2954be84ac6a98c31075_55374_d758a1579abf3ead9e7d4c25182fb09e.jpg 400w,
                /review/videogame-hidden-my-game-by-mom/lady_game_hucbecac82dffa2954be84ac6a98c31075_55374_d4c77700780e1f81a614a2743562dec0.jpg 760w,
                /review/videogame-hidden-my-game-by-mom/lady_game_hucbecac82dffa2954be84ac6a98c31075_55374_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
-               src=&#34;https://jdaymude.github.io/review/videogame-hidden-my-game-by-mom/lady_game_hucbecac82dffa2954be84ac6a98c31075_55374_d758a1579abf3ead9e7d4c25182fb09e.jpg&#34;
+               src=&#34;https://mhmmoshtaghi.github.io/review/videogame-hidden-my-game-by-mom/lady_game_hucbecac82dffa2954be84ac6a98c31075_55374_d758a1579abf3ead9e7d4c25182fb09e.jpg&#34;
                width=&#34;735&#34;
                height=&#34;474&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1484,7 +1484,7 @@ To the developers at Respawn, Chewbacca would be disappointed in you.&lt;/p&gt;
                /review/videogame-hidden-my-game-by-mom/giraffe_hud367643ae2fb92fc2e6db2eaeec3a712_86123_070a9edb8ff42039a206e371c9714832.jpg 400w,
                /review/videogame-hidden-my-game-by-mom/giraffe_hud367643ae2fb92fc2e6db2eaeec3a712_86123_b978df786d50c0b8a4109c80f914683f.jpg 760w,
                /review/videogame-hidden-my-game-by-mom/giraffe_hud367643ae2fb92fc2e6db2eaeec3a712_86123_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
-               src=&#34;https://jdaymude.github.io/review/videogame-hidden-my-game-by-mom/giraffe_hud367643ae2fb92fc2e6db2eaeec3a712_86123_070a9edb8ff42039a206e371c9714832.jpg&#34;
+               src=&#34;https://mhmmoshtaghi.github.io/review/videogame-hidden-my-game-by-mom/giraffe_hud367643ae2fb92fc2e6db2eaeec3a712_86123_070a9edb8ff42039a206e371c9714832.jpg&#34;
                width=&#34;646&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1492,12 +1492,12 @@ To the developers at Respawn, Chewbacca would be disappointed in you.&lt;/p&gt;
 &lt;p&gt;A parent&amp;rsquo;s love might come out as riding a giraffe&amp;rsquo;s head or feeding an elephant your gaming device, but it&amp;rsquo;s love all the same. We can argue with the methods and the logic, but (at some level) we should try to appreciate that they were doing the best they knew how.&lt;/p&gt;
 </description>
     </item>
-    
+
     <item>
       <title>Tap! Dig! My Museum!</title>
-      <link>https://jdaymude.github.io/review/videogame-tap-dig-my-museum/</link>
+      <link>https://mhmmoshtaghi.github.io/review/videogame-tap-dig-my-museum/</link>
       <pubDate>Tue, 03 Dec 2019 12:00:00 -0700</pubDate>
-      <guid>https://jdaymude.github.io/review/videogame-tap-dig-my-museum/</guid>
+      <guid>https://mhmmoshtaghi.github.io/review/videogame-tap-dig-my-museum/</guid>
       <description>&lt;p&gt;It&amp;rsquo;s difficult to overstate just how much of &lt;em&gt;Tap! Dig! My Museum!&lt;/em&gt; is in its title. In this free mobile idler, you play as an aspiring dinosaur archaeologist and newfound owner of a museum in disrepair. By enticing patrons to your museum, you collect the coins they drop as they react to your dinosaurs. In turn, you invest your cash into archaeological digs — where you tap away at sand to uncover hidden bones — and upgrades which make said digs easier. The more dinosaurs you complete, the more people come flooding in to see them, which in turn leads to more money, which in turn leads to more dinosaurs. You get the idea.&lt;/p&gt;
 
 
@@ -1519,7 +1519,7 @@ To the developers at Respawn, Chewbacca would be disappointed in you.&lt;/p&gt;
                /review/videogame-tap-dig-my-museum/museum_hu258252aad6c4944f58e890ada42e6efb_245093_767982c9c283fda0b6a1b9259508a02d.png 400w,
                /review/videogame-tap-dig-my-museum/museum_hu258252aad6c4944f58e890ada42e6efb_245093_de6d337e318e53c99b344a26b3966425.png 760w,
                /review/videogame-tap-dig-my-museum/museum_hu258252aad6c4944f58e890ada42e6efb_245093_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://jdaymude.github.io/review/videogame-tap-dig-my-museum/museum_hu258252aad6c4944f58e890ada42e6efb_245093_767982c9c283fda0b6a1b9259508a02d.png&#34;
+               src=&#34;https://mhmmoshtaghi.github.io/review/videogame-tap-dig-my-museum/museum_hu258252aad6c4944f58e890ada42e6efb_245093_767982c9c283fda0b6a1b9259508a02d.png&#34;
                width=&#34;527&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1545,7 +1545,7 @@ To the developers at Respawn, Chewbacca would be disappointed in you.&lt;/p&gt;
                /review/videogame-tap-dig-my-museum/level_hu64f74bbabc863a7488cd82b6207ef236_101245_c46c76448e510414a4f960a9346f89f4.png 400w,
                /review/videogame-tap-dig-my-museum/level_hu64f74bbabc863a7488cd82b6207ef236_101245_6ddd96a1b4f47eb87bea39ae1c93c5c3.png 760w,
                /review/videogame-tap-dig-my-museum/level_hu64f74bbabc863a7488cd82b6207ef236_101245_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://jdaymude.github.io/review/videogame-tap-dig-my-museum/level_hu64f74bbabc863a7488cd82b6207ef236_101245_c46c76448e510414a4f960a9346f89f4.png&#34;
+               src=&#34;https://mhmmoshtaghi.github.io/review/videogame-tap-dig-my-museum/level_hu64f74bbabc863a7488cd82b6207ef236_101245_c46c76448e510414a4f960a9346f89f4.png&#34;
                width=&#34;565&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1553,12 +1553,12 @@ To the developers at Respawn, Chewbacca would be disappointed in you.&lt;/p&gt;
 &lt;p&gt;There is exactly one interesting wrinkle that shook up gameplay in what was otherwise an enjoyable but repetitive experience. Occasionally, while on a dig, I&amp;rsquo;d uncover a bone fragment that didn’t belong to the dinosaur I was excavating. These remained elusive until finding more across other dig sites, as &lt;em&gt;Tap! Dig! My Museum!&lt;/em&gt; began to drop subtle clues about where I could find others. I soon found myself flipping through the in-game dinosaur book with newfound importance, trying to track down mysterious new creatures. In those moments, even if it was in a cartoonish, silly kind of way, I felt like I was solving a pre-historic mystery. And, after all, that’s what this is all about.&lt;/p&gt;
 </description>
     </item>
-    
+
     <item>
       <title>Batman: Arkham City</title>
-      <link>https://jdaymude.github.io/review/videogame-batman-arkham-city/</link>
+      <link>https://mhmmoshtaghi.github.io/review/videogame-batman-arkham-city/</link>
       <pubDate>Sat, 17 Aug 2019 12:00:00 -0700</pubDate>
-      <guid>https://jdaymude.github.io/review/videogame-batman-arkham-city/</guid>
+      <guid>https://mhmmoshtaghi.github.io/review/videogame-batman-arkham-city/</guid>
       <description>&lt;p&gt;I played &lt;em&gt;Arkham Asylum&lt;/em&gt; back in summer of 2015, so it somehow seems fitting for this much busier stage of my life that it took me four years to play the sequel. That being said, the gap I&amp;rsquo;ve taken from the &lt;em&gt;Batman: Arkham&lt;/em&gt; series may ultimately have been to my benefit, given just how similar &lt;em&gt;Arkham City&lt;/em&gt; feels to &lt;em&gt;Arkham Asylum&lt;/em&gt;. We&amp;rsquo;re still beating the crap out of every other living character in the game (who all seem inexplicably hostile towards us on sight), we&amp;rsquo;re still uncovering a diabolical plot that features an all-star cast of Batman villains, and we&amp;rsquo;re still tracking down every Riddler secret using every piece of WayneTech we can get our hands on.&lt;/p&gt;
 &lt;p&gt;The thing is, all of it is &lt;em&gt;great&lt;/em&gt;. Very few superhero games, especially those being made back in the early 2010s, can hold a candle to the experience that &lt;em&gt;Arkham City&lt;/em&gt; provides. From gliding and grappling through the city to using detective mode to solve crimes, every moment feels like an authentic, exhilarating experience of donning the cape and cowl of the Dark Knight. Catwoman, Robin, and Nightwing are also playable characters for smaller segments, each with their own exciting gadgets and play styles. A huge amount of the game&amp;rsquo;s success can be credited to the immersive open-world of &lt;em&gt;Arkham City&lt;/em&gt;, greatly improving over the labyrinth Metroidvania-like level design of &lt;em&gt;Arkham Asylum&lt;/em&gt;. Adding a mix of outdoor and indoor locations to the game adds further opportunities for the mechanics and side missions to enrich the overall experience.&lt;/p&gt;
 &lt;p&gt;But this brings me to a point of &lt;em&gt;Arkham City&lt;/em&gt; I was surprised by, and one that I would have only picked up on now, in 2019. Thanks to the open-world design, we get a lot of radio chatter from various inmates and characters to make the solo experience feel more alive. Most of what they say is fine but forgettable, like &amp;ldquo;I wonder what&amp;rsquo;s on TV right now,&amp;rdquo; or self-dating to an era where Facebook was still a novelty: &amp;ldquo;How am I supposed to update my status? &amp;hellip;Oh yeah, I&amp;rsquo;m still stuck here in this stinking prison.&amp;rdquo; But a lot of it hints at something much more sinister, not originating from the inmates themselves, but from their experience.&lt;/p&gt;
@@ -1568,12 +1568,12 @@ To the developers at Respawn, Chewbacca would be disappointed in you.&lt;/p&gt;
 &lt;p&gt;The game would occasionally crash with some pretty unreadable error messages, but was otherwise flawless.&lt;/p&gt;
 </description>
     </item>
-    
+
     <item>
       <title>MARVEL Strike Force</title>
-      <link>https://jdaymude.github.io/review/videogame-marvel-strike-force/</link>
+      <link>https://mhmmoshtaghi.github.io/review/videogame-marvel-strike-force/</link>
       <pubDate>Wed, 02 Jan 2019 12:00:00 -0700</pubDate>
-      <guid>https://jdaymude.github.io/review/videogame-marvel-strike-force/</guid>
+      <guid>https://mhmmoshtaghi.github.io/review/videogame-marvel-strike-force/</guid>
       <description>&lt;p&gt;After reading a particularly deep and persuasive Game Informer &lt;a href=&#34;https://www.gameinformer.com/opinion/2018/06/08/opinion-marvel-strike-force-is-one-of-the-most-addictive-games-ive-played-all&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;opinion piece&lt;/a&gt;, I decided to download &lt;em&gt;MARVEL Strike Force&lt;/em&gt; as a way to take occasional breaks from the stress of planning our wedding. In a polished experience centering on collecting and upgrading MARVEL characters, I soon found myself assembling five-character teams of heroes, villains, and minions whose compositions rivalled even the wildest Cinematic Universe crossovers to date. My early game mashup team of Spiderman, Elektra, Crossbones, Luke Cage, and an unnamed S.H.E.I.L.D. Medic was soon taking on the likes of Ultron, Hydra, and other players&#39; amalgamations in an effort to — as always — save the world.&lt;/p&gt;
 &lt;p&gt;The campaign offers a barebones and comic-book-absurd explanation of what&amp;rsquo;s going on: a new villain named Ultimus (who was invented for this game) has a Conversion Device that he uses to corrupt heroes and villains alike to join his cause. Ultimus conveniently also has the ability to open interdimensional portals, so he makes a habit of converting whole armies of Avengers, Guardians, Hydra, Kree, etc. in his ongoing conquest of the multiverse. Naturally, our dimension — and specifically, our Earth — contains Nexus portals that guard the way to all other dimensions, so Ultimus sees our dimension as his prize. Conveniently, our dimension&amp;rsquo;s Nick Fury secretly started a S.H.E.I.L.D. division called S.T.R.I.K.E. to monitor and defend against inter-dimensional threats, hence the whole &amp;ldquo;Strike Force&amp;rdquo; thing. So, in a classic &amp;ldquo;the enemy of my enemy is my friend&amp;rdquo; narrative, our dimension&amp;rsquo;s heroes and villains team up under the Strike Commander (that&amp;rsquo;s you) to fight Ultimus and — cue the heroic fanfare — save the multiverse!&lt;/p&gt;
 
@@ -1596,7 +1596,7 @@ To the developers at Respawn, Chewbacca would be disappointed in you.&lt;/p&gt;
                /review/videogame-marvel-strike-force/roster_hu883ecfa106ac3c6ecf4aebdf3eaac0ea_2231390_184149cbe4d2206e2d5e8f750d151ae2.png 400w,
                /review/videogame-marvel-strike-force/roster_hu883ecfa106ac3c6ecf4aebdf3eaac0ea_2231390_5bcd6d1de7c34418dd633a0139273390.png 760w,
                /review/videogame-marvel-strike-force/roster_hu883ecfa106ac3c6ecf4aebdf3eaac0ea_2231390_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://jdaymude.github.io/review/videogame-marvel-strike-force/roster_hu883ecfa106ac3c6ecf4aebdf3eaac0ea_2231390_184149cbe4d2206e2d5e8f750d151ae2.png&#34;
+               src=&#34;https://mhmmoshtaghi.github.io/review/videogame-marvel-strike-force/roster_hu883ecfa106ac3c6ecf4aebdf3eaac0ea_2231390_184149cbe4d2206e2d5e8f750d151ae2.png&#34;
                width=&#34;760&#34;
                height=&#34;428&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1623,7 +1623,7 @@ To the developers at Respawn, Chewbacca would be disappointed in you.&lt;/p&gt;
                /review/videogame-marvel-strike-force/shards_hu092108550f5d4d605ea6f1ce419717b4_2205241_3122f688e98b7bdaac08dfab20345803.png 400w,
                /review/videogame-marvel-strike-force/shards_hu092108550f5d4d605ea6f1ce419717b4_2205241_ea7cc3a338ba65c02115c9a80e80a21b.png 760w,
                /review/videogame-marvel-strike-force/shards_hu092108550f5d4d605ea6f1ce419717b4_2205241_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://jdaymude.github.io/review/videogame-marvel-strike-force/shards_hu092108550f5d4d605ea6f1ce419717b4_2205241_3122f688e98b7bdaac08dfab20345803.png&#34;
+               src=&#34;https://mhmmoshtaghi.github.io/review/videogame-marvel-strike-force/shards_hu092108550f5d4d605ea6f1ce419717b4_2205241_3122f688e98b7bdaac08dfab20345803.png&#34;
                width=&#34;760&#34;
                height=&#34;428&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1645,12 +1645,12 @@ To the developers at Respawn, Chewbacca would be disappointed in you.&lt;/p&gt;
 &lt;p&gt;Occasionally, after certain updates, battles can hang indefinitely, where either the AI never takes their turn or the player is never presented with their actions. This is usually fixable by force-quitting the game and restarting.&lt;/p&gt;
 </description>
     </item>
-    
+
     <item>
       <title>Splashy Dots</title>
-      <link>https://jdaymude.github.io/review/videogame-splashy-dots/</link>
+      <link>https://mhmmoshtaghi.github.io/review/videogame-splashy-dots/</link>
       <pubDate>Fri, 02 Nov 2018 12:00:00 -0700</pubDate>
-      <guid>https://jdaymude.github.io/review/videogame-splashy-dots/</guid>
+      <guid>https://mhmmoshtaghi.github.io/review/videogame-splashy-dots/</guid>
       <description>&lt;p&gt;Creating an iOS puzzle game with minimalist design and the latest iOS features (3D Touch, Haptic, etc.) seems to be the surefire strategy for getting featured by Apple in the App Store in the late 2010s. But despite attaining that all-important medal of honor, &lt;em&gt;Splashy Dots&lt;/em&gt; serves, at best, a bland and lightly logical time-waster.&lt;/p&gt;
 &lt;p&gt;At its core, &lt;em&gt;Splashy Dots&lt;/em&gt; is about connecting dots on a grid, starting and ending at specified locations without being allowed to backtrack. Its aesthetic is vaguely reminiscent of an art gallery, and connecting the colored dots is something like &amp;ldquo;paint through all the colors without lifting your paintbrush&amp;rdquo;. Except the colors don&amp;rsquo;t matter, and the &amp;ldquo;paintings&amp;rdquo; that comprise the levels never end up looking like anything nice (unless you really like abstract art, in which case, knock yourself out).&lt;/p&gt;
 
@@ -1673,7 +1673,7 @@ To the developers at Respawn, Chewbacca would be disappointed in you.&lt;/p&gt;
                /review/videogame-splashy-dots/featured_huf8ddd504f1fd6f9554863764a44c44c0_729320_51a918d4b8d05fd829e6f4c2869b1e2f.png 400w,
                /review/videogame-splashy-dots/featured_huf8ddd504f1fd6f9554863764a44c44c0_729320_896a885e1153a979107e02d6ccf843b6.png 760w,
                /review/videogame-splashy-dots/featured_huf8ddd504f1fd6f9554863764a44c44c0_729320_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://jdaymude.github.io/review/videogame-splashy-dots/featured_huf8ddd504f1fd6f9554863764a44c44c0_729320_51a918d4b8d05fd829e6f4c2869b1e2f.png&#34;
+               src=&#34;https://mhmmoshtaghi.github.io/review/videogame-splashy-dots/featured_huf8ddd504f1fd6f9554863764a44c44c0_729320_51a918d4b8d05fd829e6f4c2869b1e2f.png&#34;
                width=&#34;530&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1681,12 +1681,12 @@ To the developers at Respawn, Chewbacca would be disappointed in you.&lt;/p&gt;
 &lt;p&gt;It&amp;rsquo;s difficult not to compare &lt;em&gt;Splashy Dots&lt;/em&gt; to other casual puzzle games that are unequivocally richer experiences. Take &lt;em&gt;Dots&lt;/em&gt; and its excellent sequel &lt;em&gt;Two Dots&lt;/em&gt;, for example. &lt;em&gt;Splashy Dots&lt;/em&gt; seems to be a carbon copy when it comes to the &lt;em&gt;Dots&lt;/em&gt; games&#39; minimalist designs, but replaces the innovative and progressively more difficult gameplay with an inane, repetitive experience. Or, if we want to focus more on the &amp;ldquo;art&amp;rdquo; aspect, consider any Picross game. Despite being quite repetitive, Picross stays engaging by promising the player that all the numbers and squares will eventually depict something. It&amp;rsquo;s a promise that the experience will be rewarding, even if that reward is just a pixelated happy face. &lt;em&gt;Splashy Dots&lt;/em&gt;, in turn, offers every combination of colored lines imaginable. And something about discovering hundreds of crappy paintings just isn&amp;rsquo;t a formula that keeps me coming back for more.&lt;/p&gt;
 </description>
     </item>
-    
+
     <item>
       <title>Undertale</title>
-      <link>https://jdaymude.github.io/review/videogame-undertale/</link>
+      <link>https://mhmmoshtaghi.github.io/review/videogame-undertale/</link>
       <pubDate>Tue, 23 Oct 2018 12:00:00 -0700</pubDate>
-      <guid>https://jdaymude.github.io/review/videogame-undertale/</guid>
+      <guid>https://mhmmoshtaghi.github.io/review/videogame-undertale/</guid>
       <description>&lt;p&gt;Every review for Toby Fox&amp;rsquo;s &lt;em&gt;Undertale&lt;/em&gt; seems to somehow impart a deep seeded conviction that this truly is one of the most emotional, clever, unexpected games of all time. That conviction is so powerful that by the time I metaphorically pulled this title off the shelf and gave it a good dusting (months after I got it as a much wanted gift), the idea that I was going to be blown away by this little indie game was all but a concrete expectation. That hope only grew when, after falling in love with &amp;ldquo;His Theme&amp;rdquo; when it was used as a backing track behind some &lt;em&gt;Overwatch&lt;/em&gt; &lt;a href=&#34;https://www.youtube.com/watch?v=NjgokkTtniY&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;voice lines&lt;/a&gt;, I found &lt;em&gt;Undertale&lt;/em&gt;&amp;rsquo;s soundtrack to be incredible in its own right.&lt;/p&gt;
 &lt;p&gt;Perhaps by osmosis, I had come to respect the vague, sacred secrecy the community held around the game&amp;rsquo;s details. But it wasn&amp;rsquo;t until I fired it up for the first time that I realized I&amp;rsquo;d never even seen a screenshot of &lt;em&gt;Undertale&lt;/em&gt; before, and it was honestly a jarring experience. Playing on my 3000x2000 Surface Book display, &lt;em&gt;Undertale&lt;/em&gt; loaded as a little box of pixel graphics that only occupied a ninth of my screen, and it took me a solid amount of Googling to figure out if it even had a fullscreen mode (it does, press &lt;code&gt;F4&lt;/code&gt;). Once it was big enough to actually see, it was a whole other struggle to figure out how to control stuff, as &lt;em&gt;Undertale&lt;/em&gt; offers you no real tutorial whatsoever (arrow keys to walk, and &lt;code&gt;Z&lt;/code&gt;, &lt;code&gt;X&lt;/code&gt;, and &lt;code&gt;Ctrl&lt;/code&gt; for pretty much everything else). In fact, the initial feeling I had was one of deflation; this supposedly perfect game was actually a time machine back to the days of pixel art and text-based RPGs with a bad on-ramping experience.&lt;/p&gt;
 
@@ -1709,7 +1709,7 @@ To the developers at Respawn, Chewbacca would be disappointed in you.&lt;/p&gt;
                /review/videogame-undertale/judgement_hu6a228774f549573fbecc8eaf41cdd971_135799_a8bf3ae1caf1acd05114557c3803998a.png 400w,
                /review/videogame-undertale/judgement_hu6a228774f549573fbecc8eaf41cdd971_135799_9860648261eeaae0d8c5cdd6d9ad53b4.png 760w,
                /review/videogame-undertale/judgement_hu6a228774f549573fbecc8eaf41cdd971_135799_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://jdaymude.github.io/review/videogame-undertale/judgement_hu6a228774f549573fbecc8eaf41cdd971_135799_a8bf3ae1caf1acd05114557c3803998a.png&#34;
+               src=&#34;https://mhmmoshtaghi.github.io/review/videogame-undertale/judgement_hu6a228774f549573fbecc8eaf41cdd971_135799_a8bf3ae1caf1acd05114557c3803998a.png&#34;
                width=&#34;760&#34;
                height=&#34;428&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1718,12 +1718,12 @@ To the developers at Respawn, Chewbacca would be disappointed in you.&lt;/p&gt;
 &lt;p&gt;So have a little hope, press on, and stay determined. You&amp;rsquo;ll be so happy you did.&lt;/p&gt;
 </description>
     </item>
-    
+
     <item>
       <title>A Way Out</title>
-      <link>https://jdaymude.github.io/review/videogame-a-way-out/</link>
+      <link>https://mhmmoshtaghi.github.io/review/videogame-a-way-out/</link>
       <pubDate>Wed, 04 Apr 2018 12:00:00 -0700</pubDate>
-      <guid>https://jdaymude.github.io/review/videogame-a-way-out/</guid>
+      <guid>https://mhmmoshtaghi.github.io/review/videogame-a-way-out/</guid>
       <description>&lt;p&gt;After Josef Fares&amp;rsquo;s emotionally stunning success with &lt;em&gt;Brothers: A Tale of Two Sons&lt;/em&gt;, I honestly wasn&amp;rsquo;t sure how his new team at Hazelight Studios could follow it up with their first game. Certainly there would have to be a solid story at its heart, but what else? As another story about two male co-lead characters, could &lt;em&gt;A Way Out&lt;/em&gt; invent new and fresh co-op mechanics? Could it evoke emotional responses on par with those in &lt;em&gt;Brothers&lt;/em&gt; without recycling too much material? Most importantly, could it — like &lt;em&gt;Brothers&lt;/em&gt; — ask thematic questions that pierce beyond the screen and into reality?&lt;/p&gt;
 &lt;p&gt;The answer to all three of these questions is a resounding yes. In &lt;em&gt;A Way Out&lt;/em&gt;, two players (either locally or online) each control one of Vincent and Leo, the story&amp;rsquo;s protagonists. At the story&amp;rsquo;s start, Vincent is going to jail while Leo has already been in for several months. As they slowly begin to trust one another, they learn that they both have it out for a crime boss named Harvey, the man who got them both canned. United by a desire to find their own justice, the pair hatch a plan to escape.&lt;/p&gt;
 &lt;p&gt;The story unfolds as our protagonists interact with one another and others in their environment, tasking players with surviving harrowing combat, pulling off pieces of an escape plan, and solving puzzles using their surroundings. But these elements can be found in many games; the differentiating factor for &lt;em&gt;A Way Out&lt;/em&gt; is the way in which it demands cooperation from the players, even in the most mundane tasks. Especially in the first half of the game, every situation is an opportunity to synergize in new ways. As Vincent and Leo learn to trust one another and work together, so do the players controlling them.&lt;/p&gt;
@@ -1738,12 +1738,12 @@ To the developers at Respawn, Chewbacca would be disappointed in you.&lt;/p&gt;
 &lt;p&gt;Many of the character&amp;rsquo;s voice lines were not accurately timed, and would often trigger at irrelevant moments. This may not be a bug so much as a way the experience could be polished further.&lt;/p&gt;
 </description>
     </item>
-    
+
     <item>
       <title>Blendoku 2</title>
-      <link>https://jdaymude.github.io/review/videogame-blendoku-2/</link>
+      <link>https://mhmmoshtaghi.github.io/review/videogame-blendoku-2/</link>
       <pubDate>Sun, 17 Dec 2017 12:00:00 -0700</pubDate>
-      <guid>https://jdaymude.github.io/review/videogame-blendoku-2/</guid>
+      <guid>https://mhmmoshtaghi.github.io/review/videogame-blendoku-2/</guid>
       <description>&lt;p&gt;&lt;em&gt;Blendoku 2&lt;/em&gt; is an excellent example of a free, mobile puzzle game done right. Based on the deceptively simple concept of sorting colors, &lt;em&gt;Blendoku 2&lt;/em&gt; offers great depth of content and innovative mechanics to a mobile puzzle scene overrun by match-three spinoffs and their ilk.&lt;/p&gt;
 &lt;p&gt;Gameplay is straightforward: a crossword-like board is presented with a small number of colored tiles already filled in. Players must then place the remaining colors into the correct spaces so that the resulting board follows some sort of color gradient. Variants on this basic formula include &amp;ldquo;Keyless&amp;rdquo;, where the original board has no preset tiles; &amp;ldquo;Decoys,&amp;rdquo; where some tiles are red herrings and not part of the end configuration, and &amp;ldquo;Clones,&amp;rdquo; where a color corresponds to multiple spaces on the board. Completionists can challenge themselves to beat levels faster than the world average time and do so perfectly, avoiding putting any colors in incorrect locations. Achievements accompany these feats and more (and all are possible without payment).&lt;/p&gt;
 
@@ -1766,7 +1766,7 @@ To the developers at Respawn, Chewbacca would be disappointed in you.&lt;/p&gt;
                /review/videogame-blendoku-2/thanks_41_hu2af550c75d92bbda05ddca25a13227dd_7952_2eefcd7c1224974a5b6b4421a66afe57.png 400w,
                /review/videogame-blendoku-2/thanks_41_hu2af550c75d92bbda05ddca25a13227dd_7952_bbb7cef94443b9923740b5ab3828bdca.png 760w,
                /review/videogame-blendoku-2/thanks_41_hu2af550c75d92bbda05ddca25a13227dd_7952_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://jdaymude.github.io/review/videogame-blendoku-2/thanks_41_hu2af550c75d92bbda05ddca25a13227dd_7952_2eefcd7c1224974a5b6b4421a66afe57.png&#34;
+               src=&#34;https://mhmmoshtaghi.github.io/review/videogame-blendoku-2/thanks_41_hu2af550c75d92bbda05ddca25a13227dd_7952_2eefcd7c1224974a5b6b4421a66afe57.png&#34;
                width=&#34;676&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1793,7 +1793,7 @@ To the developers at Respawn, Chewbacca would be disappointed in you.&lt;/p&gt;
                /review/videogame-blendoku-2/painting_15_hu4beddca54a96b73bca0c1dc2c9d3133c_647481_76c2b81d33a2ed9286f4a2ad318c0208.png 400w,
                /review/videogame-blendoku-2/painting_15_hu4beddca54a96b73bca0c1dc2c9d3133c_647481_fd7cfbb4eee3c59c86bd08991b14f53d.png 760w,
                /review/videogame-blendoku-2/painting_15_hu4beddca54a96b73bca0c1dc2c9d3133c_647481_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://jdaymude.github.io/review/videogame-blendoku-2/painting_15_hu4beddca54a96b73bca0c1dc2c9d3133c_647481_76c2b81d33a2ed9286f4a2ad318c0208.png&#34;
+               src=&#34;https://mhmmoshtaghi.github.io/review/videogame-blendoku-2/painting_15_hu4beddca54a96b73bca0c1dc2c9d3133c_647481_76c2b81d33a2ed9286f4a2ad318c0208.png&#34;
                width=&#34;518&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1801,12 +1801,12 @@ To the developers at Respawn, Chewbacca would be disappointed in you.&lt;/p&gt;
 &lt;p&gt;All in all, &lt;em&gt;Blendoku 2&lt;/em&gt;’s commitment to simplicity in design and mechanics combined with its plethora of free content makes it a must-try for puzzle lovers.&lt;/p&gt;
 </description>
     </item>
-    
+
     <item>
       <title>June&#39;s Journey</title>
-      <link>https://jdaymude.github.io/review/videogame-junes-journey/</link>
+      <link>https://mhmmoshtaghi.github.io/review/videogame-junes-journey/</link>
       <pubDate>Wed, 25 Oct 2017 12:00:00 -0700</pubDate>
-      <guid>https://jdaymude.github.io/review/videogame-junes-journey/</guid>
+      <guid>https://mhmmoshtaghi.github.io/review/videogame-junes-journey/</guid>
       <description>&lt;p&gt;Hidden object games moved from their old dwellings in children&amp;rsquo;s sections of newspapers to new homes on touchscreens in the early iOS era, and every generation of the operating system sees a new app iterate over the same mechanics. More of the same isn&amp;rsquo;t always bad — it&amp;rsquo;s nice to have new apps with refreshed graphics to replace aging legacy games that are no longer supported — but nevertheless, newcomers must somehow justify their existence. &lt;em&gt;June&amp;rsquo;s Journey&lt;/em&gt; had a promising plan to do so: wrap classic hidden object gameplay in a mystery story and toss in some city building-esque filler as a bonus. But it ultimately commits too many sins of other free-to-play, casual games to remain enjoyable, and a poorly executed progression system subjects players to numbing repetition.&lt;/p&gt;
 
 
@@ -1828,7 +1828,7 @@ To the developers at Respawn, Chewbacca would be disappointed in you.&lt;/p&gt;
                /review/videogame-junes-journey/level_hufdef2b02222c20c1955cf8924e6e35d4_5019216_206d0f8aafddc8dd81b98a9d96738a03.png 400w,
                /review/videogame-junes-journey/level_hufdef2b02222c20c1955cf8924e6e35d4_5019216_b153d9051b1fb330658273f831674ee7.png 760w,
                /review/videogame-junes-journey/level_hufdef2b02222c20c1955cf8924e6e35d4_5019216_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://jdaymude.github.io/review/videogame-junes-journey/level_hufdef2b02222c20c1955cf8924e6e35d4_5019216_206d0f8aafddc8dd81b98a9d96738a03.png&#34;
+               src=&#34;https://mhmmoshtaghi.github.io/review/videogame-junes-journey/level_hufdef2b02222c20c1955cf8924e6e35d4_5019216_206d0f8aafddc8dd81b98a9d96738a03.png&#34;
                width=&#34;760&#34;
                height=&#34;428&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1838,24 +1838,24 @@ To the developers at Respawn, Chewbacca would be disappointed in you.&lt;/p&gt;
 &lt;p&gt;The joy of a hidden object game is in finding things. There&amp;rsquo;s nothing wrong with adding extra elements to the gameplay; a good story is a boon to any game, and rewarding players with an increasingly sprawling and beautiful estate to mark their time investment is quite nice. But when grinding for levels and resources reduces finding hidden objects to memorizing where on the screen to tap, there can be no arguing that &lt;em&gt;June&amp;rsquo;s Journey&lt;/em&gt; lost sight of its core gameplay which should have remained its soul.&lt;/p&gt;
 </description>
     </item>
-    
+
     <item>
       <title>Overcooked</title>
-      <link>https://jdaymude.github.io/review/videogame-overcooked/</link>
+      <link>https://mhmmoshtaghi.github.io/review/videogame-overcooked/</link>
       <pubDate>Mon, 11 Sep 2017 12:00:00 -0700</pubDate>
-      <guid>https://jdaymude.github.io/review/videogame-overcooked/</guid>
+      <guid>https://mhmmoshtaghi.github.io/review/videogame-overcooked/</guid>
       <description>&lt;p&gt;I am a panda wielding a kitchen knife, desperately hacking away at as many onions as physically possible and subsequently littering the floor with chopped produce. The noise level in our living room steadily rises as my sister and I frantically shout back and forth at each other; the culinary space station we&amp;rsquo;ve been thrust into is about to rotate, and we&amp;rsquo;ll have a very narrow window before the station rotates again to ferry all the onions into another room where pots will transform them into delicious soups. But the discord is quickly joined by my brother, finding himself caught on the wrong side of an airlock, holding clean bowls for a set of soups that are nearly finished cooking. In a few moments, those soups will burn and set that section of the kitchen on fire; onions are bumped and kicked aside as my panda and my sister&amp;rsquo;s black bear accidentally dash into one another in our simultaneous attempts to get to the fire extinguisher. Orders are being missed, dirty dishes are piling up, soups are burning, tempers are fraying, and — most importantly — hilarity is ensuing. This is &lt;em&gt;Overcooked&lt;/em&gt;.&lt;/p&gt;
 &lt;p&gt;Set with the task of avoiding certain apocalyptic doom caused by the appearance of a spaghetti monster that cannot be sated, players (controlling cartoon people and anthropomorphic animals) are sent back in time to hone their teamwork and culinary abilities. These cooperative teams of 1–4 players face challenges in cooking a variety of dishes, each introducing its own unique mechanics, in a variety of environments, each with its own hazards. Continuous failure to learn each level&amp;rsquo;s unspoken rules and strategies quickly is more often a source of comedy than of frustration, and any attempts to rely on a comfort strategy are almost always usurped by little surprises to further refine your growing culinary expertise.&lt;/p&gt;
 &lt;p&gt;For the most part, each level is fairly straightforward: obtain ingredients, chop them, assemble them into dishes, cook those dishes, plate them, serve them, and literally rinse and repeat by washing the dirty plates when they&amp;rsquo;re returned. The faster dishes are served, the more money they&amp;rsquo;re worth, and a score of 1 (passing) to 3 (perfect) stars can be scored on each level depending on the total money earned. The numerous ways each stage of preparation overlaps with the others offers more than enough material for flustering and amusing kitchen accidents, but it&amp;rsquo;s the small mechanics tweaks and zany interactions between the players and their environment that keep the already incredible core experience fresh throughout the course of the game. Mishaps abound, such as accidentally throwing away clean dishes instead of handing them to another player or slipping off an iceberg holding a finished pizza.&lt;/p&gt;
 &lt;p&gt;Although the game can be played alone (wherein a single player controls multiple avatars and switches between them), &lt;em&gt;Overcooked&lt;/em&gt;&amp;rsquo;s hilarity of mistakes (and mistakes on top of mistakes) combined with the thrill of (eventual) success is best experienced with friends. In an age where couch co-op is largely ignored in the wake of big screen multiplayer titles, &lt;em&gt;Overcooked&lt;/em&gt; not only succeeds in creating a satisfying co-op experience but adds innovative elements beyond the usual cooking game. If &lt;em&gt;Overcooked&lt;/em&gt; were a meal, then Ghost Town Games has prepared us something truly wonderful and family-style; my compliments to the chefs.&lt;/p&gt;
 </description>
     </item>
-    
+
     <item>
       <title>We Were Here</title>
-      <link>https://jdaymude.github.io/review/videogame-we-were-here/</link>
+      <link>https://mhmmoshtaghi.github.io/review/videogame-we-were-here/</link>
       <pubDate>Sun, 16 Jul 2017 12:00:00 -0700</pubDate>
-      <guid>https://jdaymude.github.io/review/videogame-we-were-here/</guid>
+      <guid>https://mhmmoshtaghi.github.io/review/videogame-we-were-here/</guid>
       <description>&lt;p&gt;In this two-player, cooperative, escape-the-room-like adventure, players take the roles of the Librarian and the Explorer. The two begin the game stranded in an unspecified snowy region, and upon discovering and entering a foreboding castle, they are knocked out and placed in separate rooms, connected only by a pair of walkie-talkies. The Librarian is primarily responsible for supplying information to the Explorer, who in turn navigates deadly traps and dimly lit mazes to reach new areas. By piecing together visual clues from both players&#39; environments, puzzles are solved cooperatively, opening doors to new challenges.&lt;/p&gt;
 &lt;p&gt;For a free-to-play game, this was a surprisingly enjoyable and well-constructed experience (albeit a relatively short one, with an imperfect run taking roughly two hours). The crux of the gameplay rests on using voice-only communication to navigate inherently visual puzzles, which are fairly high-quality. Each puzzle balances complexity with difficulty in a pleasing way, and remains sufficiently independent of the rest, ensuring that each sequence is fresh and surprising. Even so, the overall experience was cohesive, rewarding attention to detail even when the details weren&amp;rsquo;t immediately relevant. Making the roles unique gives the game replay value as well; even though both players know the puzzle solutions after one successful run, switching roles gives a satisfying &amp;ldquo;ah, that&amp;rsquo;s what you were confused about!&amp;rdquo; kind of feeling.&lt;/p&gt;
 &lt;p&gt;The graphics are lacking in polish, but this is hardly a complaint given the game is free. In some senses, the lower quality textures add to the experience; I don&amp;rsquo;t really like horror games, but the use of creepy atmospheric elements and the ever-present sense that my partner was in danger was enough to create the right amount of suspense.&lt;/p&gt;
@@ -1865,12 +1865,12 @@ To the developers at Respawn, Chewbacca would be disappointed in you.&lt;/p&gt;
 &lt;p&gt;As of Update Five, the introductory video has audio buffering issues. The chess puzzle has a couple bugs: the librarian often drops the film reel for no reason, and it is possible to get the film reel to play its spinning animation on the table itself if the Explorer applies the power too early.&lt;/p&gt;
 </description>
     </item>
-    
+
     <item>
       <title>Heroes of the Storm</title>
-      <link>https://jdaymude.github.io/review/videogame-heroes-of-the-storm/</link>
+      <link>https://mhmmoshtaghi.github.io/review/videogame-heroes-of-the-storm/</link>
       <pubDate>Tue, 03 Jan 2017 12:00:00 -0700</pubDate>
-      <guid>https://jdaymude.github.io/review/videogame-heroes-of-the-storm/</guid>
+      <guid>https://mhmmoshtaghi.github.io/review/videogame-heroes-of-the-storm/</guid>
       <description>&lt;p&gt;&lt;em&gt;Note: This review reflects the state of Heroes just after the Nexus Challenge and the Feast of the Winter Veil 2016.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Heroes of the Storm&lt;/em&gt; is a MOBA that felt fresh and exciting at the time of its debut, pitting itself against the genre giants &lt;em&gt;Dota 2&lt;/em&gt; and &lt;em&gt;League of Legends&lt;/em&gt;. It offered many maps with varying level design and side objectives which added to the standard formula of tower/base pushing, and — if nothing else — provided Blizzard fans a battleground on which characters from all their favorite games could slash, shoot, claw, hook, and magic their way to victory.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Heroes&lt;/em&gt; does many things well. Its gameplay is, at worst, a well polished MOBA experience. At best, teams move between mercenary camps, team fights, and side objectives with fluidity, emphasizing just how natural the game has made it for players to act as a unit, rather than individuals. XP and levelling is done as a team, so excessive farm management or kill-stealing are nonfactors. Mounts allow for quick traversal of the map, which is an engaging alternative to stocking up on teleport scrolls in fear of not being able to assist your team in times of need (&lt;em&gt;Dota 2&lt;/em&gt;) or, even worse, walking on foot back to the action after every death (&lt;em&gt;Overwatch&lt;/em&gt;). In a similar vein of encouraging cooperation and limiting toxicity, the lack of an all-chat stops players from flaming their opponents. Aesthetically, every character is reconstructed with love and integrity to their original game representations, and the worlds, music, and announcers feel right at home in the Blizzard universe.&lt;/p&gt;
@@ -1879,12 +1879,12 @@ To the developers at Respawn, Chewbacca would be disappointed in you.&lt;/p&gt;
 &lt;p&gt;Today, in a post-&lt;em&gt;Overwatch&lt;/em&gt;, MOBA-crowded gaming scene, &lt;em&gt;Heroes&lt;/em&gt; struggles to find its place. Several of its most innovative elements such as mounts and talents have been copied by other games (&lt;em&gt;Paladins&lt;/em&gt; and &lt;em&gt;Dota 2: The New Journey&lt;/em&gt;, respectively). Its &amp;ldquo;statistics&amp;rdquo; are laughably barebones, especially for a Blizzard game. Yet its gameplay remains highly polished and its community relatively non-toxic, establishing &lt;em&gt;Heroes&lt;/em&gt; as a place that&amp;rsquo;s inviting to return to from time to time.&lt;/p&gt;
 </description>
     </item>
-    
+
     <item>
       <title>Sputnik Eyes</title>
-      <link>https://jdaymude.github.io/review/videogame-sputnik-eyes/</link>
+      <link>https://mhmmoshtaghi.github.io/review/videogame-sputnik-eyes/</link>
       <pubDate>Wed, 13 Apr 2016 12:00:00 -0700</pubDate>
-      <guid>https://jdaymude.github.io/review/videogame-sputnik-eyes/</guid>
+      <guid>https://mhmmoshtaghi.github.io/review/videogame-sputnik-eyes/</guid>
       <description>&lt;p&gt;&lt;em&gt;Sputnik Eyes&lt;/em&gt; is a puzzle game adorned with a playful atmosphere in which you&amp;rsquo;re tasked with guiding exploratory colored robots to matching color positions in order to discover new planets. The aesthetic is greatly inspired by space exploration and the mathematical field of graph theory, which delivers enjoyable mechanics for mathy logic puzzles in minimalist artwork and easily understood controls. The UI is full of adorable artwork, reminiscent of cartoon depictions of outer space that might decorate a child&amp;rsquo;s bedroom. The soundtrack is similarly dreamy, leveraging a handful of light, instrumental electronic songs on rotation to keep any one from becoming overplayed.&lt;/p&gt;
 
 
@@ -1906,7 +1906,7 @@ To the developers at Respawn, Chewbacca would be disappointed in you.&lt;/p&gt;
                /review/videogame-sputnik-eyes/level_hu4b4ff64bd98f5c51248ec04c7cd85531_222619_6a26b4128c9b22a4c816c798d1ddd973.png 400w,
                /review/videogame-sputnik-eyes/level_hu4b4ff64bd98f5c51248ec04c7cd85531_222619_8d5250ef489b43569b5e6b8d194c8cb1.png 760w,
                /review/videogame-sputnik-eyes/level_hu4b4ff64bd98f5c51248ec04c7cd85531_222619_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://jdaymude.github.io/review/videogame-sputnik-eyes/level_hu4b4ff64bd98f5c51248ec04c7cd85531_222619_6a26b4128c9b22a4c816c798d1ddd973.png&#34;
+               src=&#34;https://mhmmoshtaghi.github.io/review/videogame-sputnik-eyes/level_hu4b4ff64bd98f5c51248ec04c7cd85531_222619_6a26b4128c9b22a4c816c798d1ddd973.png&#34;
                width=&#34;428&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1932,7 +1932,7 @@ To the developers at Respawn, Chewbacca would be disappointed in you.&lt;/p&gt;
                /review/videogame-sputnik-eyes/constellation_huec79b848a40fbc6e180e238cf7544ebf_147126_e6bf3aec57ab147e9593b86c57a013f8.png 400w,
                /review/videogame-sputnik-eyes/constellation_huec79b848a40fbc6e180e238cf7544ebf_147126_3b9036ae65742f576766aa804edbbcda.png 760w,
                /review/videogame-sputnik-eyes/constellation_huec79b848a40fbc6e180e238cf7544ebf_147126_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://jdaymude.github.io/review/videogame-sputnik-eyes/constellation_huec79b848a40fbc6e180e238cf7544ebf_147126_e6bf3aec57ab147e9593b86c57a013f8.png&#34;
+               src=&#34;https://mhmmoshtaghi.github.io/review/videogame-sputnik-eyes/constellation_huec79b848a40fbc6e180e238cf7544ebf_147126_e6bf3aec57ab147e9593b86c57a013f8.png&#34;
                width=&#34;428&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1940,6 +1940,6 @@ To the developers at Respawn, Chewbacca would be disappointed in you.&lt;/p&gt;
 &lt;p&gt;All in all, &lt;em&gt;Sputnik Eyes&lt;/em&gt; is a satisfying puzzle game resulting from heartfelt, thoughtful work that turns a hopeful eye to what lies beyond our atmosphere.&lt;/p&gt;
 </description>
     </item>
-    
+
   </channel>
 </rss>

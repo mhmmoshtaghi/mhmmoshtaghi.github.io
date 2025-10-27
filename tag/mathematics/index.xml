@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>mathematics | Joshua J. Daymude</title>
-    <link>https://jdaymude.github.io/tag/mathematics/</link>
-      <atom:link href="https://jdaymude.github.io/tag/mathematics/index.xml" rel="self" type="application/rss+xml" />
+    <title>mathematics | Mohammad Moshtaghi</title>
+    <link>https://mhmmoshtaghi.github.io/tag/mathematics/</link>
+      <atom:link href="https://mhmmoshtaghi.github.io/tag/mathematics/index.xml" rel="self" type="application/rss+xml" />
     <description>mathematics</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Joshua J. Daymude</copyright><lastBuildDate>Tue, 30 Nov 2021 11:57:40 -0700</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Mohammad Moshtaghi</copyright><lastBuildDate>Tue, 30 Nov 2021 11:57:40 -0700</lastBuildDate>
     <image>
-      <url>https://jdaymude.github.io/media/logo_hu1dc8deb1865675db905a286e8af9308b_16380_300x300_fit_lanczos_3.png</url>
+      <url>https://mhmmoshtaghi.github.io/media/logo_hu1dc8deb1865675db905a286e8af9308b_16380_300x300_fit_lanczos_3.png</url>
       <title>mathematics</title>
-      <link>https://jdaymude.github.io/tag/mathematics/</link>
+      <link>https://mhmmoshtaghi.github.io/tag/mathematics/</link>
     </image>
-    
+
     <item>
       <title>Elegant Derivatives of Large Products</title>
-      <link>https://jdaymude.github.io/post/elegant-derivatives-of-large-products/</link>
+      <link>https://mhmmoshtaghi.github.io/post/elegant-derivatives-of-large-products/</link>
       <pubDate>Tue, 30 Nov 2021 11:57:40 -0700</pubDate>
-      <guid>https://jdaymude.github.io/post/elegant-derivatives-of-large-products/</guid>
+      <guid>https://mhmmoshtaghi.github.io/post/elegant-derivatives-of-large-products/</guid>
       <description>&lt;p&gt;An ongoing research project on modeling computer security has thrown me back into calculus for the first time since my undergraduate differential equations course in 2014, which as an aside was the only college course that forced me to buy the professor&amp;rsquo;s custom textbook just to get access to homework problems.
 (I&amp;rsquo;m still mad about that.)
 Anyway, my research led me to take the derivative of an expression of the form:&lt;/p&gt;
@@ -28,7 +28,7 @@ It says to look at each $f_i$ term as $i$ goes from $1, 2, \ldots, n$ and multip
 &lt;p&gt;$$\frac{d}{dx} \prod_{i=1}^n f_i(x) = \prod_{i=1}^n f_i(x) \cdot \sum_{i=1}^n \frac{f_i&#39;(x)}{f_i(x)}$$&lt;/p&gt;
 &lt;p&gt;As is common in mathematics, there&amp;rsquo;s a direct but tedious way to get this answer and another more elegant way to get the same thing.
 I&amp;rsquo;m not the first to derive this solution, but I&amp;rsquo;m writing it up for posterity because I will inevitably forget this trick in a few days.
-A PDF of the two derivations without all the handholding I&amp;rsquo;m about to do is available &lt;a href=&#34;https://jdaymude.github.io/uploads/elegant-derivatives-of-large-products.pdf&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+A PDF of the two derivations without all the handholding I&amp;rsquo;m about to do is available &lt;a href=&#34;https://mhmmoshtaghi.github.io/uploads/elegant-derivatives-of-large-products.pdf&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;method-1-product-rule&#34;&gt;Method 1: Product Rule&lt;/h2&gt;
 &lt;p&gt;I had to sweep away years of mental cobwebs to remember the &lt;a href=&#34;https://en.wikipedia.org/wiki/Product_rule&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;product rule&lt;/a&gt; for derivatives.
 My expression is a product, after all, so why not start there?
@@ -88,18 +88,18 @@ The derivative of the natural logarithm is:&lt;/p&gt;
 &lt;h2 id=&#34;concluding-thoughts&#34;&gt;Concluding Thoughts&lt;/h2&gt;
 &lt;p&gt;Having initially stumbled upon Method 1, I was surprised that this derivative came out so beautifully in the end.
 Credit where it&amp;rsquo;s due: I adapted the elegant Method 2 from &lt;a href=&#34;https://www.quora.com/What-is-the-first-derivative-of-an-infinite-product-of-factors&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this post&lt;/a&gt; regarding infinite products.
-I have some technical notes at the end of the &lt;a href=&#34;https://jdaymude.github.io/uploads/elegant-derivatives-of-large-products.pdf&#34; target=&#34;_blank&#34;&gt;linked PDF&lt;/a&gt; about when Method 2 breaks down, though I believe Method 1 does not have any of these problems.&lt;/p&gt;
+I have some technical notes at the end of the &lt;a href=&#34;https://mhmmoshtaghi.github.io/uploads/elegant-derivatives-of-large-products.pdf&#34; target=&#34;_blank&#34;&gt;linked PDF&lt;/a&gt; about when Method 2 breaks down, though I believe Method 1 does not have any of these problems.&lt;/p&gt;
 &lt;p&gt;Hopefully this was fun (and if it wasn&amp;rsquo;t, I doubt you read this far 😉).
 This is one of many examples in mathematics of finding multiple solutions to the same problem and learning something different each time.
 Next time you emerge victorious from a tedious derivation, see if you can find a clever alternative!&lt;/p&gt;
 </description>
     </item>
-    
+
     <item>
       <title>Solving the Molecube by Reduction</title>
-      <link>https://jdaymude.github.io/post/solving-the-molecube-by-reduction/</link>
+      <link>https://mhmmoshtaghi.github.io/post/solving-the-molecube-by-reduction/</link>
       <pubDate>Mon, 06 Jan 2020 13:00:00 -0700</pubDate>
-      <guid>https://jdaymude.github.io/post/solving-the-molecube-by-reduction/</guid>
+      <guid>https://mhmmoshtaghi.github.io/post/solving-the-molecube-by-reduction/</guid>
       <description>&lt;p&gt;My sister-in-law surprised me with a &lt;a href=&#34;http://www.recenttoys.com/meffert-molecube-twister-puzzle/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Molecube&lt;/a&gt; for Christmas, which combines the logic of a Sudoku puzzle with the mechanics of a Rubik&amp;rsquo;s cube. Each ball on the Molecube is one of nine colors, and the goal is to reconfigure a shuffled Molecube so each of its faces has all nine colors on it.&lt;/p&gt;
 
 
@@ -120,7 +120,7 @@ Next time you emerge victorious from a tedious derivation, see if you can find a
     &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://www.recenttoys.com/wp-content/uploads/2019/11/meffert-molecube-twister-puzzle-1200x900.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable width=&#34;65%&#34; /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;p&gt;It turns out that solving the Molecube is a wonderful exercise in what computer scientists call &lt;em&gt;reduction&lt;/em&gt;, which involves transforming a problem we don&amp;rsquo;t know how to solve into one that we do, solving that version, and then translating the solution back into the original problem. In this post, I&amp;rsquo;ll give a reader-friendly primer on reduction, outline a reduction from the Molecube to the Rubik&amp;rsquo;s cube, and then wrap up by solving the Molecube with a standard Rubik&amp;rsquo;s cube algorithm.&lt;/p&gt;
-&lt;p&gt;If you&amp;rsquo;re interested in solving the Molecube yourself (and perhaps you&amp;rsquo;re here looking for hints), I&amp;rsquo;ve created a &lt;a href=&#34;https://jdaymude.github.io/files/molecube_worksheet.pdf&#34; target=&#34;_blank&#34;&gt;worksheet&lt;/a&gt; you can use and will point out when you should skip ahead in the post so as to avoid spoiling this delightful puzzle.&lt;/p&gt;
+&lt;p&gt;If you&amp;rsquo;re interested in solving the Molecube yourself (and perhaps you&amp;rsquo;re here looking for hints), I&amp;rsquo;ve created a &lt;a href=&#34;https://mhmmoshtaghi.github.io/files/molecube_worksheet.pdf&#34; target=&#34;_blank&#34;&gt;worksheet&lt;/a&gt; you can use and will point out when you should skip ahead in the post so as to avoid spoiling this delightful puzzle.&lt;/p&gt;
 &lt;h2 id=&#34;reduction-there-and-back-again&#34;&gt;Reduction: There and Back Again&lt;/h2&gt;
 &lt;p&gt;Say we have a problem $A$ that we don&amp;rsquo;t know how to solve and another problem $B$ that we do know how to solve. Said another way, we have an &amp;ldquo;algorithm&amp;rdquo; that can answer any question asked in the form of problem $B$, but we have no such algorithm for problem $A$ questions. The whole idea of reduction is to:&lt;/p&gt;
 &lt;ol&gt;
@@ -151,8 +151,8 @@ Next time you emerge victorious from a tedious derivation, see if you can find a
 &lt;li&gt;A block on the Rubik&amp;rsquo;s cube has 1–3 colors (one for each face it touches), while a ball on the Molecube is the same color on all &amp;ldquo;sides&amp;rdquo;.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;The similarities hint at a solution: though the goal configurations are different, the cubes&#39; structures and mechanics are the same. So if I find a goal configuration for the Molecube, I can use the Rubik&amp;rsquo;s cube algorithm to handle all the tricky rearranging involved in actually getting there.&lt;/p&gt;
-&lt;p&gt;If that&amp;rsquo;s enough of a framework for you to attempt your own solution, feel free to download the &lt;a href=&#34;https://jdaymude.github.io/files/molecube_worksheet.pdf&#34; target=&#34;_blank&#34;&gt;worksheet&lt;/a&gt; I&amp;rsquo;ve created to help you visualize the Molecube as a Sudoku puzzle (with colors instead of numbers). You&amp;rsquo;ll want to stop reading here and come back once you&amp;rsquo;ve completed a goal configuration or if you&amp;rsquo;re stuck and need hints.&lt;/p&gt;
-&lt;p&gt;Speaking of hints, the best way to unlock this tricky Sudoku-like color puzzle (getting one color on each face) is to study the Molecube&amp;rsquo;s colors and structure. I asked myself the following questions (which culminated in the table at the top of the &lt;a href=&#34;https://jdaymude.github.io/files/molecube_worksheet.pdf&#34; target=&#34;_blank&#34;&gt;worksheet&lt;/a&gt;):&lt;/p&gt;
+&lt;p&gt;If that&amp;rsquo;s enough of a framework for you to attempt your own solution, feel free to download the &lt;a href=&#34;https://mhmmoshtaghi.github.io/files/molecube_worksheet.pdf&#34; target=&#34;_blank&#34;&gt;worksheet&lt;/a&gt; I&amp;rsquo;ve created to help you visualize the Molecube as a Sudoku puzzle (with colors instead of numbers). You&amp;rsquo;ll want to stop reading here and come back once you&amp;rsquo;ve completed a goal configuration or if you&amp;rsquo;re stuck and need hints.&lt;/p&gt;
+&lt;p&gt;Speaking of hints, the best way to unlock this tricky Sudoku-like color puzzle (getting one color on each face) is to study the Molecube&amp;rsquo;s colors and structure. I asked myself the following questions (which culminated in the table at the top of the &lt;a href=&#34;https://mhmmoshtaghi.github.io/files/molecube_worksheet.pdf&#34; target=&#34;_blank&#34;&gt;worksheet&lt;/a&gt;):&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;How does the Molecube fit nine colors on a cube with 26 balls?&lt;/li&gt;
 &lt;li&gt;How are the colors distributed over the different types of balls (centers, corners, and edges)?&lt;/li&gt;
@@ -167,7 +167,7 @@ Next time you emerge victorious from a tedious derivation, see if you can find a
 &lt;/ul&gt;
 &lt;img src=&#34;rule1.png&#34; style=&#34;display: inline-block; width: 47%; margin-right: 2%&#34;/&gt;
 &lt;img src=&#34;rule2.png&#34; style=&#34;display: inline-block; width: 47%; margin-left: 2%&#34;/&gt;
-&lt;p&gt;Using these rules and some trial and error, I found the solution shown below, also detailed in the &lt;a href=&#34;https://jdaymude.github.io/files/molecube_worksheet_solved.pdf&#34; target=&#34;_blank&#34;&gt;worksheet solution&lt;/a&gt;. (An interesting aside: I don&amp;rsquo;t know if this is the only solution, but any solution works for the reduction). To relate the Molecube solution to the Rubik&amp;rsquo;s cube solution, we simply treat each 3×3 face on the Molecube as a &amp;ldquo;color&amp;rdquo; on the Rubik&amp;rsquo;s cube. (For example, the Black ball at the top-left of the White-center face becomes the Red-White-Green block on the Rubik&amp;rsquo;s cube). This completes the transformation step of the reduction.&lt;/p&gt;
+&lt;p&gt;Using these rules and some trial and error, I found the solution shown below, also detailed in the &lt;a href=&#34;https://mhmmoshtaghi.github.io/files/molecube_worksheet_solved.pdf&#34; target=&#34;_blank&#34;&gt;worksheet solution&lt;/a&gt;. (An interesting aside: I don&amp;rsquo;t know if this is the only solution, but any solution works for the reduction). To relate the Molecube solution to the Rubik&amp;rsquo;s cube solution, we simply treat each 3×3 face on the Molecube as a &amp;ldquo;color&amp;rdquo; on the Rubik&amp;rsquo;s cube. (For example, the Black ball at the top-left of the White-center face becomes the Red-White-Green block on the Rubik&amp;rsquo;s cube). This completes the transformation step of the reduction.&lt;/p&gt;
 &lt;img src=&#34;sudoku-soln.jpg&#34; style=&#34;display: inline-block; width: 47%; margin-right: 2%&#34;/&gt;
 &lt;img src=&#34;rubiks-mapping.jpg&#34; style=&#34;display: inline-block; width: 47%; margin-left: 2%&#34;/&gt;
 &lt;h2 id=&#34;rubik-ing-the-molecube&#34;&gt;Rubik-ing the Molecube&lt;/h2&gt;
@@ -204,12 +204,12 @@ Next time you emerge victorious from a tedious derivation, see if you can find a
 &lt;p&gt;There are a &lt;em&gt;lot&lt;/em&gt; of Rubik&amp;rsquo;s cube-inspired puzzles these days (for example, the &lt;a href=&#34;http://www.recenttoys.com/meffert-ghost-cube-twister-puzzle/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ghost Cube&lt;/a&gt; and the &lt;a href=&#34;http://www.recenttoys.com/meffert-pyraminx-twister-puzzle/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pyraminx&lt;/a&gt;). But solving the Molecube by reduction makes me wonder just how many of these new puzzles share a similar relationship to the original Rubik&amp;rsquo;s cube. If these relationships exist, we&amp;rsquo;d find that these new puzzles aren&amp;rsquo;t really new at all; they&amp;rsquo;re just an old puzzle we know how to solve, but with new names and nice packaging.&lt;/p&gt;
 </description>
     </item>
-    
+
     <item>
       <title>The Three Academics: A Joke</title>
-      <link>https://jdaymude.github.io/post/the-three-academics/</link>
+      <link>https://mhmmoshtaghi.github.io/post/the-three-academics/</link>
       <pubDate>Tue, 30 Jul 2019 09:15:00 -0700</pubDate>
-      <guid>https://jdaymude.github.io/post/the-three-academics/</guid>
+      <guid>https://mhmmoshtaghi.github.io/post/the-three-academics/</guid>
       <description>&lt;p&gt;Mathematicians really care about correctness. We believe unspoken assumptions are dangerous. We think vague language is confusing, and saying more or less than we mean is grounds for misunderstanding. We want terms to be clearly defined, and for points to follow logically, like links in an unbreakable chain of truth. But sometimes people say things that are completely reasonable and yet we still feel the need to set them straight:&lt;/p&gt;
 
 
@@ -231,15 +231,15 @@ Next time you emerge victorious from a tedious derivation, see if you can find a
                /post/the-three-academics/the-three-academics-lowres_huc2345e23d7c9b85a48da5ce8d8476a68_168428_4f17334aea9310bd9c7aa31446707618.png 400w,
                /post/the-three-academics/the-three-academics-lowres_huc2345e23d7c9b85a48da5ce8d8476a68_168428_141baf6ae9c3a125432b27dadfc380a3.png 760w,
                /post/the-three-academics/the-three-academics-lowres_huc2345e23d7c9b85a48da5ce8d8476a68_168428_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://jdaymude.github.io/post/the-three-academics/the-three-academics-lowres_huc2345e23d7c9b85a48da5ce8d8476a68_168428_4f17334aea9310bd9c7aa31446707618.png&#34;
+               src=&#34;https://mhmmoshtaghi.github.io/post/the-three-academics/the-three-academics-lowres_huc2345e23d7c9b85a48da5ce8d8476a68_168428_4f17334aea9310bd9c7aa31446707618.png&#34;
                width=&#34;587&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-&lt;p&gt;This is my first contribution to the world of webcomics, a medium I&amp;rsquo;ve long admired for being able to deliver witty, weird reflections on life in simple packages. Giving credit where it&amp;rsquo;s due, this &amp;ldquo;joke&amp;rdquo; is adapted from &lt;a href=&#34;https://www.goodreads.com/book/show/1618.The_Curious_Incident_of_the_Dog_in_the_Night_Time&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;The Curious Case of the Dog in the Night-Time&lt;/em&gt;&lt;/a&gt; by Mark Haddon and the art style takes after &lt;a href=&#34;https://www.instagram.com/poorlydrawnlines/?hl=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;poorlydrawnlines&lt;/a&gt; by Reza Farazmand. In living out &lt;a href=&#34;https://www.alabasterco.com/blogs/articles/all-that-is-made&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;generous making&lt;/a&gt;, this comic is available as a high resolution &lt;a href=&#34;https://jdaymude.github.io/uploads/the-three-academics-highres.png&#34; target=&#34;_blank&#34;&gt;PNG&lt;/a&gt; or &lt;a href=&#34;https://jdaymude.github.io/uploads/the-three-academics.pdf&#34; target=&#34;_blank&#34;&gt;PDF&lt;/a&gt; for you to use as you&amp;rsquo;d like. (Just keep my authorship in the corner intact, please!)&lt;/p&gt;
+&lt;p&gt;This is my first contribution to the world of webcomics, a medium I&amp;rsquo;ve long admired for being able to deliver witty, weird reflections on life in simple packages. Giving credit where it&amp;rsquo;s due, this &amp;ldquo;joke&amp;rdquo; is adapted from &lt;a href=&#34;https://www.goodreads.com/book/show/1618.The_Curious_Incident_of_the_Dog_in_the_Night_Time&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;The Curious Case of the Dog in the Night-Time&lt;/em&gt;&lt;/a&gt; by Mark Haddon and the art style takes after &lt;a href=&#34;https://www.instagram.com/poorlydrawnlines/?hl=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;poorlydrawnlines&lt;/a&gt; by Reza Farazmand. In living out &lt;a href=&#34;https://www.alabasterco.com/blogs/articles/all-that-is-made&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;generous making&lt;/a&gt;, this comic is available as a high resolution &lt;a href=&#34;https://mhmmoshtaghi.github.io/uploads/the-three-academics-highres.png&#34; target=&#34;_blank&#34;&gt;PNG&lt;/a&gt; or &lt;a href=&#34;https://mhmmoshtaghi.github.io/uploads/the-three-academics.pdf&#34; target=&#34;_blank&#34;&gt;PDF&lt;/a&gt; for you to use as you&amp;rsquo;d like. (Just keep my authorship in the corner intact, please!)&lt;/p&gt;
 &lt;p&gt;And hey, to the economists out there: if you&amp;rsquo;ve got any good roasts of mathematicians, I&amp;rsquo;m all ears.&lt;/p&gt;
 </description>
     </item>
-    
+
   </channel>
 </rss>

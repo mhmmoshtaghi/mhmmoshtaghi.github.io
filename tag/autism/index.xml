@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>autism | Joshua J. Daymude</title>
-    <link>https://jdaymude.github.io/tag/autism/</link>
-      <atom:link href="https://jdaymude.github.io/tag/autism/index.xml" rel="self" type="application/rss+xml" />
+    <title>autism | Mohammad Moshtaghi</title>
+    <link>https://mhmmoshtaghi.github.io/tag/autism/</link>
+      <atom:link href="https://mhmmoshtaghi.github.io/tag/autism/index.xml" rel="self" type="application/rss+xml" />
     <description>autism</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Joshua J. Daymude</copyright><lastBuildDate>Sat, 13 Jul 2019 12:00:00 -0700</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Mohammad Moshtaghi</copyright><lastBuildDate>Sat, 13 Jul 2019 12:00:00 -0700</lastBuildDate>
     <image>
-      <url>https://jdaymude.github.io/media/logo_hu1dc8deb1865675db905a286e8af9308b_16380_300x300_fit_lanczos_3.png</url>
+      <url>https://mhmmoshtaghi.github.io/media/logo_hu1dc8deb1865675db905a286e8af9308b_16380_300x300_fit_lanczos_3.png</url>
       <title>autism</title>
-      <link>https://jdaymude.github.io/tag/autism/</link>
+      <link>https://mhmmoshtaghi.github.io/tag/autism/</link>
     </image>
-    
+
     <item>
       <title>The Curious Incident of the Dog in the Night-Time</title>
-      <link>https://jdaymude.github.io/review/book-the-curious-incident-of-the-dog-in-the-nighttime/</link>
+      <link>https://mhmmoshtaghi.github.io/review/book-the-curious-incident-of-the-dog-in-the-nighttime/</link>
       <pubDate>Sat, 13 Jul 2019 12:00:00 -0700</pubDate>
-      <guid>https://jdaymude.github.io/review/book-the-curious-incident-of-the-dog-in-the-nighttime/</guid>
+      <guid>https://mhmmoshtaghi.github.io/review/book-the-curious-incident-of-the-dog-in-the-nighttime/</guid>
       <description>&lt;p&gt;This is a story about the weirdness of the world as understood by the mind of Christopher John Francis Boone, a boy with autism who lives with his father in a small town in the UK. Christopher hates crowds of people, vague questions, figurative language, being touched, and the color yellow (seeing four yellow cars in a row on his way to school makes it a &lt;strong&gt;Black Day&lt;/strong&gt;, on which he doesn&amp;rsquo;t eat anything). But he loves all things scientific, mathematical, and factual. When he gets lost, he physically performs the &lt;a href=&#34;https://en.wikipedia.org/wiki/Maze_solving_algorithm#Pledge_algorithm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pledge maze-solving algorithm&lt;/a&gt;. When he gets stressed, he solves quadratic equations in his head. And his best approximation for life is the prime numbers:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Prime numbers are what is left when you have taken all the patterns away. I think prime numbers are like life. They are very logical but you could never work out the rules, even if you spent all your time thinking about them.&lt;/p&gt;
@@ -31,6 +31,6 @@
 &lt;/blockquote&gt;
 </description>
     </item>
-    
+
   </channel>
 </rss>

@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>software | Joshua J. Daymude</title>
-    <link>https://jdaymude.github.io/category/software/</link>
-      <atom:link href="https://jdaymude.github.io/category/software/index.xml" rel="self" type="application/rss+xml" />
+    <title>software | Mohammad Moshtaghi</title>
+    <link>https://mhmmoshtaghi.github.io/category/software/</link>
+      <atom:link href="https://mhmmoshtaghi.github.io/category/software/index.xml" rel="self" type="application/rss+xml" />
     <description>software</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Joshua J. Daymude</copyright><lastBuildDate>Sat, 29 Jun 2019 22:21:00 -0700</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Mohammad Moshtaghi</copyright><lastBuildDate>Sat, 29 Jun 2019 22:21:00 -0700</lastBuildDate>
     <image>
-      <url>https://jdaymude.github.io/media/logo_hu1dc8deb1865675db905a286e8af9308b_16380_300x300_fit_lanczos_3.png</url>
+      <url>https://mhmmoshtaghi.github.io/media/logo_hu1dc8deb1865675db905a286e8af9308b_16380_300x300_fit_lanczos_3.png</url>
       <title>software</title>
-      <link>https://jdaymude.github.io/category/software/</link>
+      <link>https://mhmmoshtaghi.github.io/category/software/</link>
     </image>
-    
+
     <item>
       <title>SureChoice: Making Informed Insurance Decisions</title>
-      <link>https://jdaymude.github.io/post/surechoice/</link>
+      <link>https://mhmmoshtaghi.github.io/post/surechoice/</link>
       <pubDate>Sat, 29 Jun 2019 22:21:00 -0700</pubDate>
-      <guid>https://jdaymude.github.io/post/surechoice/</guid>
+      <guid>https://mhmmoshtaghi.github.io/post/surechoice/</guid>
       <description>&lt;p&gt;Health insurance is confusing. Last year, after Annie and I got married and she started a new job, she came home from orientation day with &lt;em&gt;the book&lt;/em&gt;. The book of health insurance plans, complete with overcomplicated tables of costs and percentages, interspersed with pictures of smiling people. I assume they&amp;rsquo;re smiling either to make me — the daunted reader — feel assured, or because they know they&amp;rsquo;d be screwed in the U.S. without health insurance. But that&amp;rsquo;s another issue.&lt;/p&gt;
 &lt;h2 id=&#34;choices-choices&#34;&gt;Choices, Choices&lt;/h2&gt;
 &lt;p&gt;The problem with displaying a health insurance plan using many tables is that it&amp;rsquo;s very difficult to make comparisons between plans. One plan might be more costly than another in certain categories but not in others. One might have a low deductible while the other has a high co-pay. Yet a third plan might have a very middling premium and comes with a Flexible Savings Account. Even if I know what all these terms mean and how they interact with one another, it&amp;rsquo;s still hard to discern which would be best for our family&amp;rsquo;s specific health needs. And, to top it all off, I can&amp;rsquo;t know if I&amp;rsquo;m getting a good deal since insurance rates are negotiated between insurance companies and employers, and there&amp;rsquo;s very little info available online to compare with.&lt;/p&gt;
@@ -41,7 +41,7 @@
                /post/surechoice/whiteboard_hu33e8a36b393a6ce43c03d74995a3870c_1598695_f92de1d39274d52eab009233a5251cc7.jpg 400w,
                /post/surechoice/whiteboard_hu33e8a36b393a6ce43c03d74995a3870c_1598695_fac9f84bfcf7f6286e25144152f470f9.jpg 760w,
                /post/surechoice/whiteboard_hu33e8a36b393a6ce43c03d74995a3870c_1598695_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
-               src=&#34;https://jdaymude.github.io/post/surechoice/whiteboard_hu33e8a36b393a6ce43c03d74995a3870c_1598695_f92de1d39274d52eab009233a5251cc7.jpg&#34;
+               src=&#34;https://mhmmoshtaghi.github.io/post/surechoice/whiteboard_hu33e8a36b393a6ce43c03d74995a3870c_1598695_f92de1d39274d52eab009233a5251cc7.jpg&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -99,7 +99,7 @@
                /post/surechoice/piecewise_hud87a9595c36e2e9b086233bf7e273ba5_88289_ed59721bec3e451d74a7c7adabbe595b.jpg 400w,
                /post/surechoice/piecewise_hud87a9595c36e2e9b086233bf7e273ba5_88289_29b3023b91b6cee84897f22e9f93c532.jpg 760w,
                /post/surechoice/piecewise_hud87a9595c36e2e9b086233bf7e273ba5_88289_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
-               src=&#34;https://jdaymude.github.io/post/surechoice/piecewise_hud87a9595c36e2e9b086233bf7e273ba5_88289_ed59721bec3e451d74a7c7adabbe595b.jpg&#34;
+               src=&#34;https://mhmmoshtaghi.github.io/post/surechoice/piecewise_hud87a9595c36e2e9b086233bf7e273ba5_88289_ed59721bec3e451d74a7c7adabbe595b.jpg&#34;
                width=&#34;760&#34;
                height=&#34;638&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -127,7 +127,7 @@
                /post/surechoice/featured_hud85f394eef86c84953f26804802d17b0_140831_61711b061c8e55c32016071282505406.png 400w,
                /post/surechoice/featured_hud85f394eef86c84953f26804802d17b0_140831_e43fee18d0a2bab560721d4ba8c3f192.png 760w,
                /post/surechoice/featured_hud85f394eef86c84953f26804802d17b0_140831_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://jdaymude.github.io/post/surechoice/featured_hud85f394eef86c84953f26804802d17b0_140831_61711b061c8e55c32016071282505406.png&#34;
+               src=&#34;https://mhmmoshtaghi.github.io/post/surechoice/featured_hud85f394eef86c84953f26804802d17b0_140831_61711b061c8e55c32016071282505406.png&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -136,6 +136,6 @@
 &lt;p&gt;I&amp;rsquo;ve recently cleaned up my code, ported it to Python, and put it up on &lt;a href=&#34;https://github.com/jdaymude/SureChoice&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt; for anyone to use (&amp;hellip;assuming you know how to run Python code). Hopefully it can help you like it helped us, and if you have the skills to turn this into something easier to use (a web app, etc.) go for it! We might not be able to change these confusing systems, but we can at least make them easier to navigate.&lt;/p&gt;
 </description>
     </item>
-    
+
   </channel>
 </rss>

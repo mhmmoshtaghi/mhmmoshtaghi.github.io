@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>calculus | Joshua J. Daymude</title>
-    <link>https://jdaymude.github.io/tag/calculus/</link>
-      <atom:link href="https://jdaymude.github.io/tag/calculus/index.xml" rel="self" type="application/rss+xml" />
+    <title>calculus | Mohammad Moshtaghi</title>
+    <link>https://mhmmoshtaghi.github.io/tag/calculus/</link>
+      <atom:link href="https://mhmmoshtaghi.github.io/tag/calculus/index.xml" rel="self" type="application/rss+xml" />
     <description>calculus</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Joshua J. Daymude</copyright><lastBuildDate>Tue, 30 Nov 2021 11:57:40 -0700</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Mohammad Moshtaghi</copyright><lastBuildDate>Tue, 30 Nov 2021 11:57:40 -0700</lastBuildDate>
     <image>
-      <url>https://jdaymude.github.io/media/logo_hu1dc8deb1865675db905a286e8af9308b_16380_300x300_fit_lanczos_3.png</url>
+      <url>https://mhmmoshtaghi.github.io/media/logo_hu1dc8deb1865675db905a286e8af9308b_16380_300x300_fit_lanczos_3.png</url>
       <title>calculus</title>
-      <link>https://jdaymude.github.io/tag/calculus/</link>
+      <link>https://mhmmoshtaghi.github.io/tag/calculus/</link>
     </image>
-    
+
     <item>
       <title>Elegant Derivatives of Large Products</title>
-      <link>https://jdaymude.github.io/post/elegant-derivatives-of-large-products/</link>
+      <link>https://mhmmoshtaghi.github.io/post/elegant-derivatives-of-large-products/</link>
       <pubDate>Tue, 30 Nov 2021 11:57:40 -0700</pubDate>
-      <guid>https://jdaymude.github.io/post/elegant-derivatives-of-large-products/</guid>
+      <guid>https://mhmmoshtaghi.github.io/post/elegant-derivatives-of-large-products/</guid>
       <description>&lt;p&gt;An ongoing research project on modeling computer security has thrown me back into calculus for the first time since my undergraduate differential equations course in 2014, which as an aside was the only college course that forced me to buy the professor&amp;rsquo;s custom textbook just to get access to homework problems.
 (I&amp;rsquo;m still mad about that.)
 Anyway, my research led me to take the derivative of an expression of the form:&lt;/p&gt;
@@ -28,7 +28,7 @@ It says to look at each $f_i$ term as $i$ goes from $1, 2, \ldots, n$ and multip
 &lt;p&gt;$$\frac{d}{dx} \prod_{i=1}^n f_i(x) = \prod_{i=1}^n f_i(x) \cdot \sum_{i=1}^n \frac{f_i&#39;(x)}{f_i(x)}$$&lt;/p&gt;
 &lt;p&gt;As is common in mathematics, there&amp;rsquo;s a direct but tedious way to get this answer and another more elegant way to get the same thing.
 I&amp;rsquo;m not the first to derive this solution, but I&amp;rsquo;m writing it up for posterity because I will inevitably forget this trick in a few days.
-A PDF of the two derivations without all the handholding I&amp;rsquo;m about to do is available &lt;a href=&#34;https://jdaymude.github.io/uploads/elegant-derivatives-of-large-products.pdf&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+A PDF of the two derivations without all the handholding I&amp;rsquo;m about to do is available &lt;a href=&#34;https://mhmmoshtaghi.github.io/uploads/elegant-derivatives-of-large-products.pdf&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;method-1-product-rule&#34;&gt;Method 1: Product Rule&lt;/h2&gt;
 &lt;p&gt;I had to sweep away years of mental cobwebs to remember the &lt;a href=&#34;https://en.wikipedia.org/wiki/Product_rule&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;product rule&lt;/a&gt; for derivatives.
 My expression is a product, after all, so why not start there?
@@ -88,12 +88,12 @@ The derivative of the natural logarithm is:&lt;/p&gt;
 &lt;h2 id=&#34;concluding-thoughts&#34;&gt;Concluding Thoughts&lt;/h2&gt;
 &lt;p&gt;Having initially stumbled upon Method 1, I was surprised that this derivative came out so beautifully in the end.
 Credit where it&amp;rsquo;s due: I adapted the elegant Method 2 from &lt;a href=&#34;https://www.quora.com/What-is-the-first-derivative-of-an-infinite-product-of-factors&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this post&lt;/a&gt; regarding infinite products.
-I have some technical notes at the end of the &lt;a href=&#34;https://jdaymude.github.io/uploads/elegant-derivatives-of-large-products.pdf&#34; target=&#34;_blank&#34;&gt;linked PDF&lt;/a&gt; about when Method 2 breaks down, though I believe Method 1 does not have any of these problems.&lt;/p&gt;
+I have some technical notes at the end of the &lt;a href=&#34;https://mhmmoshtaghi.github.io/uploads/elegant-derivatives-of-large-products.pdf&#34; target=&#34;_blank&#34;&gt;linked PDF&lt;/a&gt; about when Method 2 breaks down, though I believe Method 1 does not have any of these problems.&lt;/p&gt;
 &lt;p&gt;Hopefully this was fun (and if it wasn&amp;rsquo;t, I doubt you read this far 😉).
 This is one of many examples in mathematics of finding multiple solutions to the same problem and learning something different each time.
 Next time you emerge victorious from a tedious derivation, see if you can find a clever alternative!&lt;/p&gt;
 </description>
     </item>
-    
+
   </channel>
 </rss>

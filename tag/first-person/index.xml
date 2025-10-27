@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>first-person | Joshua J. Daymude</title>
-    <link>https://jdaymude.github.io/tag/first-person/</link>
-      <atom:link href="https://jdaymude.github.io/tag/first-person/index.xml" rel="self" type="application/rss+xml" />
+    <title>first-person | Mohammad Moshtaghi</title>
+    <link>https://mhmmoshtaghi.github.io/tag/first-person/</link>
+      <atom:link href="https://mhmmoshtaghi.github.io/tag/first-person/index.xml" rel="self" type="application/rss+xml" />
     <description>first-person</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Joshua J. Daymude</copyright><lastBuildDate>Sun, 22 May 2022 11:00:00 -0700</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Mohammad Moshtaghi</copyright><lastBuildDate>Sun, 22 May 2022 11:00:00 -0700</lastBuildDate>
     <image>
-      <url>https://jdaymude.github.io/media/logo_hu1dc8deb1865675db905a286e8af9308b_16380_300x300_fit_lanczos_3.png</url>
+      <url>https://mhmmoshtaghi.github.io/media/logo_hu1dc8deb1865675db905a286e8af9308b_16380_300x300_fit_lanczos_3.png</url>
       <title>first-person</title>
-      <link>https://jdaymude.github.io/tag/first-person/</link>
+      <link>https://mhmmoshtaghi.github.io/tag/first-person/</link>
     </image>
-    
+
     <item>
       <title>Bugsnax</title>
-      <link>https://jdaymude.github.io/review/videogame-bugsnax/</link>
+      <link>https://mhmmoshtaghi.github.io/review/videogame-bugsnax/</link>
       <pubDate>Sun, 22 May 2022 11:00:00 -0700</pubDate>
-      <guid>https://jdaymude.github.io/review/videogame-bugsnax/</guid>
+      <guid>https://mhmmoshtaghi.github.io/review/videogame-bugsnax/</guid>
       <description>&lt;p&gt;&lt;em&gt;Bugsnax&lt;/em&gt; tells the story of a ragtag band of grumpuses who followed the charismatic Aussie-explorer Elizabert Megafig to Snaktooth Island.
 On arrival, they discover bugsnax—part bug, part snack!—which quickly become their primary source of food and mystery.
 Only three things are certain: bugsnax are delicious, eating them changes body parts into the &amp;ldquo;-snax&amp;rdquo; part of bugsnax, and grumpuses are bizarrely okay with having curly fries for biceps and honeycombs for hands.
@@ -41,7 +41,7 @@ But just as eating too many bugsnax morphs grumpuses into foodie-Frankensteins, 
                /review/videogame-bugsnax/chandlo_hu67f43246ef3723f28ec9f658b8cbbbb9_11098875_bd59abff18c60c0e3dcec6295e350608.png 400w,
                /review/videogame-bugsnax/chandlo_hu67f43246ef3723f28ec9f658b8cbbbb9_11098875_22b7eec29dc315526d8ff4e63c32bd6a.png 760w,
                /review/videogame-bugsnax/chandlo_hu67f43246ef3723f28ec9f658b8cbbbb9_11098875_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://jdaymude.github.io/review/videogame-bugsnax/chandlo_hu67f43246ef3723f28ec9f658b8cbbbb9_11098875_bd59abff18c60c0e3dcec6295e350608.png&#34;
+               src=&#34;https://mhmmoshtaghi.github.io/review/videogame-bugsnax/chandlo_hu67f43246ef3723f28ec9f658b8cbbbb9_11098875_bd59abff18c60c0e3dcec6295e350608.png&#34;
                width=&#34;760&#34;
                height=&#34;428&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -82,7 +82,7 @@ Figuring out these idiosyncrasies for the first time is good fun— repeating th
                /review/videogame-bugsnax/party_hub288d71f368e3316dfa6d690adc1e376_10983763_094bcfa548c58507675cf3e4910ab6aa.png 400w,
                /review/videogame-bugsnax/party_hub288d71f368e3316dfa6d690adc1e376_10983763_feca1f4a5eefd60b8a983c2f196e6745.png 760w,
                /review/videogame-bugsnax/party_hub288d71f368e3316dfa6d690adc1e376_10983763_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://jdaymude.github.io/review/videogame-bugsnax/party_hub288d71f368e3316dfa6d690adc1e376_10983763_094bcfa548c58507675cf3e4910ab6aa.png&#34;
+               src=&#34;https://mhmmoshtaghi.github.io/review/videogame-bugsnax/party_hub288d71f368e3316dfa6d690adc1e376_10983763_094bcfa548c58507675cf3e4910ab6aa.png&#34;
                width=&#34;760&#34;
                height=&#34;428&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -114,7 +114,7 @@ And don&amp;rsquo;t even get me started on Wiggle.&lt;/p&gt;
                /review/videogame-bugsnax/wiggle_hue586f5bdd12c1608f3a4e6947390d787_8826702_47d0ac2217c684824986cb63d2101bbb.png 400w,
                /review/videogame-bugsnax/wiggle_hue586f5bdd12c1608f3a4e6947390d787_8826702_2daff6c7bfebc6d36cd71123aa878bba.png 760w,
                /review/videogame-bugsnax/wiggle_hue586f5bdd12c1608f3a4e6947390d787_8826702_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://jdaymude.github.io/review/videogame-bugsnax/wiggle_hue586f5bdd12c1608f3a4e6947390d787_8826702_47d0ac2217c684824986cb63d2101bbb.png&#34;
+               src=&#34;https://mhmmoshtaghi.github.io/review/videogame-bugsnax/wiggle_hue586f5bdd12c1608f3a4e6947390d787_8826702_47d0ac2217c684824986cb63d2101bbb.png&#34;
                width=&#34;760&#34;
                height=&#34;428&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -125,12 +125,12 @@ It may not have been the finest of dining, but would it satisfy at a family dinn
 Hopefully so.&lt;/p&gt;
 </description>
     </item>
-    
+
     <item>
       <title>Outer Wilds</title>
-      <link>https://jdaymude.github.io/review/videogame-outer-wilds/</link>
+      <link>https://mhmmoshtaghi.github.io/review/videogame-outer-wilds/</link>
       <pubDate>Sat, 24 Jul 2021 12:00:00 -0700</pubDate>
-      <guid>https://jdaymude.github.io/review/videogame-outer-wilds/</guid>
+      <guid>https://mhmmoshtaghi.github.io/review/videogame-outer-wilds/</guid>
       <description>&lt;p&gt;Against the backdrop of a diorama solar system in a diorama universe, &lt;em&gt;Outer Wilds&lt;/em&gt; plunges forward into an ambitious adventure of wonder and exploration.
 You play as the sixth member of your species to venture out into space — and the first to do so with a translation device for the language of the Nomai, an ancient species that mysteriously disappeared a long time ago.
 Remnants of their civilization are scattered all around your solar system, like bread crumbs in a nonlinear trail, inviting you into their mystery.
@@ -157,7 +157,7 @@ What&amp;rsquo;s it all for?&lt;/p&gt;
                /review/videogame-outer-wilds/nomaischematics_hu850032374c8e22d7c3a6ee5181beb27f_1853793_8795a9b84ee65d8c63f55a17d07dad0a.png 400w,
                /review/videogame-outer-wilds/nomaischematics_hu850032374c8e22d7c3a6ee5181beb27f_1853793_eab8e4662d89d5fec492cf03b31eba11.png 760w,
                /review/videogame-outer-wilds/nomaischematics_hu850032374c8e22d7c3a6ee5181beb27f_1853793_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://jdaymude.github.io/review/videogame-outer-wilds/nomaischematics_hu850032374c8e22d7c3a6ee5181beb27f_1853793_8795a9b84ee65d8c63f55a17d07dad0a.png&#34;
+               src=&#34;https://mhmmoshtaghi.github.io/review/videogame-outer-wilds/nomaischematics_hu850032374c8e22d7c3a6ee5181beb27f_1853793_8795a9b84ee65d8c63f55a17d07dad0a.png&#34;
                width=&#34;760&#34;
                height=&#34;428&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -192,7 +192,7 @@ Extremely bizarre things happen on a regular basis — like getting launched fro
                /review/videogame-outer-wilds/sunandembertwin_hu764ad56c509280e7a5ecd0d1fc05eb09_2114230_a8afe67fe00801f02d0ff55b479a278c.png 400w,
                /review/videogame-outer-wilds/sunandembertwin_hu764ad56c509280e7a5ecd0d1fc05eb09_2114230_51fc0110492a35c9f5a77dc2edef0c9e.png 760w,
                /review/videogame-outer-wilds/sunandembertwin_hu764ad56c509280e7a5ecd0d1fc05eb09_2114230_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://jdaymude.github.io/review/videogame-outer-wilds/sunandembertwin_hu764ad56c509280e7a5ecd0d1fc05eb09_2114230_a8afe67fe00801f02d0ff55b479a278c.png&#34;
+               src=&#34;https://mhmmoshtaghi.github.io/review/videogame-outer-wilds/sunandembertwin_hu764ad56c509280e7a5ecd0d1fc05eb09_2114230_a8afe67fe00801f02d0ff55b479a278c.png&#34;
                width=&#34;760&#34;
                height=&#34;428&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -223,7 +223,7 @@ Suffice it to say, this is my favorite game soundtrack, and I&amp;rsquo;ve liste
                /review/videogame-outer-wilds/opening_hue4e580f276037637a8acdceda0b8789c_2447327_79503bc24e7b47e8aa5fd3e0b1fc8e85.png 400w,
                /review/videogame-outer-wilds/opening_hue4e580f276037637a8acdceda0b8789c_2447327_ae0545433c5c675d0e15562a2e8e95ac.png 760w,
                /review/videogame-outer-wilds/opening_hue4e580f276037637a8acdceda0b8789c_2447327_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://jdaymude.github.io/review/videogame-outer-wilds/opening_hue4e580f276037637a8acdceda0b8789c_2447327_79503bc24e7b47e8aa5fd3e0b1fc8e85.png&#34;
+               src=&#34;https://mhmmoshtaghi.github.io/review/videogame-outer-wilds/opening_hue4e580f276037637a8acdceda0b8789c_2447327_79503bc24e7b47e8aa5fd3e0b1fc8e85.png&#34;
                width=&#34;760&#34;
                height=&#34;428&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -239,12 +239,12 @@ But unless they are collapsed by an observer, they will never be more than possi
 &lt;/blockquote&gt;
 </description>
     </item>
-    
+
     <item>
       <title>The Outer Worlds</title>
-      <link>https://jdaymude.github.io/review/videogame-the-outer-worlds/</link>
+      <link>https://mhmmoshtaghi.github.io/review/videogame-the-outer-worlds/</link>
       <pubDate>Fri, 17 Jan 2020 12:00:00 -0700</pubDate>
-      <guid>https://jdaymude.github.io/review/videogame-the-outer-worlds/</guid>
+      <guid>https://mhmmoshtaghi.github.io/review/videogame-the-outer-worlds/</guid>
       <description>&lt;p&gt;&lt;em&gt;The Outer Worlds&lt;/em&gt; promised to let you, &amp;ldquo;the unknown variable,&amp;rdquo; truly role-play in the wild world of Halycon. Want to be the hero and save the world? Sure, who doesn&amp;rsquo;t? Want to steer your jaded friends towards self-awareness and hope? Just might work. Want to murder everyone on sight, including major companions and story-critical characters? Have a great time, you monster. Streamers have basically tried it all, and the game does indeed deliver. I particularly enjoyed embodying some kind of scientist/intellectual with an aversion for violence and a deep need to screw some corporate tools over.&lt;/p&gt;
 
 
@@ -266,7 +266,7 @@ But unless they are collapsed by an observer, they will never be more than possi
                /review/videogame-the-outer-worlds/edgewaternight_hua95115548d781dc70255b1e6927bd015_2440629_0e3e112676b707e1ec91757638b3e391.png 400w,
                /review/videogame-the-outer-worlds/edgewaternight_hua95115548d781dc70255b1e6927bd015_2440629_1da8e0ff2167d5242fb7ef445a610fdd.png 760w,
                /review/videogame-the-outer-worlds/edgewaternight_hua95115548d781dc70255b1e6927bd015_2440629_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://jdaymude.github.io/review/videogame-the-outer-worlds/edgewaternight_hua95115548d781dc70255b1e6927bd015_2440629_0e3e112676b707e1ec91757638b3e391.png&#34;
+               src=&#34;https://mhmmoshtaghi.github.io/review/videogame-the-outer-worlds/edgewaternight_hua95115548d781dc70255b1e6927bd015_2440629_0e3e112676b707e1ec91757638b3e391.png&#34;
                width=&#34;760&#34;
                height=&#34;428&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -293,7 +293,7 @@ But unless they are collapsed by an observer, they will never be more than possi
                /review/videogame-the-outer-worlds/lavaflows_hu69c586f845e63269f64449ba8b24ebf9_2669693_873668b5252ba8bd609e1a31ad17cb04.png 400w,
                /review/videogame-the-outer-worlds/lavaflows_hu69c586f845e63269f64449ba8b24ebf9_2669693_62873ae67f596a5eca1ebcbb22f09199.png 760w,
                /review/videogame-the-outer-worlds/lavaflows_hu69c586f845e63269f64449ba8b24ebf9_2669693_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://jdaymude.github.io/review/videogame-the-outer-worlds/lavaflows_hu69c586f845e63269f64449ba8b24ebf9_2669693_873668b5252ba8bd609e1a31ad17cb04.png&#34;
+               src=&#34;https://mhmmoshtaghi.github.io/review/videogame-the-outer-worlds/lavaflows_hu69c586f845e63269f64449ba8b24ebf9_2669693_873668b5252ba8bd609e1a31ad17cb04.png&#34;
                width=&#34;760&#34;
                height=&#34;428&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -319,7 +319,7 @@ But unless they are collapsed by an observer, they will never be more than possi
                /review/videogame-the-outer-worlds/scylla_hu224bb35c97e260bf23d205f44c29c329_2845510_8b45913c3f9764b211c65f0e1649118f.png 400w,
                /review/videogame-the-outer-worlds/scylla_hu224bb35c97e260bf23d205f44c29c329_2845510_f93bfc4e294cac2ad0ac03f0691a1781.png 760w,
                /review/videogame-the-outer-worlds/scylla_hu224bb35c97e260bf23d205f44c29c329_2845510_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://jdaymude.github.io/review/videogame-the-outer-worlds/scylla_hu224bb35c97e260bf23d205f44c29c329_2845510_8b45913c3f9764b211c65f0e1649118f.png&#34;
+               src=&#34;https://mhmmoshtaghi.github.io/review/videogame-the-outer-worlds/scylla_hu224bb35c97e260bf23d205f44c29c329_2845510_8b45913c3f9764b211c65f0e1649118f.png&#34;
                width=&#34;760&#34;
                height=&#34;428&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -333,12 +333,12 @@ But unless they are collapsed by an observer, they will never be more than possi
 &lt;/ul&gt;
 </description>
     </item>
-    
+
     <item>
       <title>We Were Here</title>
-      <link>https://jdaymude.github.io/review/videogame-we-were-here/</link>
+      <link>https://mhmmoshtaghi.github.io/review/videogame-we-were-here/</link>
       <pubDate>Sun, 16 Jul 2017 12:00:00 -0700</pubDate>
-      <guid>https://jdaymude.github.io/review/videogame-we-were-here/</guid>
+      <guid>https://mhmmoshtaghi.github.io/review/videogame-we-were-here/</guid>
       <description>&lt;p&gt;In this two-player, cooperative, escape-the-room-like adventure, players take the roles of the Librarian and the Explorer. The two begin the game stranded in an unspecified snowy region, and upon discovering and entering a foreboding castle, they are knocked out and placed in separate rooms, connected only by a pair of walkie-talkies. The Librarian is primarily responsible for supplying information to the Explorer, who in turn navigates deadly traps and dimly lit mazes to reach new areas. By piecing together visual clues from both players&#39; environments, puzzles are solved cooperatively, opening doors to new challenges.&lt;/p&gt;
 &lt;p&gt;For a free-to-play game, this was a surprisingly enjoyable and well-constructed experience (albeit a relatively short one, with an imperfect run taking roughly two hours). The crux of the gameplay rests on using voice-only communication to navigate inherently visual puzzles, which are fairly high-quality. Each puzzle balances complexity with difficulty in a pleasing way, and remains sufficiently independent of the rest, ensuring that each sequence is fresh and surprising. Even so, the overall experience was cohesive, rewarding attention to detail even when the details weren&amp;rsquo;t immediately relevant. Making the roles unique gives the game replay value as well; even though both players know the puzzle solutions after one successful run, switching roles gives a satisfying &amp;ldquo;ah, that&amp;rsquo;s what you were confused about!&amp;rdquo; kind of feeling.&lt;/p&gt;
 &lt;p&gt;The graphics are lacking in polish, but this is hardly a complaint given the game is free. In some senses, the lower quality textures add to the experience; I don&amp;rsquo;t really like horror games, but the use of creepy atmospheric elements and the ever-present sense that my partner was in danger was enough to create the right amount of suspense.&lt;/p&gt;
@@ -348,6 +348,6 @@ But unless they are collapsed by an observer, they will never be more than possi
 &lt;p&gt;As of Update Five, the introductory video has audio buffering issues. The chess puzzle has a couple bugs: the librarian often drops the film reel for no reason, and it is possible to get the film reel to play its spinning animation on the table itself if the Explorer applies the power too early.&lt;/p&gt;
 </description>
     </item>
-    
+
   </channel>
 </rss>

@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>fable | Joshua J. Daymude</title>
-    <link>https://jdaymude.github.io/tag/fable/</link>
-      <atom:link href="https://jdaymude.github.io/tag/fable/index.xml" rel="self" type="application/rss+xml" />
+    <title>fable | Mohammad Moshtaghi</title>
+    <link>https://mhmmoshtaghi.github.io/tag/fable/</link>
+      <atom:link href="https://mhmmoshtaghi.github.io/tag/fable/index.xml" rel="self" type="application/rss+xml" />
     <description>fable</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Joshua J. Daymude</copyright><lastBuildDate>Fri, 04 Jan 2019 12:00:00 -0700</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Mohammad Moshtaghi</copyright><lastBuildDate>Fri, 04 Jan 2019 12:00:00 -0700</lastBuildDate>
     <image>
-      <url>https://jdaymude.github.io/media/logo_hu1dc8deb1865675db905a286e8af9308b_16380_300x300_fit_lanczos_3.png</url>
+      <url>https://mhmmoshtaghi.github.io/media/logo_hu1dc8deb1865675db905a286e8af9308b_16380_300x300_fit_lanczos_3.png</url>
       <title>fable</title>
-      <link>https://jdaymude.github.io/tag/fable/</link>
+      <link>https://mhmmoshtaghi.github.io/tag/fable/</link>
     </image>
-    
+
     <item>
       <title>The Phantom Tollbooth</title>
-      <link>https://jdaymude.github.io/review/book-the-phantom-tollbooth/</link>
+      <link>https://mhmmoshtaghi.github.io/review/book-the-phantom-tollbooth/</link>
       <pubDate>Fri, 04 Jan 2019 12:00:00 -0700</pubDate>
-      <guid>https://jdaymude.github.io/review/book-the-phantom-tollbooth/</guid>
+      <guid>https://mhmmoshtaghi.github.io/review/book-the-phantom-tollbooth/</guid>
       <description>&lt;p&gt;&lt;em&gt;The Phantom Tollbooth&lt;/em&gt; is a fable in every chapter, clever wit in every paragraph, and careful thought in every sentence. It is both a treatise on critical thinking and a tender story of a young boy&amp;rsquo;s adventure. It is just as much an epic struggle between Wisdom and Ignorance as it is a playful comedy where the first character to cry is a watchdog named Tock lamenting the fact that he goes &lt;em&gt;ticktickticktick&lt;/em&gt; while his brother Tick goes &lt;em&gt;tocktocktocktock&lt;/em&gt;. Perhaps most importantly, its excellence is a testament to the fruits of curious wonder and deep wisdom, two values that its fantastical characters try very hard to get Milo — the protagonist — to pursue.&lt;/p&gt;
 &lt;p&gt;Every word is an absolute joy to read. Norton Juster achieves the kind of simplicity that comes at the cost of both knowing what exactly one wants to write and cutting away all superfluous material that does not achieve that goal. The entire novel is written in everyday prose fitting for a bedtime story, and yet contains layers of subtlety that should give the reading adult pause. Juster masterfully mixes serious lessons (that must not be obvious even to many adults, seeing how our world is) with hysterical moments of relief, all in a stream of whimsical adventure. Take, for example, the following scene:&lt;/p&gt;
 &lt;blockquote&gt;
@@ -39,6 +39,6 @@
 &lt;/blockquote&gt;
 </description>
     </item>
-    
+
   </channel>
 </rss>

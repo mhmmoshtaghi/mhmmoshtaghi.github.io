@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>covid-19 | Joshua J. Daymude</title>
-    <link>https://jdaymude.github.io/tag/covid-19/</link>
-      <atom:link href="https://jdaymude.github.io/tag/covid-19/index.xml" rel="self" type="application/rss+xml" />
+    <title>covid-19 | Mohammad Moshtaghi</title>
+    <link>https://mhmmoshtaghi.github.io/tag/covid-19/</link>
+      <atom:link href="https://mhmmoshtaghi.github.io/tag/covid-19/index.xml" rel="self" type="application/rss+xml" />
     <description>covid-19</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Joshua J. Daymude</copyright><lastBuildDate>Thu, 09 Jul 2020 14:04:44 -0700</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Mohammad Moshtaghi</copyright><lastBuildDate>Thu, 09 Jul 2020 14:04:44 -0700</lastBuildDate>
     <image>
-      <url>https://jdaymude.github.io/media/logo_hu1dc8deb1865675db905a286e8af9308b_16380_300x300_fit_lanczos_3.png</url>
+      <url>https://mhmmoshtaghi.github.io/media/logo_hu1dc8deb1865675db905a286e8af9308b_16380_300x300_fit_lanczos_3.png</url>
       <title>covid-19</title>
-      <link>https://jdaymude.github.io/tag/covid-19/</link>
+      <link>https://mhmmoshtaghi.github.io/tag/covid-19/</link>
     </image>
-    
+
     <item>
       <title>Pool Testing is k-ary Search for COVID-19</title>
-      <link>https://jdaymude.github.io/post/pool-testing-is-kary-search/</link>
+      <link>https://mhmmoshtaghi.github.io/post/pool-testing-is-kary-search/</link>
       <pubDate>Thu, 09 Jul 2020 14:04:44 -0700</pubDate>
-      <guid>https://jdaymude.github.io/post/pool-testing-is-kary-search/</guid>
+      <guid>https://mhmmoshtaghi.github.io/post/pool-testing-is-kary-search/</guid>
       <description>&lt;p&gt;I&amp;rsquo;ve seen a handful of articles in the last week about &lt;em&gt;pool testing&lt;/em&gt; and &lt;em&gt;sample pooling&lt;/em&gt; for COVID-19.
 The gist of this technique is simple: to make our limited supply of test kits (reagents) stretch farther, mix several people&amp;rsquo;s samples together and then test the mixture for COVID-19.
 Ideally, if the test comes back negative, everyone in that &amp;ldquo;sample pool&amp;rdquo; could be declared COVID-free using just one test.
@@ -76,7 +76,7 @@ Just like our helpful friend telling us which half of the page Waldo isn&amp;rsq
                /post/pool-testing-is-kary-search/pooltest_hub8d5ccf727d58e61b91e4b04452d5a8c_507898_d893c5c675f1faec887bbbea523952bc.png 400w,
                /post/pool-testing-is-kary-search/pooltest_hub8d5ccf727d58e61b91e4b04452d5a8c_507898_a6fd6dae15544600ded74901ce065f67.png 760w,
                /post/pool-testing-is-kary-search/pooltest_hub8d5ccf727d58e61b91e4b04452d5a8c_507898_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://jdaymude.github.io/post/pool-testing-is-kary-search/pooltest_hub8d5ccf727d58e61b91e4b04452d5a8c_507898_d893c5c675f1faec887bbbea523952bc.png&#34;
+               src=&#34;https://mhmmoshtaghi.github.io/post/pool-testing-is-kary-search/pooltest_hub8d5ccf727d58e61b91e4b04452d5a8c_507898_d893c5c675f1faec887bbbea523952bc.png&#34;
                width=&#34;760&#34;
                height=&#34;353&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -161,7 +161,7 @@ $$\begin{align*} (n/p)(1 - (1 - r)^p) &amp;amp;&amp;lt; (n/p)(1 - 1/p) \\ r &amp
                /post/pool-testing-is-kary-search/efficientplot_hubbab132a171178a63e8c403eaeaedda1_112102_95bee3cac31fd27c744668969647b2bf.png 400w,
                /post/pool-testing-is-kary-search/efficientplot_hubbab132a171178a63e8c403eaeaedda1_112102_bc08555fd46905af4750f157cfdc0c66.png 760w,
                /post/pool-testing-is-kary-search/efficientplot_hubbab132a171178a63e8c403eaeaedda1_112102_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://jdaymude.github.io/post/pool-testing-is-kary-search/efficientplot_hubbab132a171178a63e8c403eaeaedda1_112102_95bee3cac31fd27c744668969647b2bf.png&#34;
+               src=&#34;https://mhmmoshtaghi.github.io/post/pool-testing-is-kary-search/efficientplot_hubbab132a171178a63e8c403eaeaedda1_112102_95bee3cac31fd27c744668969647b2bf.png&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -198,7 +198,7 @@ The following plot shows this equation for different pool sizes $p$ as a functio
                /post/pool-testing-is-kary-search/savingsplot_hu0b73f0fe4a2adce77317aafa0603f92a_185079_8566ec12e810fe007a61095c9a21c56e.png 400w,
                /post/pool-testing-is-kary-search/savingsplot_hu0b73f0fe4a2adce77317aafa0603f92a_185079_f3c789c9a66a37ba6b4ac7c12ab8f208.png 760w,
                /post/pool-testing-is-kary-search/savingsplot_hu0b73f0fe4a2adce77317aafa0603f92a_185079_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://jdaymude.github.io/post/pool-testing-is-kary-search/savingsplot_hu0b73f0fe4a2adce77317aafa0603f92a_185079_8566ec12e810fe007a61095c9a21c56e.png&#34;
+               src=&#34;https://mhmmoshtaghi.github.io/post/pool-testing-is-kary-search/savingsplot_hu0b73f0fe4a2adce77317aafa0603f92a_185079_8566ec12e810fe007a61095c9a21c56e.png&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -254,6 +254,6 @@ Perhaps if this technique were widely used, we would all be that much closer to 
 &lt;/section&gt;
 </description>
     </item>
-    
+
   </channel>
 </rss>

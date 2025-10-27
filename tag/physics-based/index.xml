@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>physics-based | Joshua J. Daymude</title>
-    <link>https://jdaymude.github.io/tag/physics-based/</link>
-      <atom:link href="https://jdaymude.github.io/tag/physics-based/index.xml" rel="self" type="application/rss+xml" />
+    <title>physics-based | Mohammad Moshtaghi</title>
+    <link>https://mhmmoshtaghi.github.io/tag/physics-based/</link>
+      <atom:link href="https://mhmmoshtaghi.github.io/tag/physics-based/index.xml" rel="self" type="application/rss+xml" />
     <description>physics-based</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Joshua J. Daymude</copyright><lastBuildDate>Mon, 23 May 2022 12:00:00 -0700</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2023 Mohammad Moshtaghi</copyright><lastBuildDate>Mon, 23 May 2022 12:00:00 -0700</lastBuildDate>
     <image>
-      <url>https://jdaymude.github.io/media/logo_hu1dc8deb1865675db905a286e8af9308b_16380_300x300_fit_lanczos_3.png</url>
+      <url>https://mhmmoshtaghi.github.io/media/logo_hu1dc8deb1865675db905a286e8af9308b_16380_300x300_fit_lanczos_3.png</url>
       <title>physics-based</title>
-      <link>https://jdaymude.github.io/tag/physics-based/</link>
+      <link>https://mhmmoshtaghi.github.io/tag/physics-based/</link>
     </image>
-    
+
     <item>
       <title>Donut County</title>
-      <link>https://jdaymude.github.io/review/videogame-donut-county/</link>
+      <link>https://mhmmoshtaghi.github.io/review/videogame-donut-county/</link>
       <pubDate>Mon, 23 May 2022 12:00:00 -0700</pubDate>
-      <guid>https://jdaymude.github.io/review/videogame-donut-county/</guid>
+      <guid>https://mhmmoshtaghi.github.io/review/videogame-donut-county/</guid>
       <description>&lt;p&gt;This will be a short and sweet review for a short and sweet game.
 &lt;em&gt;Donut County&lt;/em&gt; is a delightful and comical must-play in which you control as a hole in the ground that&amp;rsquo;s gobbling everything up.
 Each hole starts small—fitting only a soda can or a pebble—but grows with each object consumed.
@@ -42,7 +42,7 @@ Clear the area of any and all objects, and you win!&lt;/p&gt;
                /review/videogame-donut-county/lagoon_huae14f9948a41b49dd39a8cc50d1a38b6_750641_31dabf6b3dfdd7d61aacaab82c757cb5.png 400w,
                /review/videogame-donut-county/lagoon_huae14f9948a41b49dd39a8cc50d1a38b6_750641_45439be4bc3c9a534bf8e0059212cc9a.png 760w,
                /review/videogame-donut-county/lagoon_huae14f9948a41b49dd39a8cc50d1a38b6_750641_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://jdaymude.github.io/review/videogame-donut-county/lagoon_huae14f9948a41b49dd39a8cc50d1a38b6_750641_31dabf6b3dfdd7d61aacaab82c757cb5.png&#34;
+               src=&#34;https://mhmmoshtaghi.github.io/review/videogame-donut-county/lagoon_huae14f9948a41b49dd39a8cc50d1a38b6_750641_31dabf6b3dfdd7d61aacaab82c757cb5.png&#34;
                width=&#34;760&#34;
                height=&#34;428&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -72,7 +72,7 @@ Our consciences get to take a back seat to hilarity on this colorful and minimal
                /review/videogame-donut-county/roaches_hu37bbe4c4fb81050bf2f28d15d1198476_712798_c902565c223c6b5e5a63d7f700f72415.png 400w,
                /review/videogame-donut-county/roaches_hu37bbe4c4fb81050bf2f28d15d1198476_712798_7c9abf128bf1b740b1dc286b99f8d560.png 760w,
                /review/videogame-donut-county/roaches_hu37bbe4c4fb81050bf2f28d15d1198476_712798_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://jdaymude.github.io/review/videogame-donut-county/roaches_hu37bbe4c4fb81050bf2f28d15d1198476_712798_c902565c223c6b5e5a63d7f700f72415.png&#34;
+               src=&#34;https://mhmmoshtaghi.github.io/review/videogame-donut-county/roaches_hu37bbe4c4fb81050bf2f28d15d1198476_712798_c902565c223c6b5e5a63d7f700f72415.png&#34;
                width=&#34;760&#34;
                height=&#34;428&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -81,6 +81,6 @@ Our consciences get to take a back seat to hilarity on this colorful and minimal
 If you need an afternoon pick-me-up or a palette cleanser between longer games, &lt;em&gt;Donut County&lt;/em&gt; won&amp;rsquo;t fail to delight.&lt;/p&gt;
 </description>
     </item>
-    
+
   </channel>
 </rss>
